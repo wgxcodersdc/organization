@@ -16,6 +16,8 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage)
 
+((Actually maybe we will just follow [CodePath](http://guides.codepath.com/android)))
+
 ===
 ===
 
