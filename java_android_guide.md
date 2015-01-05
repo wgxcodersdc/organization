@@ -57,6 +57,7 @@ We have also compiled a lot of resources that may or may not be useful for learn
 * [How to Program for Beginners](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)
 * [Beginner Coursera](https://www.coursera.org/course/androidapps101)
 * [Lyndia.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
+* [University of Reading Beginner Tutorial](https://www.futurelearn.com/courses/begin-programming)
 
 
 **ANDROID BOOKS**
