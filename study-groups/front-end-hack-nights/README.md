@@ -8,9 +8,9 @@ There's always at least one mentor/leader present to help you with best practice
 
 All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page.
 
-Why Javascript??
+## Why Javascript??
 
-“JavaScript is a programming language that helps make a web page interactive. When you view a slideshow or get annoying pop-up ads, that’s JavaScript. If you see your Facebook Timeline update or Google autocomplete a search term, that’s JavaScript. When most anything changes on a page without you clicking a link – that’s JavaScript!” - [Skillcrush] (http://skillcrush.com/category/blog/resources/tech-term/)
+“JavaScript is a programming language that helps make a web page interactive. When you view a slideshow or get annoying pop-up ads, that’s JavaScript. If you see your Facebook Timeline update or Google autocomplete a search term, that’s JavaScript.” -[Skillcrush] (http://skillcrush.com/category/blog/resources/tech-term/)
 
 ![alt tag](http://www.troll.me/images/bill-oreilly/fuck-it-well-do-it-all-in-javascript.jpg)
 
