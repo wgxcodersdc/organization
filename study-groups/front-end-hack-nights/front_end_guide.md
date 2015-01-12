@@ -1,39 +1,22 @@
 # Women Who Code DC Front End Resources
 
-## Suggested Projects
 
-## Beginner HTML/CSS
-* Recreate the Google homepage using HTML/CSS
-* Recreate a dummy-content page using another site's DOM structure (shall help understand tags and DOM elements)
-* One-page personal resume site
+## Beginner - HTML/CSS
 
-## Beginner JavaScript
-* A (real-time) display clock.
-* Simple arithmetic (+,-,*,/) calculator
-* Javascript forms
-* [JavaScript Practice excercises] (http://www.w3resource.com/javascript-exercises/)
-* Follow [eloquentjavascript] (http://eloquentjavascript.net/) book and post challenge solutions on Github
-* General HTML/CSS/JS [excercises] (http://www.teaching-materials.org/exercises/)
-
-## Intermediate
-* Javascript Tetris game
-* Image/Video/Song (media) uploader
-* Weather app + Google maps integration (best route suggestion kinda thing)
-* Mapbox applications
-* Whats happening around! Kind of like a mashup of yelp + meetup + events
-* Integration of twitter+instagram and mapbox
-* Mobile apps using PhoneGap/Cordova
-
-## Suggested Learning Tools
-
-### Beginner
-### HTML/CSS
+#### Learning Tools
 * [CodeAcademy] (http://www.codecademy.com/tracks/web)
 * [Dash] (https://dash.generalassemb.ly/)
 * [Udemy Learn HTML 5] (https://www.udemy.com/html5-html-html-html5/?dtcode=efh1xfL29IgV) 
 * [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 
-### Javascript
+#### Suggested Projects
+* Recreate the Google homepage using HTML/CSS
+* Recreate a dummy-content page using another site's DOM structure (shall help understand tags and DOM elements)
+* One-page personal resume site
+
+## Beginner - JavaScript
+
+#### Learning Tools
 * [Bento] (https://www.bento.io/)
 * [CodeAcademy] (http://www.codecademy.com/tracks/javascript)
 * [CodeSchool] (http://javascript-roadtrip.codeschool.com/)
@@ -44,10 +27,30 @@
 * [Treehouse] (http://teamtreehouse.com/library/javascript-foundations)
 * [Tuts Plus] (http://code.tutsplus.com/)
 
-### Intermediate
-### Javascript
+#### Suggested Projects
+* A (real-time) display clock.
+* Simple arithmetic (+,-,*,/) calculator
+* Javascript forms
+* [JavaScript Practice excercises] (http://www.w3resource.com/javascript-exercises/)
+* Follow [eloquentjavascript] (http://eloquentjavascript.net/) book and post challenge solutions on Github
+* General HTML/CSS/JS [excercises] (http://www.teaching-materials.org/exercises/)
+
+## Intermediate - JavaScript
+
+#### Learning Tools
 * [Javascript The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 * [JavaScript Patterns] (http://shichuan.github.io/javascript-patterns/)
+
+#### Projects
+* Javascript Tetris game
+* Image/Video/Song (media) uploader
+* Weather app + Google maps integration (best route suggestion kinda thing)
+* Mapbox applications
+* Whats happening around! Kind of like a mashup of yelp + meetup + events
+* Integration of twitter+instagram and mapbox
+* Mobile apps using PhoneGap/Cordova
+
+
 
 ## Alternative Resources
 ### Books
