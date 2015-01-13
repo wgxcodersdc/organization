@@ -25,6 +25,7 @@ https://courses.edx.org/courses/HarvardX/CS50x3/2015/info - Harvard's CS50 Intro
 **Ruby Intermediate**
 
 * https://www.codeschool.com/courses/rails-for-zombies-redux - Rails for Zombies is a intro to the Ruby on Rails platform
+* https://www.codeschool.com/screencasts/soup-to-bits-rails-for-zombies - After doing Rails for Zombies watch this video to    understand how applications are built in Rails. I found this extremely helpful to translate the class above into practical   applications
 * https://www.railstutorial.org/book - This is a pretty in-depth but excellent intro to building an app in Rails
 * http://onemonthrails.com/ - This is a more visual, interactive version of the guide above but it costs money
 
