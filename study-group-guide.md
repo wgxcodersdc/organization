@@ -1,26 +1,16 @@
-## New Events
-
-New study groups are the best! If you have an idea for something recurring or any other type of event - hopefully this can be useful for you.
-
-### Irregular Events
-
-Most events at this point will be planned/organized by the leadership team. But if you have an idea for a panel you would like to see, or tech talk that would be interesting - absolutely reach out to <WWCodeDC@gmail.com>! Depending on the calendar of other events, we can see when might be a good time for us to host it!
-
 ### Study Groups & Hack Nights
 
-Study Groups and Hack Nights take a bit more planning and organization. The main things that we need to start these events are:
+Here is some information around what we look for in recurring study groups or hack nights. The main pieces that we look for before starting a group are:
 
 * Interest in the topic/space
-* 2 Leads that can dedicate time to going every week
+* 2 Leads that can dedicate time to going every week (or at least relatively often)
 * Hosts for the events
 
-Getting all of these things in place does take some time. So if you have interest in the event, we won't be able to start something new up overnight. It takes time to plan, make sure hosts are on board, and give enough lead time for poeple to sign up. And if we have a full backlog of new events coming up, it might take a bit longer. But as long as you're interested in the study group and will be for a fair bit of time - we could be the perfect group for you!  
-
-Of course, on that note - if you run a study group for a few months, it is absolutely ok to stop leading it. But once the group gets started, it is a lot easier than you might think to find more people that can help lead the group, rather than spending all of the time doing it yourself! (Also part of the reason we look for 2 leads, rather than 1)
+Getting all of these things in place takes some time. So as long as you are interested in the study group and will be for a fair bit of time - reach out to us at <WWCodeDC@gmail.com> about where we stand regarding the group!  
 
 Anyway, if you aren't sure what the difference is between a study group and a hack night - the main piece is that a study group is for following a certain book/online course/something with weekly "assignments" so to speak. A hack night is more free form where people could work on open source projects or personal development that they want to get done!  
 
-Some Best Practices for both:
+*Currently we are experimenting with splitting our weekly sessions into two groups - one that is focused on "hack nights" and the other that follows a "learning plan." We will update as we learn!*
 
 #### Hack / Work Nights
 
@@ -40,8 +30,8 @@ Some Best Practices for both:
 * Have an leader that is dedicated to going through all of the materials
 * Set a timeline for the group (9 weeks of python, 12 weeks of interview prep, etc)
 	* Members can join late or come in and out
-	* But have a focus so that the event can be “we are going over chapter 3” and questions can revolve around that.
 	* Awesome opportunity for someone to document their work throughout the course so that if people come late they can use that as a resource!
+	* At the start of a new group, it could be beneficial to schedule out everything that you will learn so people can follow along. And then after one round you will have a group of people that all know the materials and can help those that join later.
 * Promote communication, collaboration, and camaraderie between group members
 * Promote that study group members attend larger DC tech events relevant to their work
 	* JS Study group goes to DC JS meetups, Java to DC Java, etc    
