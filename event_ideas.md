@@ -30,6 +30,12 @@ If you are interested in helping or have an idea for something new that you thin
 	* negotiating
 	* networking events
 	* goal setting session
+	* event featuring a prominent woman in technology
+	* panel featuring women in technology
+		* startup software developers
+		* women that taught themselves to code
+		* bootcamp attendees
+		* senior software engineers and how they got where they are today
 	* [Leadership Workshop for Software Developers](http://www.meetup.com/WomenWhoCodeNYC/events/209222772/)	
 * [When Developer Met Designer](http://www.meetup.com/WomenWhoCodeNYC/events/218892782/)
 * How can you be a male ally?
