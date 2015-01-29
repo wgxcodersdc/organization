@@ -30,6 +30,7 @@ If you are interested in helping or have an idea for something new that you thin
 	* negotiating
 	* networking events
 	* goal setting session
+	* grabbing attention in technical conversations (when men will look at other men, etc)
 	* event featuring a prominent woman in technology
 	* panel featuring women in technology
 		* startup software developers
