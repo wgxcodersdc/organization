@@ -23,6 +23,9 @@ For even more practice
 
 Intermediate 
 
+* You can work on either of these projects together: 
+  * https://github.com/LizAkins/TicTacToeSkeleton
+  * https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour
 * https://www.codeschool.com/courses/rails-for-zombies-redux - Rails for Zombies is a intro to the Ruby on Rails platform
 * https://www.railstutorial.org/book - This is a pretty in-depth but excellent intro to building an app in Rails
 * http://onemonthrails.com/ - This is a more visual, interactive version of the guide above but it costs money
@@ -35,3 +38,7 @@ Facebook group for RoR
 https://www.facebook.com/groups/HHRuby/
 
 https://mackenziechild.me/12-in-12/ - Build 12 apps in 12 weeks!
+
+http://railscasts.com/
+
+http://guides.rubyonrails.org/
