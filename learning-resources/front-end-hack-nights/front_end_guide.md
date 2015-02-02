@@ -16,6 +16,8 @@ We will not assist with work problems. We are here to help you learn the skills 
 	
 **Intermediate**
 
+* Make a github pages site!
+
 * Javascript
 	* ?
 	
