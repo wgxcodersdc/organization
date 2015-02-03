@@ -12,14 +12,15 @@ We will not assist with work problems. We are here to help you learn the skills 
 	* [Dash](https://dash.generalassemb.ly/)
 * Javascript
 	* [Codeacademy](http://www.codecademy.com/tracks/javascript)
-	* ?
 	
 **Intermediate**
 
 * Make a github pages site!
 
 * Javascript
-	* ?
+	* [CodeSchool](http://javascript-roadtrip.codeschool.com/)
+	* [CodeSchool](https://www.codeschool.com/paths/javascript) ($29/month) *might be right before intermediate learning
+	* [Treehouse](http://teamtreehouse.com/library/javascript-foundations) ($25/month)
 	
 **Intermediate/Advanced**
 
