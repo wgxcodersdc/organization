@@ -14,7 +14,8 @@
 * female current or former staff you can contact with questions: [Katherine McClintic](kdmcclin@gmail.com)
 
 #### Hack Reactor
-* 
+* located in San Francisco
+* "not a '0–60' course, a '20–120' course"
 * female alumni you can contact with questions: [Tess Myers--link coming]  
 
 etc, etc
