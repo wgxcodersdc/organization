@@ -14,6 +14,7 @@
 * female current or former staff you can contact with questions: [Katherine McClintic](kdmcclin@gmail.com)
 
 #### Hack Reactor
-*
-* female alumni you can contact with questions: [Tess Myers]
+* 
+* female alumni you can contact with questions: [Tess Myers--link coming]  
+
 etc, etc
