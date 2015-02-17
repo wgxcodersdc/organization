@@ -7,4 +7,4 @@
 ### Full Stack
 
 * [27 Pieces of Advice for Full Stack Developers](https://www.talentbuddy.co/blog/27-pieces-of-advice-for-full-stack-developers/) - Mildly javascript focused (ok pretty JS focused) but if you can get past that, awesome advice! We're true believers in **#20: Don’t belittle other languages or approaches just to make yourself feel like a loyal member of whatever technology community-of-the-moment.**
-
+* [Free Lynda access with DC MLK Library Card!](http://dclibrary.org/node/46352) - not much explanation needed here, this is as good as it gets!
