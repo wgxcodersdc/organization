@@ -1,5 +1,7 @@
 # Women Who Code DC Ruby on Rails Guide
 
+[Jump straight to the tools](#tools)
+
 ##First Timers Section
 **(But we won't judge if this helps others too)**
 
@@ -58,6 +60,7 @@ Be assured that you will indeed learn Ruby as you develop proficiency with Rails
 Your hardest challenge will be to learn the names of the structures you see in code examples. This is why it is helpful to work your way through a short introduction to Ruby. You’ll need to be able to recognize when you are looking at an array or a hash. You should recognize when you are looking at an iterator or the Ruby block syntax. Eventually, you’ll recognize more exotic Ruby formulations such as the lambda. It is okay if you can’t write a lambda function or even know when to use one; many Rails developers start work before learning Ruby thoroughly.
 
 ###How do I install Ruby?
+If you use the link below to install Rails, it will also install a recent version of Ruby.
 
 ###How do I install Rails?
 Rails used to be quite difficult to install but recent tools have made it a lot easier. On Macs you can use homebrew and RVM to install rails. Then install the Rails gem. On PCs railsinstaller makes it easy to install all the components. 
@@ -77,7 +80,7 @@ You can also use tools like Nitrious.io and c9.io to build Rails apps in a virtu
 ###How do I run my ROR website? 
 Rails comes with a built web server called WEBrick that you can run to test out your apps locally (cool!). When you are ready to deploy online there are several popular hosting services like Heroku that make it easy to run your app live. 
 
-##Suggested Learning Tools
+<a name="tools">##Suggested Learning Tools</a>
 
 You will get the most out of our meetups if you follow one of our suggested resources. These are the classes/books/resources that our members know the best and can offer the most support for.
 
