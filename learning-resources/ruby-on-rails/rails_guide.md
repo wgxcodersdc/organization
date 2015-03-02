@@ -80,7 +80,8 @@ You can also use tools like Nitrious.io and c9.io to build Rails apps in a virtu
 ###How do I run my ROR website? 
 Rails comes with a built web server called WEBrick that you can run to test out your apps locally (cool!). When you are ready to deploy online there are several popular hosting services like Heroku that make it easy to run your app live. 
 
-<a name="tools">##Suggested Learning Tools</a>
+<a name="tools"></a>
+##Suggested Learning Tools
 
 You will get the most out of our meetups if you follow one of our suggested resources. These are the classes/books/resources that our members know the best and can offer the most support for.
 
