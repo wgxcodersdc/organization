@@ -1,7 +1,7 @@
 # Women Who Code DC Ruby on Rails Guide
 
 ##First Timers Section
-#####(But we won't judge if this helps others too)
+**(But we won't judge if this helps others too)**
 
 ![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)
 
@@ -77,7 +77,7 @@ You can also use tools like Nitrious.io and c9.io to build Rails apps in a virtu
 ###How do I run my ROR website? 
 Rails comes with a built web server called WEBrick that you can run to test out your apps locally (cool!). When you are ready to deploy online there are several popular hosting services like Heroku that make it easy to run your app live. 
 
-###Suggested Learning Tools
+##Suggested Learning Tools
 
 You will get the most out of our meetups if you follow one of our suggested resources. These are the classes/books/resources that our members know the best and can offer the most support for.
 
