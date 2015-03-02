@@ -1,7 +1,7 @@
 #A Guide for First Timers
 ###(But we won't judge if this helps others too)
 
-![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)
+![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png)
 
 *If you are brand new to Ruby or Rails, we recommend coming to the first meeting of the month which is First-Timers Night.  You are welcome to come any week, but that first week will be the one we cater to beginners.*
 
