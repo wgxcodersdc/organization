@@ -36,14 +36,15 @@ https://courses.edx.org/courses/HarvardX/CS50x3/2015/info - Harvard's CS50 Intro
   * a pretty in-depth but excellent intro to building an app in Rails
 * [One Month Rails](http://onemonthrails.com/)
   * a more visual, interactive version of the guide above but it costs money
+* [Codecademy](http://www.codecademy.com/)
+  * In addition to Ruby Codecademy also has Rails app tutorials and tutorials on several APIs.
 
 ###Ruby/Rails Advanced
 *Ready to contribute to larger projects?  Check out the following:*
 * [Assembly](https://assembly.com/)
 
 ###Other Resources
-
-* [Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
+* [Hacker Collective Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
 * [Facebook group for RoR](https://www.facebook.com/groups/HHRuby/)
 * [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/)
 * [RailsCasts](http://railscasts.com/)
