@@ -43,13 +43,9 @@ https://courses.edx.org/courses/HarvardX/CS50x3/2015/info - Harvard's CS50 Intro
 
 ###Other Resources
 
-There are some great resources listed here: https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md
-
-Facebook group for RoR
-https://www.facebook.com/groups/HHRuby/
-
-https://mackenziechild.me/12-in-12/ - Build 12 apps in 12 weeks!
-
-http://railscasts.com/
-
-http://guides.rubyonrails.org/
+* [Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
+* [Facebook group for RoR](https://www.facebook.com/groups/HHRuby/)
+* [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/)
+* [RailsCasts](http://railscasts.com/)
+  * These are great screencasts of tips, tricks, and tutorials. For pro episodes you have to subscribe but there are many great free ones.
+* [Rails Documentation](http://guides.rubyonrails.org/)
