@@ -12,7 +12,7 @@ Rails establishes conventions for easier collaboration and maintenance. These co
 
 Rails is more than a software library and an API. Rails is the central project of a vast community that produces software libraries that simplify the task of building complex websites. Members of the Rails community share many core values, often use the same tools, and support each other with an informal network that is built on volunteerism. Overlapping the informal community is an economic network that includes jobs, recruiters, consulting firms, conferences, businesses that build websites with Rails, and investors that fund startups. Rails is popular among web startups, significantly because the pool of open source software libraries (RubyGems, or “gems”) makes it possible to build complex sites quickly.
 
-(from: http://railsapps.github.io/what-is-ruby-rails.html)
+[source](http://railsapps.github.io/what-is-ruby-rails.html)
 
 ##What is Ruby?
 Ruby is a programming language. It was created 20 years ago by Yukihiro “Matz” Matsumoto. By most measures of programming language popularity, Ruby ranks among the top ten, though usually as tenth (or so) in popularity, and largely due to the popularity of Rails. Like Java or the C language, Ruby is a general-purpose programming language, though it is best known for its use in web programming.
@@ -21,7 +21,7 @@ Ruby is known among programmers for a terse, uncluttered syntax that doesn’t r
 
 Ruby’s key advantage is RubyGems, the package manager that makes it easy to create and share software libraries (gems) that extend Ruby. RubyGems provides a simple system to install gems. Anyone can upload a gem to the central [RubyGems website](https://rubygems.org/), making the gem immediately available for installation by anyone. The RubyGems website is where you’ll obtain the most recent version of Rails. And it is where you will obtain all the gems that help you build complex websites.
 
-(from: http://railsapps.github.io/what-is-ruby-rails.html - read about the disadvantages as well)
+[source](http://railsapps.github.io/what-is-ruby-rails.html - read about the disadvantages as well)
 
 ##What’s the difference between Ruby and Rails?
 
@@ -45,7 +45,7 @@ Twitter was initially built on Rails. It’s since moved off of the platform for
 4. SoundCloud
 5. Square
 
-(https://thecoderfactory.com/posts/top-15-sites-built-with-ruby-on-rails)
+[source](https://thecoderfactory.com/posts/top-15-sites-built-with-ruby-on-rails)
 
 ##Should I learn Ruby first or Rails first?
 There are differing opinions on this but I like this approach from http://railsapps.github.io/what-is-ruby-rails.html: 
