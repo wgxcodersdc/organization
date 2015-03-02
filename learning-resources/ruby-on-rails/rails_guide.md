@@ -14,23 +14,34 @@ https://courses.edx.org/courses/HarvardX/CS50x3/2015/info - Harvard's CS50 Intro
 
 ###Ruby Beginner
 
-* tryruby.org - Short Interactive, Intro to the Ruby Programming Language
-* https://www.codeschool.com/paths/ruby - Take the Ruby Language Path to get a deeper introduction to the language
+* [Try Ruby](tryruby.org)
+  * Short Interactive, Intro to the Ruby Programming Language
+* [Code School](https://www.codeschool.com/paths/ruby)
+  * Take the Ruby Language Path to get a deeper introduction to the language
+* [Codecademy](http://www.codecademy.com/en/tracks/ruby)
+  * An introduction to Ruby that runs from the basic all the way up through object-oriented programming.
+* [Ruby Koans](http://rubykoans.com/) 
+  * Testing based approach to learning Ruby (I really like this guide because it teaches you test based development).  Works best if you do not look to closely at the error messages because they give away the answer.
+* [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
+  * Go through the exercises 
 
-For even more practice
-* http://rubykoans.com/ - Testing based approach to learning Ruby (I really like this guide because it teaches you test based development)
-* http://learnrubythehardway.org/book/ - Go through the exercises 
-
-###Ruby Intermediate 
+###Ruby/Rails Intermediate 
 
 * You can work on either of these projects together: 
   * https://github.com/LizAkins/TicTacToeSkeleton
   * https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour
-* https://www.codeschool.com/courses/rails-for-zombies-redux - Rails for Zombies is a intro to the Ruby on Rails platform
-* https://www.railstutorial.org/book - This is a pretty in-depth but excellent intro to building an app in Rails
-* http://onemonthrails.com/ - This is a more visual, interactive version of the guide above but it costs money
+* [Rails for Zombies](https://www.codeschool.com/courses/rails-for-zombies-redux) 
+  * a intro to the Ruby on Rails platform
+* [Rails Tutorial](https://www.railstutorial.org/book)
+  * a pretty in-depth but excellent intro to building an app in Rails
+* [One Month Rails](http://onemonthrails.com/)
+  * a more visual, interactive version of the guide above but it costs money
 
-###Alternate Resources
+###Ruby/Rails Advanced
+*Ready to contribute to larger projects?  Check out the following:*
+* [Assembly](https://assembly.com/)
+
+###Other Resources
 
 There are some great resources listed here: https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md
 
