@@ -69,13 +69,11 @@ Rails comes with a built web server called WEBrick that you can run to test out 
 
 ##What’s the best way to learn Ruby?
 If your goal is to jump right into Rails you can follow the advice above and get an introduction to Ruby with:
-
-* tryruby.org
-* rubymonk.com
-
-For more advanced Ruby 
-* resources coming soon
+* [Try Ruby](tryruby.org)
+  * Short Interactive, Intro to the Ruby Programming Language
+* [Ruby Monk](rubymonk.com)
 
 ##What’s the best way to learn Rails?
 
 ##How do I find projects that I can help out with? 
+For some more advanced resources, including links to open source projects that you can help with, checkout our [Rails Guide](/rails_guide.md)
