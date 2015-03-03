@@ -24,7 +24,7 @@ We want a majority of the study group to be left for people to code and learn. I
 
 For those who are more familiar with the language we encourage you to bring in projects that you are working on and also ask questions. I want to emphasize ASKING QUESTIONS! We want to build a community of awesome Rails devs and that requires sharing ideas and knowledge! We ask that you pleaaaaasee do not bring in or ask questions about work because can be domain specific and not always constructive. 
 
-We may present a short 15 minute lighting talk about some related topic. Feel free to suggest topics or volunteer to deliver one.
+We may present a short 15 minute lightning talk about some related topic. Feel free to suggest topics or volunteer to deliver one.
 
 ##What if I'm a first timer that's never coded before?
 
@@ -42,7 +42,7 @@ Check out the bottom sections of our ROR guide (http://bit.ly/wwcrailsguide) for
 
 We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further your Rails skills, help others with questions they might have, consider doing a lighting talk, consider being a lead(!)
 
-### Lighting Talk Possible Topics
+### Lightning Talk Possible Topics
 
 * Present an app you're working on
 * MVC
