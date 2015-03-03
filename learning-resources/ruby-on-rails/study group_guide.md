@@ -20,7 +20,7 @@ The WWC Ruby on Rails (ROR) study group is a space where women can come together
 * 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
 * 8:15 - 8:30pm - Wrap Up 
 
-We want a majority of the study group to be left for people to code and learn. If you are a first timer to coding or ROR we have suggested courses that you can follow and encourage you to ask lots and lots of questions. Note that the first week of the month is especially for "first-timers". We will focus on providing extra support to those new to coding. 
+We want a majority of the study group to be left for people to code and learn. If you are a first timer to coding or ROR we have suggested courses you can follow and encourage you to ask lots and lots of questions. Note that the first week of the month is especially for "first-timers". We will focus on providing extra support to those new to coding. 
 
 For those who are more familiar with the language we encourage you to bring in projects that you are working on and also ask questions. I want to emphasize ASKING QUESTIONS! We want to build a community of awesome Rails devs and that requires sharing ideas and knowledge! We ask that you pleaaaaasee do not bring in or ask questions about work because they can be domain specific and not always constructive. 
 
