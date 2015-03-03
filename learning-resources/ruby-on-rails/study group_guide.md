@@ -28,7 +28,7 @@ We may present a short 15 minute lightning talk about some related topic. Feel f
 
 ##What if I'm a first timer that's never coded before?
 
-Check out our Guide to ROR - http://bit.ly/wwcrailsguide. Go through the recommended resources and ask lots of questions!
+Check out our Guide to ROR - http://bit.ly/wwcrailsguide that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
 
 ###Slack
 
@@ -36,7 +36,7 @@ The WWC community uses Slack to keep in touch and chat about all things tech. Yo
 
 ##What if I've coded before but never in Ruby or Rails?
 
-Check out the bottom sections of our ROR guide (http://bit.ly/wwcrailsguide) for recommended courses on Ruby and Rails. Help out others in the study group who are new to coding and may have questions about OOP, software architecture, etc. 
+Check out the ROR guide (http://bit.ly/wwcrailsguide) for recommended courses on Ruby and Rails. Help out others in the study group who are new to coding and may have questions about OOP, software architecture, etc. 
 
 ##What if I'm an ROR pro?
 
