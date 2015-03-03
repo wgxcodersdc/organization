@@ -102,7 +102,7 @@ Attributes are defined within the opening tag, after an element’s name. Genera
 
 Lets create your first HTML page. 
 
-1. Open our text editor, create a new file named hello.html, and save it to a location you won't forget.
+1. Open your text editor, at this point it really doesn't matter what text edtor you chose. Create a new file named hello.html, and save it to a location you won't forget.
 
 2. In the hello.html file, add the document structure, the `<!DOCTYPE html>` document type, and the `<html>`, `<head>`, and `<body>` elements.
 
