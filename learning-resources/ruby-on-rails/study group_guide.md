@@ -14,11 +14,11 @@
 
 The WWC Ruby on Rails study group is a space where women can come together and help each other learn ROR. We welcome devs of all levels and encourage those with more ROR experience to help out those that are just starting. Every study group will have the following format:
 
-6:30pm (or 6pm depending on the host) - Begin
-6:40 - 6:50pm - Quick Introductions 
-6:50 - 8:00pm - CODE!
-8:00 - 8:15pm - Lighting Talk (if planned)
-8:15 - 8:30pm - Wrap Up 
+* 6:30pm (or 6pm depending on the host) - Begin
+* 6:40 - 6:50pm - Quick Introductions 
+* 6:50 - 8:00pm - CODE!
+* 8:00 - 8:15pm - Lighting Talk (if planned)
+* 8:15 - 8:30pm - Wrap Up 
 
 We want the majority of the study group to be left for people to code and learn. If you are a first timer to coding or ROR we have suggested courses that you can follow and encourage you to ask lots and lots of questions. Note that the first week of the month is especially for "first-timers". We will focus on providing extra support to those new to coding. 
 
