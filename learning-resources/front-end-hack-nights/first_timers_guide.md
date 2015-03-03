@@ -287,6 +287,9 @@ Yayyyyy!!!
 
 The only logical next step is to NOT STOP! Refer our resources section, and continue your journey. All the best, and Congratulations!
 
+Remember, even though we did access your page via browser, its really not up on the internet! For that you would need to 
+[host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic which shouldn't worry about right now!
+
 ### Resources?
 
 * [Front End hack night resource list](https://github.com/womenwhocodedc/organization/tree/master/learning-resources/front-end-hack-nights)
