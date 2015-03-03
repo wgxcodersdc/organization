@@ -32,19 +32,19 @@ Check out our Guide to ROR - http://bit.ly/wwcrailsguide. Go through the recomme
 
 ###Slack
 
-The WWC community uses Slack to keep in touch and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign uphere:  bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
+The WWC community uses Slack to keep in touch and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
 
 ##What if I've coded before but never in Ruby or Rails?
 
-Check out the bottom sections of our ROR guide (http://bit.ly/wwcrailsguide) for recommended courses on Ruby and Rails. Help out others in the study group who are new to coding and may have questions about OOP, software architecture, etc! 
+Check out the bottom sections of our ROR guide (http://bit.ly/wwcrailsguide) for recommended courses on Ruby and Rails. Help out others in the study group who are new to coding and may have questions about OOP, software architecture, etc. 
 
 ##What if I'm an ROR pro?
 
-We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further you Rails skills, help others with questions they might have, consider doing a lighting talk, consider being a lead (!)
+We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further your Rails skills, help others with questions they might have, consider doing a lighting talk, consider being a lead(!)
 
 ### Lighting Talk Possible Topics
 
-* Present an app your working on
+* Present an app you're working on
 * MVC
 * Rails vs. Django (or any other framework)
 * Ruby vs. any other language
@@ -60,5 +60,5 @@ YES! We are always looking for more leads and if you're interested in getting in
 
 ##How can I contribute without being a lead?
 
-We needs lots of help coordinating events and if you want to help out please let us know :)
+We needs lots of help coordinating events. If you want to help out please let us know :)
 
