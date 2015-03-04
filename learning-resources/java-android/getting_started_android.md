@@ -55,7 +55,7 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 2. To launch Android Studio, navigate to the android-studio/bin/ directory in a terminal and execute studio.sh.
 
-3. You may want to add android-studio/bin/ to your PATH environmental variable so that you can start Android Studio from any directory.
+3. You may want to add android-studio/bin/ to your PATH environmental variable so that you can start Android Studio from any directory. (Ex: `export PATH=$PATH:~/your_android_directory/android-studio/bin`) [For more info, see this guide.](http://www.codeproject.com/Articles/802813/Setting-Up-Android-Development-Ubuntu)
 
 4. Follow the setup wizard to install any necessary SDK tools.
 
