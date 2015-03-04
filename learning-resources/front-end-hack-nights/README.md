@@ -4,7 +4,7 @@
 
 The WWC Front End Hack Night (FEHN) study group is a space where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Every study group will have the following format:
 
-* 6:30pm (or 6pm depending on the host) - Begin
+* 6:30pm  - Begin
 * 6:40 - 6:50pm - Quick Introductions 
 * 6:50 - 8:00pm - CODE!
 * 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
