@@ -45,7 +45,7 @@ YES! We are always looking for more leads and if you're interested in getting in
 
 ### How can I contribute without being a lead?
 
-We needs lots of help coordinating events. If you want to help out please let us know :)
+We need lots of help coordinating events. If you want to help out please let us know :)
 
 #### All Women Welcome
 
