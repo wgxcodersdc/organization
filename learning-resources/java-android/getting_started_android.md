@@ -2,7 +2,7 @@
 
 **What is Android?**
 
-Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s *[Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/)* course.  Additional Java resources can be found at the end of this document.
+Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s **[Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/)** course.  Additional Java resources can be found at the end of this document.
 
 **What is Android used for?**
 
@@ -10,7 +10,7 @@ Android is used for making applications (apps) that run on Android devices.  Thi
 
 **Which tools do I need?**
 
-You can write Android programs on PCs, Macs, and Linux machines.  (This is unlike writing apps for iOS devices which can only be done on Macs.)  You’ll need a piece of software called an IDE (Integrated Development Environment).  Android Studio is now the official IDE for Android, which we recommend.  It’s a free download and works on all platforms. Although there are other IDEs available to use with Android, such as Eclipse and IntelliJ, we are hoping to steer everyone towards Android Studio as that is platform fully supported by Google, the developer of Android,  moving forward.  You will also need both the Java Development Kit (JDK) and the Android SDK.  Note:  the JDK is different than the JRE (Java Runtime Environment)  which allows people to run Java programs.  We need the JDK to be able to write Java programs.
+You can write Android programs on PCs, Macs, and Linux machines.  (This is unlike writing apps for iOS devices which can only be done on Macs.)  You’ll need a piece of software called an IDE (Integrated Development Environment).  Android Studio is now the official IDE for Android, which we recommend.  It’s a free download and works on all platforms. Although there are other IDEs available to use with Android, such as Eclipse and IntelliJ, we are hoping to steer everyone towards Android Studio as that is the platform fully supported by Google, the developer of Android,  moving forward.  You will also need both the Java Development Kit (JDK) and the Android SDK.  Note:  the JDK is different than the JRE (Java Runtime Environment) which allows people to run Java programs.  We need the JDK to be able to write Java programs.
 
 **Do I need an Android phone/tablet in order to make an app?**
 
