@@ -1,11 +1,5 @@
 # Front End Hack Night study group!
 
-![alt tag](http://www.barbarianmeetscoding.com/images/i-know-javascript.jpg)
-
-“JavaScript is a programming language that helps make a web page interactive. When you view a slideshow or get annoying pop-up ads, that’s JavaScript. If you see your Facebook Timeline update or Google autocomplete a search term, that’s JavaScript.” -[Skillcrush] (http://skillcrush.com/category/blog/resources/tech-term/)
-
-![alt tag](http://www.troll.me/images/bill-oreilly/fuck-it-well-do-it-all-in-javascript.jpg)
-
 ## What is this study group for?
 
 The WWC Front End Hack Night (FEHN) study group is a space where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Every study group will have the following format:
@@ -52,6 +46,14 @@ YES! We are always looking for more leads and if you're interested in getting in
 ### How can I contribute without being a lead?
 
 We needs lots of help coordinating events. If you want to help out please let us know :)
+
+#### All Women Welcome
+
+This study group is intended to be exclusively open for women and those who identify as women; we are transgender friendly.
+
+Happy coding! :) 
+
+![alt tag](http://www.barbarianmeetscoding.com/images/i-know-javascript.jpg)
 
 
 
