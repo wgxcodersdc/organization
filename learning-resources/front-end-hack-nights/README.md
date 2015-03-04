@@ -47,6 +47,10 @@ YES! We are always looking for more leads and if you're interested in getting in
 
 We need lots of help coordinating events. If you want to help out please let us know :)
 
+### Building Access
+
+Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.
+
 #### All Women Welcome
 
 This study group is intended to be exclusively open for women and those who identify as women; we are transgender friendly.
