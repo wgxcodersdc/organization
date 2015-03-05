@@ -2,8 +2,10 @@
 ## JavaScript Study Guide
 
 ### What is JavaScript?
+JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three. It’s what makes modern web the interactive, animated, vibrant place that it is.
 
 ### What is JavaScript used for?
+Javascript handles the `behavior layer` for the web, which involves real-time user interaction with the document. The interaction can be anything from a trivial validation that ensures a required field is filled in before an email subscription form can be submitted, to sophisticated web applications that work much like ordinary desktop programs. 
 
 ### What tools do I need?
 Just like with HTML and CSS, all you need is a text editor (Notepad, TextEdit) and a web browser! Nevertheless, as you write more complex JavaScript you may find it difficult to write code and debug with only basic text editors. Advanced text editors, browser tools (for debugging), and online integrated development environments (IDEs) make coding JavaScript and squashing bugs easier.
