@@ -10,7 +10,7 @@ The WWC Front End Hack Night (FEHN) study group is a space where women can come 
 * 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
 * 8:15 - 8:30pm - Wrap Up 
 
-All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page.
+All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Monday 06:30-08:30 pm. 
 
 ## What if I'm a first timer that's never coded before?
 
@@ -18,11 +18,11 @@ Check out our Guide to [front end for first timers](https://github.com/womenwhoc
 
 ## What if I'm a web development pro?
 
-We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further your skills, help others with questions they might have, consider doing a lighting talk, consider being a lead(!)
+We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further your skills, help others with questions they might have, consider doing a lighting talk, consider being a lead!
 
 ### Slack
 
-The WWC community uses Slack to keep in touch and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
+The WWC-DC community uses Slack to keep in touch, share resources, and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
 
 ### Lightning Talk Possible Topics
 
