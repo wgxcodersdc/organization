@@ -54,17 +54,20 @@ Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/n
 ### Beginner Resources
 You know HTML and CSS and are ready to start adding interactivity to your web pages.
 
+#### Recommended Resources
 * [CodeAcademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript) - :computer: - 10 hours - Free
-* [JavaScript For Cats](http://jsforcats.com/) - :page_facing_up: :computer: - "An introduction for new programmers. So easy your human companion could do it too!"
 * [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) - :computer: - KhanAcademy - Free
-* [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - :books: :moneybag: - $26.67 on Amazon
+* [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - :books: :computer: :moneybag: - $24 (e-book) or $35 for print on Amazon - [Available on Safari Books](https://www.safaribooksonline.com/) - [Free sample chapter](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340131_sampler.pdf)
+* [JavaScript For Cats](http://jsforcats.com/) - :page_facing_up: :computer: - "An introduction for new programmers. So easy your human companion could do it too!"
 * [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - :video_camera: :computer: - MSDN Channel9 - Free
+
+#### Other Resources
+* [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
+* [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - :books: :moneybag: - $26.67 on Amazon
 * [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) - :video_camera: :computer: :moneybag: - Treehouse - Free 14 day trial - $25/month paid plan
 * [CodeSchool JavaScript Language track](https://www.codeschool.com/paths/javascript) - :video_camera: :computer: :moneybag: - First lesson free - $29/month paid plan
-* [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - :books: :computer: :moneybag: - $24 (e-book) or $35 for print on Amazon - [Available on Safari Books](https://www.safaribooksonline.com/) - [Free sample chapter](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340131_sampler.pdf)
 * [CodeCombat](http://codecombat.com/) - :computer: - Free - Online game 
 * [JavaScript for Web Designers](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
-* [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [Introduction to JavaScript Development](https://www.udemy.com/refactoru-intro-js) - :video_camera: - Udemy - Free
 * [Learning the Web: JavaScript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics) - :page_facing_up: - Mozilla Developer Network
 * [Learn to Program in JavaScript: Beginner to Pro](https://www.udemy.com/programming-in-javascript) - :video_camera: :computer: - Udemy - Free
@@ -81,19 +84,22 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 ### Intermediate Resources
 You know basic Javascript and want to further your understanding of functions and objects. You are also are ready for deep dives on specific topics. 
 
-* [JavaScript: Functions](http://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
-* [Learn JavaScript by Example](https://www.learneroo.com/modules/64) - :computer: - Free
+#### Recommended Resources
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) - :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
-* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - :page_facing_up: - Mozilla Developer Network
+* [Speaking JavaScript](http://speakingjs.com/) - :books: - Free
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - :books: - Free
+* [JavaScript and AJAX](http://www.lynda.com/Developer-tutorials/JavaScript-and-AJAX/114900-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
+
+#### Other Resources
+* [JavaScript: Functions](http://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
+* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - :page_facing_up: - Mozilla Developer Network
+* [Learn JavaScript by Example](https://www.learneroo.com/modules/64) - :computer: - Free
 * [JavaScript: Enhancing the DOM](http://www.lynda.com/HTML-tutorials/JavaScript-Enhancing-DOM/122462-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [JavaScript The Right Way](http://jstherightway.org/) - :page_facing_up:
 * [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - :books: - Free
 * [CodeWars](http://www.codewars.com/join?language=javascript) - :computer: - Free - Solve programming problems and earn points
-* [JavaScript and AJAX](http://www.lynda.com/Developer-tutorials/JavaScript-and-AJAX/114900-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - :page_facing_up: - “A growing collection of documentation about the most quirky parts of the JavaScript programming language.”
 * [The TreeHouse Show](http://teamtreehouse.com/library/the-treehouse-show) - :video_camera: - Treehouse - Free - “Your weekly dose of web design and web development news”
-* [Speaking JavaScript](http://speakingjs.com/) - :books: - Free
 * [Introduction to JavaScript](http://starthere.fm/webdev/14) - :headphones: - Ep 14 from StartHere.fm
 * [JavaScript and jQuery: Moving beyond Alert()](http://hanselminutes.com/256/javascript-and-jquery-moving-beyond-alert) - :headphones: - Episode 256 of The Hanselminutes Podcast
 * [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527) - :books: :moneybag: - $22 (ebook) or $32.94 print on Amazon 
@@ -107,12 +113,15 @@ You know basic Javascript and want to further your understanding of functions an
 ### Advanced Resources
 You’ve gotten pretty good at this JavaScript thing and are looking to improve your code. You may know several JavaScript libraries but you would like to improve your plain JavaScript skills as well.
 
+#### Recommended Resources
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - :books: - Free
 * [DOM Enlightenment](http://domenlightenment.com/) - :books: - Free
+* [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) - :computer: - Solve JavaScript runtime errors by fixing Jasmine tests
+
+#### Other Resources
 * [Maintainable JavaScript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680) - :books: :moneybag: - $17 ebook, $26.48 print on Amazon
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - :page_facing_up:
 * [JavaScript Jabber](http://devchat.tv/js-jabber/) - :headphones: - Weekly podcast
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - :books: - Free 
-* [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) - :computer: - Solve JavaScript runtime errors by fixing Jasmine tests
 * [Human JavaScript](http://read.humanjavascript.com/) - :books:
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js) - :page_facing_up:
 
