@@ -16,6 +16,7 @@ These programs feature productivity-enhancing features such as syntax highlighti
 * [Sublime Text](http://www.sublimetext.com/) (Mac, Windows, and Linux)
 * [Komodo Edit](http://komodoide.com/komodo-edit/) (Mac, Windows, and Linux)
 * [Notepad++](http://notepad-plus-plus.org/) (Windows)
+* [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
 
 #### Browser Tools
 All popular web browsers come with built in [developer consoles](http://wickedlysmart.com/hfjsconsole/) and tools for debugging. 
