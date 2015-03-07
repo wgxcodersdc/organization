@@ -34,33 +34,33 @@ Shells allow you to quickly write and test JavaScript code without having to sav
 * [Koding](https://koding.com/) - IDE
 * [Cloud9](https://c9.io/) - IDE
 
+### Learning Resources Legend
+* :computer: - interactive courses, labs, or problems
+* :video_camera: - videos
+* :books: - books or long reads
+* :page_facing_up: - articles, short reads, or tutorials
+* :moneybag: - paid resource
+
+Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/node/46352). You can obtain an online library card instantly with a valid DC driver’s license. Residents of neighboring counties in MD and VA are also eligible for a [free DC library card](http://dclibrary.org/getacard)! Non-DMV residents can also pay $20 at the MLK library to obtain a library card for a year. The org code for DCPL on Lynda.com is dclibrary.org. 
+
 ### Beginner Resources
 You know HTML and CSS and are ready to start adding interactivity to your web pages.
 
-#### Interactive
-* [CodeAcademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript) - 10 hours - Free
-* [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) - KhanAcademy - Free
-* [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) - Treehouse - Free 14 day trial - $25/month paid plan
-* [CodeSchool JavaScript Language track](https://www.codeschool.com/paths/javascript) - First lesson free - $29/month paid plan
-* [CodeCombat](http://codecombat.com/) - Free - Online game 
-
-#### Video
-Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/node/46352). You can obtain an online library card instantly with a valid DC driver’s license. Residents of neighboring counties in MD and VA are also eligible for a [free DC library card](http://dclibrary.org/getacard)! Non-DMV residents can also pay $20 at the MLK library to obtain a library card for a year. The org code for DCPL on Lynda.com is dclibrary.org. 
-
+* [CodeAcademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript) - :computer: - 10 hours - Free
+* [JavaScript For Cats](http://jsforcats.com/) :page_facing_up: :computer:
+* [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) - :computer: - KhanAcademy - Free
+* [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - :books: :moneybag: - $26.67 on Amazon
+* [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - MSDN Channel9 - Fre
+* [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) - :video_camera: :computer: :moneybag: - Treehouse - Free 14 day trial - $25/month paid plan
+* [CodeSchool JavaScript Language track](https://www.codeschool.com/paths/javascript) - :video_camera: :computer: :moneybag: - First lesson free - $29/month paid plan
+* [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - :books: :computer: :moneybag: - $24 (e-book) or $35 for print on Amazon - [Available on Safari Books](https://www.safaribooksonline.com/) - [Free sample chapter](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340131_sampler.pdf)
+* [CodeCombat](http://codecombat.com/) - :computer: - Free - Online game 
 * [JavaScript for Web Designers](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) - Lynda - Free with DC library card
 * [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html) - Lynda - Free with DC library card
-* [Introduction to JavaScript Development](https://www.udemy.com/refactoru-intro-js) - Udemy - Free 
-* [Learn to Program in JavaScript: Beginner to Pro](https://www.udemy.com/programming-in-javascript) - Udemy - Free
-* [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - MSDN Channel9 - Free
-
-#### Books
-* [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - $26.67 on Amazon
-* [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - $24 (e-book) or $35 for print on Amazon - [Available on Safari Books](https://www.safaribooksonline.com/) - [Free sample chapter](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340131_sampler.pdf)
-* [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Jeremy-McPeak/dp/1118903331) - $31.20 on Amazon - 5th edition (2015), not 4th (2009) 
-
-#### Articles and Tutorials
-* [JavaScript For Cats](http://jsforcats.com/) 
+* [Introduction to JavaScript Development](https://www.udemy.com/refactoru-intro-js) - Udemy - Free
 * [Learning the Web: JavaScript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
+* [Learn to Program in JavaScript: Beginner to Pro](https://www.udemy.com/programming-in-javascript) - Udemy - Free
+* [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Jeremy-McPeak/dp/1118903331) - :books: :computer: :moneybag: - $31.20 on Amazon - 5th edition (2015), not 4th (2009)
 
 #### Project Ideas
 * Create a digital clock, alarm, countdown, or even [Pomodoro timer](http://tomato-timer.com/) 
