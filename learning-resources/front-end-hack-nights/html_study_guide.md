@@ -1,6 +1,6 @@
 #HTML
 
-**HTML (Hyper Text Markup Language)** elements are the building blocks of the Web.  HTML defines the basic structure of a page and your styles and interactivity (CSS & Javascript) are based off your HTML. Every web page, at it’s core, starts with HTML!
+**HTML (Hyper Text Markup Language)** elements are the building blocks of the Web.  HTML defines the basic structure of a page and your styles(CSS) and interactivity(Javascript) are based off of your HTML. Every web page, at it’s core, starts with HTML!
 
 HTML consists of elements in opening and closing tags (in angle brackets, i.e. ```<h1>This is a Headline!</h1>```).  The opening tag - ```<h1>``` - starts the element and the closing tag - ```</h1>``` tells the web browser the element has ended. 
 
@@ -21,10 +21,12 @@ Let’s use some of the resources below to get you writing your first web page w
 As an opening exercise...
 Go to your favorite website and type in:
 
-Cmd + Option + I (on Mac)
-??? (on Windows)
+Cmd + Option + I (on Mac) OR 
+Ctrl + Shift + I (on Windows)
 
 This open’s your browser’s Developer Tools. Here you can inspect the page’s HTML!  Have a look around, see how they organized the code, and see if you can recognize some basic HTML elements. 
+
+If this is your first time with HTML/CSS, we encourage you to go through our [First Timer's Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/first_timers_guide.md).
 
 ###Beginner
 ####Interactive
