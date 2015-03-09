@@ -277,11 +277,10 @@ Now we need to reference this css file from within our html file:
 </html>
 ```
 
-Let's access the HTML file in browser, to see the styling in action.
+Let's access the HTML file in browser, to see the styling in action. 
+Yayyyyy!!!
 
 ![HTML-4](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-4.png)
-
-Yayyyyy!!!
 
 ### Okay, what next?
 
