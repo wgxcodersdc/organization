@@ -20,9 +20,12 @@ Check out our Guide to [front end for first timers](https://github.com/womenwhoc
 
 We super encourage you to attend the study group, work on a personal project or take one of the recommended courses to further your skills, help others with questions they might have, consider doing a lighting talk, consider being a lead!
 
-### Slack
+### Resources/Study Guides
+Please refer to these guidelines.
 
-The WWC-DC community uses Slack to keep in touch, share resources, and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
+* First timer's guide: http://bit.ly/first-timers-guide
+* HTML Study Guide: http://bit.ly/html-study-guide
+* JavaScript Study Guide: http://bit.ly/js-study-guide
 
 ### Lightning Talk Possible Topics
 
@@ -35,13 +38,6 @@ The WWC-DC community uses Slack to keep in touch, share resources, and chat abou
 * Databases that work well with Javascript, like MongoDB and Parse
 * Networking/Internet Technologies
 
-### Resources/Study Guides
-Please refer to these guidelines.
-
-* First timer's guide: http://bit.ly/first-timers-guide
-* HTML Study Guide: http://bit.ly/html-study-guide
-* JavaScript Study Guide: http://bit.ly/js-study-guide
-
 ### What do leads do?
 
 Leads are present to facilitate the study group. They help find hosts, schedule meetups, come up with curriculum, and are also available to ask questions.
@@ -53,6 +49,10 @@ YES! We are always looking for more leads and if you're interested in getting in
 ### How can I contribute without being a lead?
 
 We need lots of help coordinating events. If you want to help out please let us know :)
+
+### Slack
+
+The WWC-DC community uses Slack to keep in touch, share resources, and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
 
 ### Building Access
 
