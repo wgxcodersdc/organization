@@ -61,7 +61,7 @@ If this is your first time with HTML/CSS, we encourage you to go through our [Fi
 
 ###Video
 * [Introduction to HTML](http://code.tutsplus.com/courses/introduction-to-html) - Form elements - Tuts+ is subscription based but you can sign up for a free trial. :video_camera: 
-* [How to Build a Form with HTML](https://teamtreehouse.com/library/html/forms/inputs) - Treehouse - Forms are everywhere on web pages. Learn to build one with HTML! :video_camera:
+* [How to Build a Form with HTML](https://teamtreehouse.com/library/html/forms/inputs) - Treehouse - FLearn to build better forms using HTML! :video_camera:
 
 ###Projects
 * Write the HTML a site with a home page (index.html) and an about page (about.html). 
