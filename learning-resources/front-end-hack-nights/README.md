@@ -35,6 +35,13 @@ The WWC-DC community uses Slack to keep in touch, share resources, and chat abou
 * Databases that work well with Javascript, like MongoDB and Parse
 * Networking/Internet Technologies
 
+### Resources/Study Guides
+Please refer to these guidelines.
+
+* First timer's guide: http://bit.ly/first-timers-guide
+* HTML Study Guide: http://bit.ly/html-study-guide
+* JavaScript Study Guide: http://bit.ly/js-study-guide
+
 ### What do leads do?
 
 Leads are present to facilitate the study group. They help find hosts, schedule meetups, come up with curriculum, and are also available to ask questions.
