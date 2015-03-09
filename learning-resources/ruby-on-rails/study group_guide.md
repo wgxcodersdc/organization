@@ -54,17 +54,17 @@ We super encourage you to attend the study group, work on a personal project or 
 
 Leads are present to facilitate the study group. They help find hosts, schedule meetups, come up with curriculum, and are also available to ask questions.
 
-###Can I be a lead?
+##Can I be a lead?
 
 YES! We are always looking for more leads and if you're interested in getting involved in Women Who Code in any capacity talk to one of the leads present!
 
-##How can I contribute without being a lead?
+###How can I contribute without being a lead?
 
 We needs lots of help coordinating events. If you want to help out please let us know :)
 
-###Anything Else I Need to Know?
+##Anything Else I Need to Know?
 
-##Contact policy at buildings that need access 
+###Contact policy at buildings that need access 
 
 Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you. 
 
