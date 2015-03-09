@@ -28,18 +28,26 @@ This open’s your browser’s Developer Tools. Here you can inspect the page’
 
 If this is your first time with HTML/CSS, we encourage you to go through our [First Timer's Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/first_timers_guide.md).
 
+### Learning Resources Legend
+* :computer: - interactive courses, labs, or problems
+* :video_camera: - videos
+* :headphones: - podcasts
+* :books: - books or long reads
+* :page_facing_up: - articles, short reads, or tutorials
+* :moneybag: - paid resource
+
 ###Beginner
-####Interactive
-* [CodeAcademy HTML & CSS](http://www.codecademy.com/en/tracks/web) - CodeAcademy’s HTML fundamentals is a great starter for first-timers with HTML.  It will teach you basic elements while completing interactive challenges in your browser. Plus, it’s free!
-* [Khan Academy Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css) - Free - Great HTML primer with some sprinkled in CSS (you’ll quickly learn it’s hard to separate HTML from CSS...well-written HTML leads to better CSS and vice-versa!)
+#### Interactive
+* [CodeAcademy HTML & CSS](http://www.codecademy.com/en/tracks/web) - CodeAcademy’s HTML fundamentals is a great starter for first-timers with HTML.  It will teach you basic elements while completing interactive challenges in your browser. Plus, it’s free! :computer:
+* [Khan Academy Intro to HTML](https://www.khanacademy.org/computing/computer-programming/html-css) - Free - Great HTML primer with some sprinkled in CSS (you’ll quickly learn it’s hard to separate HTML from CSS...well-written HTML leads to better CSS and vice-versa!) :computer:
 
 ####Blog
-* [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/) by Shay Howe - Shay Howe’s goes in-depth on what HTML is, understanding elements, attributes, and tags, and how to pull everything together to write HTML markup for your first web page. 
-* [HTML Dog Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/) - Learn about lists, links, tables, forms, and pulling it all together!
+* [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/) by Shay Howe - goes in-depth on what HTML is, understanding elements, attributes, tags, and how to pull everything together to write HTML markup for your first web page. :page_facing_up:
+* [HTML Dog Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/) - Learn about lists, links, tables, forms, and pulling it all together! :page_facing_up:
 
 ####Video
-* [Lynda.com](http://www.lynda.com/default.aspx) videos are free with a DC Public Library card.  You can be a resident of DC, NoVA, or MD to apply for a DCPL card! The org code on Lynda.com is dclibrary.org.
-* [HTML Structure, Syntax, and Semantics](http://www.lynda.com/HTML-tutorials/HTML5-Structure-Syntax-Semantics/182177-2.html) - What is structure? What is syntax? What are semantics?  This set of videos will set you on the right path. Free with a DC library card!
+* [Lynda.com](http://www.lynda.com/default.aspx) videos are free with a DC Public Library card.  You can be a resident of DC, NoVA, or MD to apply for a DCPL card! The org code on Lynda.com is dclibrary.org. :video_camera:
+* [HTML Structure, Syntax, and Semantics](http://www.lynda.com/HTML-tutorials/HTML5-Structure-Syntax-Semantics/182177-2.html) - What is structure? What is syntax? What are semantics?  This set of videos will set you on the right path. Free with a DC library card! :video_camera:
 
 ####Projects
 * Write the HTML for this screenshot of [Mint.com](https://drive.google.com/file/d/0B6IhK981Uf1tcFJ1RS0xT2hVYUpZa3JINUc0bFhaQ3h6T01B/view?usp=sharing).
@@ -48,24 +56,24 @@ If this is your first time with HTML/CSS, we encourage you to go through our [Fi
 
 ###Intermediate
 ####Blog
-* [HTML Dog Intermediate Tutorial](http://www.htmldog.com/guides/html/intermediate/) - Learn about ```<span>``` and ```<div>``` elements (and how not to overuse them).
-* [OverAPI HTML Cheat Sheet](http://overapi.com/html/) - Cheat Sheet for all your HTML needs!
+* [HTML Dog Intermediate Tutorial](http://www.htmldog.com/guides/html/intermediate/) - Learn about ```<span>``` and ```<div>``` elements (and how not to overuse them). :page_facing_up:
+* [OverAPI HTML Cheat Sheet](http://overapi.com/html/) - Cheat Sheet for all your HTML needs! :page_facing_up:
 
 ###Video
-* [Introduction to HTML](http://code.tutsplus.com/courses/introduction-to-html) - Form elements - Tuts+ is subscription based but you can sign up for a free trial 
-* [How to Build a Form with HTML](https://teamtreehouse.com/library/html/forms/inputs) - Treehouse - Forms are everywhere on web pages. Learn to build one with HTML!
+* [Introduction to HTML](http://code.tutsplus.com/courses/introduction-to-html) - Form elements - Tuts+ is subscription based but you can sign up for a free trial. :video_camera: 
+* [How to Build a Form with HTML](https://teamtreehouse.com/library/html/forms/inputs) - Treehouse - Forms are everywhere on web pages. Learn to build one with HTML! :video_camera:
 
 ###Projects
 * Write the HTML a site with a home page (index.html) and an about page (about.html). 
 
 ###Advanced
 ###Blog 
-* [HTML Dog Advanced Tutorial](http://www.htmldog.com/guides/html/advanced/) - Final HTML Dog tutorial.
-* [HTML Semantics and Front-End Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers) by Nicholas Gallagher 
+* [HTML Dog Advanced Tutorial](http://www.htmldog.com/guides/html/advanced/) - Final HTML Dog tutorial. :page_facing_up:
+* [HTML Semantics and Front-End Architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/#component-modifiers) by Nicholas Gallagher. :page_facing_up: 
 
 ###Projects
 * Write the HTML markup for [Vox.com](http://www.vox.com/)
 * Write the HTML markup for the [New York Times](http://www.nytimes.com/) homepage
 
 ###Books
-* [HTML & CSS](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) by Jon Duckett
+* [HTML & CSS](http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) by Jon Duckett. :books:
