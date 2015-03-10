@@ -2,6 +2,17 @@
 
 So, if you’re reading this, I’m assuming you’ve got a handle on HTML and are looking to learn how to make it look pretty, or at the very least not completely boring. You may also be a more advanced coder looking to learn how to create basic effects, like hovering boxes, and fooling around with opacity or making dropdown menu’s (yes, you can do this in CSS). 
 
+### Learning Resources Legend
+* :computer: - interactive courses, labs, or problems
+* :video_camera: - videos
+* :headphones: - podcasts
+* :books: - books or long reads
+* :page_facing_up: - articles, short reads, or tutorials
+* :moneybag: - paid resource
+* :new_moon: - Beginners 
+* :first_quarter_moon: - Intermediate
+* :full_moon_with_face: - Advanced
+
 Thankfully, there are a ton of resources at your disposal.  Here are some that we at Women Who Code D.C. recommend.
 If you haven’t been introduced to the resource legends that we are using to label and direct you to the resource that is best for you based on learning style and complexity, here is a recap:
 
@@ -17,7 +28,7 @@ This is one way we are organizing the resources listed. If you’d like to figur
 
 We are also organizing by complexity:
 
- 1. Newcomers and Novices :new_moon:– These are materials for people who range from only knowing a little to knowing absolutely nothing. These materials include basic descriptions, history and the tools you need to get started. 
+ 1. Beginners :new_moon:– These are materials for people who range from only knowing a little to knowing absolutely nothing. These materials include basic descriptions, history and the tools you need to get started. 
  2. Intermediate :first_quarter_moon:– Pretty sure most people know what intermediate means, but just in case you want to know what we mean by it, here goes. People who know the basics. People that can implement the programming or scripting language they are trying to learn to some capacity. If you’re learning CSS, this would be someone who is somewhat comfortable creating external styling sheets and changing background colors or styling footers.
  3. Advanced :full_moon_with_face:– Advanced? What are you folks doing here? Just kidding, an advanced person would be someone who is fluent in a language, possibly using it professionally and is looking for more in depth or outright new material. To be honest, the amount of material we have for advanced learners is limited since WWCDC is a little more aimed at introducing women to programming rather than advancing those who are already in it. However, we are open to all and will definitely try to keep people updated on any new information that is related to front-end programming.
  
