@@ -4,7 +4,7 @@
 
 When someone says “frontend” of the web, what they really mean is the part of the website or web application that a person can visually see and interact with. As the name states “Front-End” is the part of the code that is on the front of the application. The main purpose of the front-end code is to interact with user, as well as present the data in a well-defined style, and structure. It usually consists of two parts: 
 
-* the design - aesthetics of the website or application, understanding element arrangements on the screen, the color and font choices
+* design - aesthetics of the website or application, understanding element arrangements on the screen, the color and font choices
 
 * front end web development or client-side development- development of those elements of a website that the user sees and interacts with directly. This piece involves programming skills, comprising mainly of **HTML**, **CSS**, and **Javascript** but certainly not limited to them.
 
@@ -21,9 +21,9 @@ Almost all the elements that you see, and interact with on any website is a mixt
 * Laptop/PC: Front end development is not restricted by the machine you are using, you can start coding on PCs, Macs, or Linux machines. 
 
 * Text Editor: we donot and should not code in regular word processors, you would need user-friendly text editors that does syntax highlighting. These are some that we recommend:
-  * [Sublime Text](http://www.sublimetext.com/)
+  * [Sublime Text](http://www.sublimetext.com/) - MAC & Windows
   * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
-  * [Notepad++](http://notepad-plus-plus.org/)
+  * [Notepad++](http://notepad-plus-plus.org/) - MAC & Windows
   
 * Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with backing up your work, collaboration, and managing changes through iterative versions. You would need Git installed on your computer, and an account on [Github](https://github.com). For an introduction to Git and Github, refer our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
 
