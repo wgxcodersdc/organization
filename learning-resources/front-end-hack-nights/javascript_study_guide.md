@@ -109,6 +109,7 @@ You know basic Javascript and want to further your understanding of functions an
 * Create cool shapes, animations, and games with [HTML5 Canvas](http://billmill.org/static/canvastutorial/index.html)
 * Build a robot in the [Fight Code Game](http://fightcodegame.com/) 
 * Create a mashup using one of the APIs featured in [Wanted! Simple APIs Without Authentication](https://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
+* Make a [VideoGame](http://www.codecademy.com/courses/web-beginner-en-X7bpO/0/1?curriculum_id=50b91eda28c2fb212300039e)
 
 ### Advanced Resources
 You’ve gotten pretty good at this JavaScript thing and are looking to improve your code. You may know several JavaScript libraries but you would like to improve your plain JavaScript skills as well.
@@ -128,3 +129,4 @@ You’ve gotten pretty good at this JavaScript thing and are looking to improve 
 #### Project Ideas
 * Create a mashup with the [Google Maps JavaScript API v3](https://developers.google.com/maps/documentation/javascript/tutorial)
 * Create an [offline web application](http://diveintohtml5.info/offline.html)
+* Contribute to Open Source libraries.
