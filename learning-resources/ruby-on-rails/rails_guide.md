@@ -75,7 +75,9 @@ You can also use tools like Nitrious.io and c9.io to build Rails apps in a virtu
   * [Sublime Text](http://www.sublimetext.com/) *Note: You can pay to stop seeing the occasional suggestion to buy it, but you do not have to.*
   * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
   * [Notepad++](http://notepad-plus-plus.org/)
-* Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with backing up your work, collaboration, and managing changes through iterative versions. You would need Git installed on your computer, and an account on [Github](https://github.com). For an introduction to Git and Github, refer to our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
+* Terminal/Console/Command Prompt(CMD)
+		*It's a good idea to get comfortable using command prompt, most tutorials have an introductory lesson covering this. If you want more information covering this 
+*Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with backing up your work, collaboration, and managing changes through iterative versions. You would need Git installed on your computer, and an account on [Github](https://github.com). For an introduction to Git and Github, refer to our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
 
 ###How do I run my ROR website? 
 Rails comes with a built web server called WEBrick that you can run to test out your apps locally (cool!). When you are ready to deploy online there are several popular hosting services like Heroku that make it easy to run your app live. 
