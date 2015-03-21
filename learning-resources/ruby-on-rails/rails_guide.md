@@ -25,7 +25,7 @@ Ruby is known among programmers for a terse, uncluttered syntax that doesn’t r
 
 Ruby’s key advantage is RubyGems, the package manager that makes it easy to create and share software libraries (gems) that extend Ruby. RubyGems provides a simple system to install gems. Anyone can upload a gem to the central [RubyGems website](https://rubygems.org/), making the gem immediately available for installation by anyone. The RubyGems website is where you’ll obtain the most recent version of Rails. And it is where you will obtain all the gems that help you build complex websites.
 
-[source](http://railsapps.github.io/what-is-ruby-rails.html - read about the disadvantages as well)
+[source](http://railsapps.github.io/what-is-ruby-rails.html)
 
 ###What’s the difference between Ruby and Rails?
 
