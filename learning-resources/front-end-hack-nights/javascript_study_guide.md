@@ -80,6 +80,8 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 * Create a [to do list](http://thewebrocks.com/publications/smashingbook3/todolist/) application
 * Create an image gallery or [image slider](http://rafbm.github.io/howtomakeaslider/)
 * Make a quiz on one of your favorite topics
+* Create a BMI calculator
+* Create a loan repayment calculator
 
 ### Intermediate Resources
 You know basic Javascript and want to further your understanding of functions and objects. You are also are ready for deep dives on specific topics. 
