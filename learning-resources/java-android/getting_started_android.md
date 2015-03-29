@@ -62,19 +62,19 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 **Ensure that you have the most recent version of Android Studio:**
 
-After launching Android Studio, select the check for updates option in the toolbar.** 
+After launching Android Studio, select the check for updates option in the toolbar. 
 
 [More details needed here to download and install the appropriate packages]
 
 ###Let’s take the time to set up your phone.###
 
-Now is a good time as any to set up your phone/tablet if you have one. (Remember, you can build and test many apps with just the built-in emulator.)  You have to do four things to enable testing of your apps on your device:
+Now is a good time as any to set up your phone/tablet if you have one. emember, you can build and test many apps with just the built-in emulator, so the connected phone/tablet is just a bonus.  You have to do four things to enable testing of your apps on your device:
 
-* Ensure your phone will allow the installation of apps from unknown sources (the unknown source is you rather than apps from the Play Store.)  Try looking under Settings → Security and make sure the checkbox for Unknown Sources is checked.
+* Ensure your phone will allow the installation of apps from unknown sources (the unknown source is you rather than apps from the Play Store.)  Try looking under Settings → Security and make sure the checkbox for _Unknown Sources_ is checked.
 
-* Turn on Developer Options under Settings if that option isn't currently available.  To do this, go to About Phone, find the build number, and click on it several times until it unlocks Developer Options.
+* Turn on _Developer Options_ under Settings if that option isn't currently available.  To do this, go to About Phone, find the build number, and click on it several times until it unlocks Developer Options.
 
-* Allow USB debugging.  Try looking under Settings → Developer Options and check the USB debugging box.
+* Allow _USB debugging_.  Try looking under Settings → Developer Options and check the USB debugging box.
 
 * Connect your Android phone to your computer via a cable.
 
