@@ -2,6 +2,11 @@
 
 _If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one we cater to beginners._
 
+**Table of Contents**
+* What is Android?
+* What is Android used for?
+* 
+
 ###What is Android?###
 
 Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s [Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/) course.  More <a href="#JavaResources">Java resources</a> can be found at the end of this document.
@@ -16,7 +21,7 @@ You can write Android programs on PCs, Macs, and Linux machines.  This is unlike
 
 ###Do I need an Android phone/tablet in order to make an app?###
 
-No!  (Though it sure is fun to put the apps you make on your own device.)  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators like genymotion which we will discuss later.
+No!  Though it sure is fun to put the apps you make on your own device.  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators like genymotion which we will discuss later.
 
 ###I'm ready to get started.  What should I do first?###
 
