@@ -20,7 +20,7 @@ No!*  The Android SDK includes a mobile device emulator — a virtual mobile dev
 
 **What should I do first?**
 
-Check to see that you have JDK 7 on your computer.  JDK 8 is not yet supported by Android.
+Check to see that you have JDK 7 or JDK 8 on your computer.  
 
 * Windows:  visit [https://www.java.com/verify/](https://www.java.com/verify/) to check to see if the JDK is already installed on your machine.  Remember this is the JDK, not the JRE.
 
@@ -61,7 +61,7 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 Important to note!
 
-After launching Android Studio, please check to see if you have the most recent version.  There is a check for updates optin in the toolbar.  
+After launching Android Studio, please check to see if you have the most recent version.  There is a check for updates option in the toolbar.  
 
 [More details needed here to download and install the appropriate packages]
 
