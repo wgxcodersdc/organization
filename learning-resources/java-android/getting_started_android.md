@@ -183,7 +183,7 @@ Once you have your app in a place where you wish to share it, you can package yo
 
 * [IntellJ](https://www.jetbrains.com/idea/)
 
-#Supplemental Java Resources#
+#<a name="JavaResources">Supplemental Java Resources</a>#
 
 **_Courses_**
 
