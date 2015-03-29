@@ -4,7 +4,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 
 ###What is Android?###
 
-Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s **[Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/)** course.  More Java resources(#JavaResources) can be found at the end of this document.
+Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s **[Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/)** course.  More <a href="#JavaResources">Java resources</a> can be found at the end of this document.
 
 ###What is Android used for?###
 
