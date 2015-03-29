@@ -81,6 +81,18 @@ Now is a good time as any to set up your phone/tablet if you have one. emember, 
 ###Hello, **~~World~~** Android!###
 
 It’s time to check to see if everything has been installed and is working properly.  We will make a simple Hello World app.  Try this [tutorial](http://www.techotopia.com/index.php/Creating_an_Example_Android_App_in_Android_Studio) or follow these directions:
+* Open Android Studio.
+* On the Welcome menu, click on _New Project_.
+* In the window that opens, you'll have to supply your new app's info:
+  * _Application Name_ is the app name that will appear to users.  Try using, "My First App" for this project.
+  * _Company Domain_ is the name of your company or group, something like "yourname.example.com".  This is used to automatically generate the package name below this field.  This is the package namespace for your app.  Your package name must be unique across all packages installed on the Android system. For this project, you can use something like the example. However, you cannot publish your app on Google Play using the "com.example" namespace.
+  * _Project Location_ can be left with the default path unless you desire an alterate folder for your project.
+  * _Minimum Required SDK_ is the lowest version of Android that your app supports, indicated using the API level.  It's a good idea to leave it at the default value for this project.  Note:  Android 5.0 (Lollipop) is not widely used yet, so Android 4.4 (KitKat) is a safer bet.  Click Next.
+  * Leave Phone and Tablet checked, and leave Minimum SDK at the default. This indicates the lowest version of Android (also using the API level) with which you have tested with your application. Click Next.
+  * Leave Blank Activity selected and click Next.
+  * Leave all the details for the activity in their default state. Click Finish.
+  * Android Studio may take a minute or two to set up and then open your project. On Windows, allow any requests for Internet access you are prompted for.
+  * To test your app, hit the run button.  You will be prompted to run on an emulator or on a specific device.  [more]
 
 
 
