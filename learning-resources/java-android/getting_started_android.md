@@ -51,6 +51,7 @@ Now it’s time to download the most recent version of Android Studio, the offic
 If you need to use the Android SDK tools from a command line, you can access them at:  /Users/<user>/Library/Android/sdk/.
 
 **To set up Android Studio on Linux:**
+
 1. Unpack the downloaded ZIP file into an appropriate location for your applications.
 
 2. To launch Android Studio, navigate to the android-studio/bin/ directory in a terminal and execute studio.sh.
@@ -59,9 +60,7 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 4. Follow the setup wizard to install any necessary SDK tools.
 
-Important to note!
-
-After launching Android Studio, please check to see if you have the most recent version.  There is a check for updates option in the toolbar.  
+**Important to note! After launching Android Studio, please check to see if you have the most recent version.  There is a check for updates option in the toolbar.** 
 
 [More details needed here to download and install the appropriate packages]
 
