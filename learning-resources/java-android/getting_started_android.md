@@ -60,11 +60,13 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 4. Follow the setup wizard to install any necessary SDK tools.
 
-**Important to note! After launching Android Studio, please check to see if you have the most recent version.  There is a check for updates option in the toolbar.** 
+**Ensure that you have the most recent version of Android Studio:**
+
+After launching Android Studio, select the check for updates option in the toolbar.** 
 
 [More details needed here to download and install the appropriate packages]
 
-**Let’s take the time to set up your phone.**
+###Let’s take the time to set up your phone.###
 
 Now is a good time as any to set up your phone/tablet if you have one. (Remember, you can build and test many apps with just the built-in emulator.)  You have to do four things to enable testing of your apps on your device:
 
