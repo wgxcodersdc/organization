@@ -78,7 +78,7 @@ Now is a good time as any to set up your phone/tablet if you have one. emember, 
 
 * Connect your Android phone to your computer via a cable.
 
-**Hello, **~~World~~** Android!**
+###Hello, **~~World~~** Android!###
 
 It’s time to check to see if everything has been installed and is working properly.  We will make a simple [Hello World app](http://www.techotopia.com/index.php/Creating_an_Example_Android_App_in_Android_Studio).
 
