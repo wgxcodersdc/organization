@@ -1,6 +1,6 @@
 ##Welcome to the Android Hack Night Getting Started Guide##
 
-_If you are brand new to Android, we recommend coming to the first meeting of the month which is *First-Timers Night*.  You are welcome to come any week, but that first week will be the one we cater to beginners._
+_If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one we cater to beginners._
 
 ###What is Android?###
 
