@@ -1,6 +1,6 @@
 ##Welcome to the Android Hack Night Getting Started Guide##
 
-_If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one we cater to beginners._
+_If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one when we cater to beginners._
 
 **Table of Contents**
 * <a href="#WhatsAndroid">What is Android?</a>
@@ -16,19 +16,19 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 
 Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s [Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/) course.  More <a href="#JavaResources">Java resources</a> can be found at the end of this document.
 
-###What is Android used for?###
+###<a name="AndroidUses">What is Android used for?</a>###
 
 Android is used for making applications (apps) that run on Android devices.  This includes Android smartphones, smartwatches (Android Wear), and anything else that runs on the [Android operating system](https://developer.android.com/about/index.html) (OS) like [Andorid Wear](https://developer.android.com/wear/index.html), [Android TV](https://developer.android.com/tv/index.html), and [Android Auto](https://developer.android.com/auto/index.html).  Once developed, Android applications can be packaged easily and distributed or sold either through a store such as Google Play or the Amazon Appstore.
 
-###Which tools do I need?###
+###<a name="AndroidTools">Which tools do I need?</a>###
 
 You can write Android programs on PCs, Macs, and Linux machines.  This is unlike writing apps for iOS devices which can only be done on Macs legally.  You’ll need a piece of software called an IDE (Integrated Development Environment).  Android Studio is now the official IDE for Android, which we recommend.  It’s a free download and works on all platforms. Although there are other IDEs available to use with Android, such as Eclipse and IntelliJ, we are hoping to steer everyone towards Android Studio as that is the platform fully supported by Google, the developer of Android,  moving forward.  You will also need both the Java Development Kit (JDK) and the Android SDK.  Note:  the JDK is different than the JRE (Java Runtime Environment) which allows people to run Java programs.  We need the JDK to be able to write Java programs.
 
-###Do I need an Android phone/tablet in order to make an app?###
+###<a name="PhoneNotNeeded">Do I need an Android phone/tablet in order to make an app?</a>###
 
 No!  Though it sure is fun to put the apps you make on your own device.  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators like genymotion which we will discuss later.
 
-###I'm ready to get started.  What should I do first?###
+###<a name="InstallJava">I'm ready to get started.  What should I do first?</a>###
 
 Check to see that you have JDK 7 or JDK 8 on your computer.  
 
@@ -38,7 +38,7 @@ Check to see that you have JDK 7 or JDK 8 on your computer.
 
 * If you don’t have Java on your machine, install the JDK by visiting [Oracle’s website](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and downloading the most recent version of the Java SE 7 that is appropriate for your machine.
 
-###Okay, I’ve got Java.  Now what?###
+###<a name="InstallAS">Okay, I’ve got Java.  Now what?</a>###
 
 Now it’s time to download the most recent version of Android Studio, the official Android IDE.  Visit [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html) to get the software appropriate for your operating system.
 
@@ -76,7 +76,7 @@ After launching Android Studio, select the check for updates option in the toolb
 
 [More details needed here to download and install the appropriate packages]
 
-###Let’s take the time to set up your phone.###
+###<a name="SetupPhone">Let’s take the time to set up your phone.</a>###
 
 Now is a good time as any to set up your phone/tablet if you have one. emember, you can build and test many apps with just the built-in emulator, so the connected phone/tablet is just a bonus.  You have to do four things to enable testing of your apps on your device:
 
@@ -88,7 +88,7 @@ Now is a good time as any to set up your phone/tablet if you have one. emember, 
 
 * Connect your Android phone to your computer via a cable.
 
-###Hello, **~~World~~** Android!###
+###<a name="HelloAndroid">Hello, **~~World~~** Android!</a>###
 
 It’s time to check to see if everything has been installed and is working properly.  We will make a simple Hello World app.  Try this [tutorial](http://www.techotopia.com/index.php/Creating_an_Example_Android_App_in_Android_Studio) or follow these directions:
 * Open Android Studio.
