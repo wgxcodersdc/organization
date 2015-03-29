@@ -3,11 +3,16 @@
 _If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one we cater to beginners._
 
 **Table of Contents**
-* What is Android?
-* What is Android used for?
-* 
+* <a href="#WhatsAndroid">What is Android?</a>
+* <a href="#AndroidUses">What is Android used for?</a>
+* <a href="#AndroidTools">Which tools do I need?</a>
+* <a href="#PhoneNotNeeded">Do I need a phone to make Android apps?</a>
+* <a href="#InstallJava">What should I do first? (Install Java)</a>
+* <a href="#InstallAS">Now what? (Install Android Studio)</a>
+* <a href="#SetupPhone">Setup your phone/tablet</a>
+* <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
 
-###What is Android?###
+###< name="WhatsAndroid">What is Android?</a>###
 
 Android is a software stack for mobile devices that includes an operating system, middleware, and key applications. The Android Software Development Kit (SDK) provides the tools and Application Programming Interfaces (APIs) necessary to begin developing applications on the Android platform using the Java programming language.  You should know the basics of Java programming before starting your Android journey.  A good course to learn enough Java to prepare for Android programming is Udemy’s [Become an Android Developer From Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/) course.  More <a href="#JavaResources">Java resources</a> can be found at the end of this document.
 
