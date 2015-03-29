@@ -12,15 +12,13 @@ Android is used for making applications (apps) that run on Android devices.  Thi
 
 ###Which tools do I need?###
 
-You can write Android programs on PCs, Macs, and Linux machines.  (This is unlike writing apps for iOS devices which can only be done on Macs.)  You’ll need a piece of software called an IDE (Integrated Development Environment).  Android Studio is now the official IDE for Android, which we recommend.  It’s a free download and works on all platforms. Although there are other IDEs available to use with Android, such as Eclipse and IntelliJ, we are hoping to steer everyone towards Android Studio as that is the platform fully supported by Google, the developer of Android,  moving forward.  You will also need both the Java Development Kit (JDK) and the Android SDK.  Note:  the JDK is different than the JRE (Java Runtime Environment) which allows people to run Java programs.  We need the JDK to be able to write Java programs.
+You can write Android programs on PCs, Macs, and Linux machines.  This is unlike writing apps for iOS devices which can only be done on Macs legally.  You’ll need a piece of software called an IDE (Integrated Development Environment).  Android Studio is now the official IDE for Android, which we recommend.  It’s a free download and works on all platforms. Although there are other IDEs available to use with Android, such as Eclipse and IntelliJ, we are hoping to steer everyone towards Android Studio as that is the platform fully supported by Google, the developer of Android,  moving forward.  You will also need both the Java Development Kit (JDK) and the Android SDK.  Note:  the JDK is different than the JRE (Java Runtime Environment) which allows people to run Java programs.  We need the JDK to be able to write Java programs.
 
-**Do I need an Android phone/tablet in order to make an app?**
+###Do I need an Android phone/tablet in order to make an app?###
 
-No!*  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators we will discuss later.
+No!  (Though it sure is fun to put the apps you make on your own device.)  The Android SDK includes a mobile device emulator — a virtual mobile device that runs on your computer. The emulator lets you develop and test Android applications without using a physical device.  There are other emulators like genymotion which we will discuss later.
 
-*It sure is fun though to put the apps you make on your own device.
-
-**What should I do first?**
+###I'm ready to get started.  What should I do first?###
 
 Check to see that you have JDK 7 or JDK 8 on your computer.  
 
@@ -28,9 +26,9 @@ Check to see that you have JDK 7 or JDK 8 on your computer.
 
 * Mac/Linux:  open a terminal window and type "which javac".  If something appears, then you have a version of the Java JDK on your machine.  If you’d like to know which version of Java you have, type “javac -version”.
 
-* If you don’t have Java on your machine, install the JDK by visiting Oracle’s [website](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and downloading the most recent version of the Java SE 7 that is appropriate for your machine.
+* If you don’t have Java on your machine, install the JDK by visiting [Oracle’s website](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and downloading the most recent version of the Java SE 7 that is appropriate for your machine.
 
-**Okay, I’ve got Java.  Now what?**
+###Okay, I’ve got Java.  Now what?###
 
 Now it’s time to download the most recent version of Android Studio, the official Android IDE.  Visit [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html) to get the software appropriate for your operating system.
 
