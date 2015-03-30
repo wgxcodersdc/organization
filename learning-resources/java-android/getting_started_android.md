@@ -152,7 +152,7 @@ Some older resources use Eclipse, but similar features are available in Android 
 
 * Eclipse
 
-  * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage)** **(free)- videos from 2013/early 2014, four week courses start ~monthly
+  * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - videos from 2013/early 2014, four week courses start ~monthly
 
   * [Coursera Sequence](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - uses Eclipse in video
 
@@ -160,7 +160,7 @@ Some older resources use Eclipse, but similar features are available in Android 
 
   * [Beginner Coursera](https://www.coursera.org/course/androidapps101)[ (free)](https://www.coursera.org/course/androidapps101)
 
-  * [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)[ (get free access with DC or Arlington library card!)](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
+  * [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html) - get free access with DC or Arlington library card! (http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
 
 ###<a name="Android Resources">Additional Android Resources</a>###
 
