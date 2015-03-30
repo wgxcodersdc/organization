@@ -14,6 +14,9 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
 * <a href="#Sharing">Sharing your app with others</a>
 * <a href="#PutAppInStore">Putting your app in the Google Play or Amazon App Stores</a>
+* <a href="#OnlineCourses">Online Android Courses</a>
+* <a href="#AndroidResources">Android Resources</a>
+* <a href="#JavaResources</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -142,11 +145,11 @@ Taking a bit of liberty here, we’d like to define three groups of Android deve
 
 * Advanced - [more]
 
-**_Android Courses_**
+###<a name="OnlineCourses">Android Courses</a>###
 
-(some older resources use Eclipse, but similar features are available in Android Studio)
+**Some older resources use Eclipse, but similar features are available in Android Studio.
 
- All Android Studio
+ ####All Android Studio####
 
 * [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW)** **(paid - Udemy)
 
