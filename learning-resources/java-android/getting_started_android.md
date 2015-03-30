@@ -147,7 +147,7 @@ Taking a bit of liberty here, we’d like to define three groups of Android deve
 
 ###<a name="OnlineCourses">Android Courses</a>###
 
-**Some older resources use Eclipse, but similar features are available in Android Studio.
+**Some older resources use Eclipse, but similar features are available in Android Studio.**
 
  ####All Android Studio####
 
