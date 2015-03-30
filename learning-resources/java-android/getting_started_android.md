@@ -203,7 +203,7 @@ Android Studio just came out of Beta in the fall, so if you need help with Andro
 
 ###<a name="WhereToGoFromHere">Where to go from here</a>###
 
-* Come to **[Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/)**. You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
+* Come to [Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/). You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
 * Check out the **Projects and Challenges** document.
 * **Keep in touch!**
   * [Tweet](https://twitter.com/WomenWhoCodeDC) us.
