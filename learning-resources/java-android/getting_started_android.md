@@ -11,6 +11,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#InstallAS">Now what? (Install Android Studio)</a>
 * <a href="#SetupPhone">Setup your phone/tablet</a>
 * <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
+* <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -103,8 +104,14 @@ It’s time to check to see if everything has been installed and is working prop
   * Leave all the details for the activity in their default state. Click Finish.
   * Android Studio may take a minute or two to set up and then open your project. On Windows, allow any requests for Internet access you are prompted for.
   * To test your app, hit the run button (looks like a green play button).  
-  * If there are no errors, you will be prompted to run on a specific device or on an emulator.  If your device is plugged in and drivers are loaded, it should show up in the list.
+  * If there are no errors, you will be prompted to run on a specific device or on an emulator.  If your device is plugged in and drivers are loaded, it should show up in the list.  If it doesn't, you might have to install the driver for your phone from the manufacturer's website.
+  
+###How to install a faster emulator###
 
+[Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
+
+**_Linux installation of the genymotion package -_** After downloading the .bin file, move the .bin file where you would like to access genymotion from (suggested /home/username/Android/). Within that directory, type: chmod +x genymotion-*versionNumber*.bin to unpack genymotion. Remember what directory genymotion is in; you will need to know this when installing the plugin in Eclipse/Android Studio!  The[ plugin installation directions](https://www.genymotion.com/#!/download) on genymotion.com are otherwise pretty clear.
+  
 **Where do I go from here?**
 
 You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
@@ -165,11 +172,7 @@ Eclipse
 
 Multiple Activities, Layouts, Fragments, Persistence of Data (Shared Preferences, Files, SQLite, Parse, Firebase), Services, APIs, Sensors
 
-**How to install a faster emulator**
 
-[Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
-
-**_Linux installation of the genymotion package -_** After downloading the .bin file, move the .bin file where you would like to access genymotion from (suggested /home/username/Android/). Within that directory, type: chmod +x genymotion-*versionNumber*.bin to unpack genymotion. Remember what directory genymotion is in; you will need to know this when installing the plugin in Eclipse/Android Studio!  The[ plugin installation directions](https://www.genymotion.com/#!/download) on genymotion.com are otherwise pretty clear.
 
 **Where to find help**
 
