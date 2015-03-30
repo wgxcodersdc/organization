@@ -180,7 +180,7 @@ Some older resources use Eclipse, but similar features are available in Android 
 
   * [Big Nerd Ranch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp) (1 week)
 
-#<a name="JavaResources">Supplemental Java Resources</a>#
+###<a name="JavaResources">Supplemental Java Resources</a>###
 
 * Courses
 
@@ -216,42 +216,16 @@ Some older resources use Eclipse, but similar features are available in Android 
 
   * [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
 
+###Where to go find help###
+
+Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.
+
+###Where to go from here###
+
+* Come to **Android Hack Nights.** You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
+* Check out the **Projects and Challenges** document.
+* Keep in touch.
 
 
 
 
-
-
-**Suggested topics to tackle**
-
-Multiple Activities, Layouts, Fragments, Persistence of Data (Shared Preferences, Files, SQLite, Parse, Firebase), Services, APIs, Sensors
-
-**Where to find help**
-
-Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.  [more]
-
-**Suggested projects **[more]
-
-Easy - Tip Calculator
-
-Medium - ToDo List
-
-Hard
-
-**Additional IDEs**
-
-* [Eclipse](http://www.eclipse.org/)
-
-* [IntellJ](https://www.jetbrains.com/idea/)
-
-**Where do I go from here?**
-
-You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
-
-Taking a bit of liberty here, we’d like to define three groups of Android developers for the purposes of our hack nights:
-
-* Beginner - someone new to Android who uses tutorials to build apps
-
-* Intermediate - someone who comes up with an original idea and uses the constructs they’ve learned from the tutorials to put things together in new ways
-
-* Advanced - [more]
