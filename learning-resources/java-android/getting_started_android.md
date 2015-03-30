@@ -12,6 +12,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#SetupPhone">Setup your phone/tablet</a>
 * <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
 * <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
+* <a href="#Sharing">Sharing your app with others</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -111,6 +112,22 @@ It’s time to check to see if everything has been installed and is working prop
 [Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
 
 **_Linux installation of the genymotion package -_** After downloading the .bin file, move the .bin file where you would like to access genymotion from (suggested /home/username/Android/). Within that directory, type: chmod +x genymotion-*versionNumber*.bin to unpack genymotion. Remember what directory genymotion is in; you will need to know this when installing the plugin in Eclipse/Android Studio!  The[ plugin installation directions](https://www.genymotion.com/#!/download) on genymotion.com are otherwise pretty clear.
+
+###<a name="Sharing">How to share your app with others</a>###
+
+Once you have your app in a place where you wish to share it, you can package your app by creating a [signed APK (Android application package)](https://www.udacity.com/wiki/ud853/course_resources/creating-a-signed-apk) file.  Once this file is created, you can give it to anyone you want who has an Android phone.  An easy way to transfer the file is to send it to someone’s Gmail account as an attachment.  When they open the email from their phone, an option to download and install the app shows up right away.  Easy breezy!
+
+**How to put your app in the Google Play Store**
+
+* Register for a [Publisher Account](http://developer.android.com/distribute/googleplay/start.html) and pay the one-time $25 account fee.  This will allow you to publish an unlimited amount of apps.
+
+* Complete the [launch checklist](http://developer.android.com/distribute/tools/launch-checklist.html).
+
+* Share your success by letting WomenWhoCode DC know that you published an Android app!
+
+**Where to buy inexpensive Android phones**
+
+* [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
   
 **Where do I go from here?**
 
@@ -186,21 +203,7 @@ Medium - ToDo List
 
 Hard
 
-**How to share your app with others**
 
-Once you have your app in a place where you wish to share it, you can package your app by creating a [signed APK (Android application package)](https://www.udacity.com/wiki/ud853/course_resources/creating-a-signed-apk) file.  Once this file is created, you can give it to anyone you want who has an Android phone.  An easy way to transfer the file is to send it to someone’s Gmail account as an attachment.  When they open the email from their phone, an option to download and install the app shows up right away.  Easy breezy!
-
-**How to put your app in the Google Play Store**
-
-* Register for a [Publisher Account](http://developer.android.com/distribute/googleplay/start.html) and pay the one-time $25 account fee.  This will allow you to publish an unlimited amount of apps.
-
-* Complete the [launch checklist](http://developer.android.com/distribute/tools/launch-checklist.html).
-
-* Share your success by letting WomenWhoCode DC know that you published an Android app!
-
-**Where to buy inexpensive Android phones**
-
-* [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
 
 **Additional IDEs**
 
