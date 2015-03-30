@@ -14,6 +14,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
 * <a href="#Sharing">Sharing your app with others</a>
 * <a href="#PutAppInStore">Putting your app in the Google Play or Amazon App Stores</a>
+* <a href="#InexpensivePhones">Where to buy inexpensive Android phones</a>
 * <a href="#OnlineCourses">Online Android Courses</a>
 * <a href="#AndroidResources">Android Resources</a>
 * <a href="#JavaResources</a>
@@ -129,7 +130,7 @@ Once you have your app in a place where you wish to share it, you can package yo
 
 * Share your success by letting WomenWhoCode DC know that you published an Android app!
 
-**Where to buy inexpensive Android phones**
+###<a name="#InexpensivePhones">Where to buy inexpensive Android phones</a>
 
 * [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
   
