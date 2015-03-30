@@ -130,7 +130,7 @@ Once you have your app in a place where you wish to share it, you can package yo
 
 * Share your success by letting WomenWhoCode DC know that you published an Android app!
 
-###<a name="#InexpensivePhones">Where to buy inexpensive Android phones</a>
+###<a name="InexpensivePhones">Where to buy inexpensive Android phones</a>
 
 * [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
   
