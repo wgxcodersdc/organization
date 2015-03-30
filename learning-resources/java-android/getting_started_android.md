@@ -106,7 +106,7 @@ It’s time to check to see if everything has been installed and is working prop
   * To test your app, hit the run button (looks like a green play button).  
   * If there are no errors, you will be prompted to run on a specific device or on an emulator.  If your device is plugged in and drivers are loaded, it should show up in the list.  If it doesn't, you might have to install the driver for your phone from the manufacturer's website.
   
-###How to install a faster emulator###
+###<a name="InstallFasterEmulator">How to install a faster emulator</a>###
 
 [Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
 
