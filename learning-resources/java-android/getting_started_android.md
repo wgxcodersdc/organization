@@ -141,9 +141,7 @@ Some older resources use Eclipse, but similar features are available in Android 
 * All Android Studio
 
   * [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW) (paid - Udemy, course is often $10)
-
   * [Developing Android Apps](https://www.udacity.com/course/ud853) (free - Udacity)
-
   * [University of Reading Beginner Tutorial](https://www.futurelearn.com/courses/begin-programming) (free)
 
 * Some Eclipse/ Some Android Studio
@@ -153,13 +151,9 @@ Some older resources use Eclipse, but similar features are available in Android 
 * Eclipse
 
   * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - videos from 2013/early 2014, four week courses start ~monthly
-
   * [Coursera Sequence](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - uses Eclipse in video
-
   * [How to Program for Beginners](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)[ (free)](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)
-
   * [Beginner Coursera](https://www.coursera.org/course/androidapps101)[ (free)](https://www.coursera.org/course/androidapps101)
-
   * [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html) - get free access with DC or Arlington library card! (http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
 
 ###<a name="Android Resources">Additional Android Resources</a>###
@@ -167,7 +161,6 @@ Some older resources use Eclipse, but similar features are available in Android 
 * Android Tutorials
 
   * [Codepath](https://github.com/codepath/android_guides/wiki)
-
   * [TutorialsPoint](http://www.tutorialspoint.com/android/android_tutorial.pdf)
 
 * Android Books
@@ -177,7 +170,6 @@ Some older resources use Eclipse, but similar features are available in Android 
 * Android Bootcamps
 
   * [Code Path Evening Bootcamp ](https://codepath.com/androidbootcamp)(8 weeks)
-
   * [Big Nerd Ranch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp) (1 week)
 
 ###<a name="JavaResources">Java Resources</a>###
@@ -185,35 +177,24 @@ Some older resources use Eclipse, but similar features are available in Android 
 * Courses
 
   * [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
-
   * [Stanford University’s Introduction to Java](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
-
   * [A Bachelor’s Level Computer Science Curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
-
   * [Intro to Programming Udacity: Java](https://www.udacity.com/course/cs046)
-
   * [MIT’s Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
-
   * [Coursera Introduction to Android Programming](https://class.coursera.org/android-001/lecture)
-
   * [Intro to Programming](http://www.saylor.org/courses/cs101/)
-
   * [Virtual Pair Programmers](https://www.virtualpairprogrammers.com/training-courses/Java-Fundamentals-training.html)
 
 * Books
 
   * [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1400022857&sr=8-1&keywords=head+first+java)
-
   * [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
-
   * [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
 
 * Exercises and Tutorials
 
   * [Coding Bat Java Exercises](http://codingbat.com/java)
-
   * [Coderbyte Java Exercises](http://www.coderbyte.com/CodingArea/Challenges/)
-
   * [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
 
 ###<a name="Help">Where to go for help</a>###
@@ -222,14 +203,15 @@ Android Studio just came out of Beta in the fall, so if you need help with Andro
 
 ###<a name="WhereToGoFromHere">Where to go from here</a>###
 
-* Come to **Android Hack Nights.** You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
+* Come to **[Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/)**. You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
 * Check out the **Projects and Challenges** document.
 * **Keep in touch!**
-  * Tweet us.
+  * [Tweet](https://twitter.com/WomenWhoCodeDC) us.
   * Email us - WWCodeDC@gmail.com
-  * Check us out on Github.
-  * Visit our website.
-  * Join our Slack group.
+  * Check us out on [Github](https://github.com/womenwhocodedc).
+  * Visit our [website](http://womenwhocodedc.github.io/).
+  * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
+
 
 
 
