@@ -133,19 +133,7 @@ Once you have your app in a place where you wish to share it, you can package yo
 
 * [FreedomPop - $24.99](https://www.freedompop.com/offer/zte2499promo?utm_source=affiliate&utm_medium=slickdeals&utm_campaign=zte2499promo&sdtid=7609918)
   
-**Where do I go from here?**
-
-You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
-
-Taking a bit of liberty here, we’d like to define three groups of Android developers for the purposes of our hack nights:
-
-* Beginner - someone new to Android who uses tutorials to build apps
-
-* Intermediate - someone who comes up with an original idea and uses the constructs they’ve learned from the tutorials to put things together in new ways
-
-* Advanced - [more]
-
-###<a name="OnlineCourses">Android Courses</a>###
+###<a name="OnlineCourses">Online Android Courses</a>###
 
 Some older resources use Eclipse, but similar features are available in Android Studio.
 
@@ -173,27 +161,69 @@ Some older resources use Eclipse, but similar features are available in Android 
 
   * [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)[ (get free access with DC or Arlington library card!)](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
 
-**_Android Tutorials_**
+###<a name="Android Resources">Additional Android Resources</a>###
 
-* [Codepath](https://github.com/codepath/android_guides/wiki)
+* Android Tutorials
 
-* [TutorialsPoint](http://www.tutorialspoint.com/android/android_tutorial.pdf)
+  * [Codepath](https://github.com/codepath/android_guides/wiki)
 
-**_Android Books_**
+  * [TutorialsPoint](http://www.tutorialspoint.com/android/android_tutorial.pdf)
 
-* [Big Nerd Ranch](http://www.bignerdranch.com/we-write/android-programming.html)
+* Android Books
 
-**_Android Bootcamps_**
+  * [Big Nerd Ranch](http://www.bignerdranch.com/we-write/android-programming.html)
 
-* [Code Path Evening Bootcamp ](https://codepath.com/androidbootcamp)(8 weeks)
+* Android Bootcamps
 
-* [Big Nerd Ranch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp) (1 week)
+  * [Code Path Evening Bootcamp ](https://codepath.com/androidbootcamp)(8 weeks)
+
+  * [Big Nerd Ranch Bootcamp](https://training.bignerdranch.com/classes/android-bootcamp) (1 week)
+
+#<a name="JavaResources">Supplemental Java Resources</a>#
+
+* Courses
+
+  * [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
+
+  * [Stanford University’s Introduction to Java](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+
+  * [A Bachelor’s Level Computer Science Curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+
+  * [Intro to Programming Udacity: Java](https://www.udacity.com/course/cs046)
+
+  * [MIT’s Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+
+  * [Coursera Introduction to Android Programming](https://class.coursera.org/android-001/lecture)
+
+  * [Intro to Programming](http://www.saylor.org/courses/cs101/)
+
+  * [Virtual Pair Programmers](https://www.virtualpairprogrammers.com/training-courses/Java-Fundamentals-training.html)
+
+* Books
+
+  * [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1400022857&sr=8-1&keywords=head+first+java)
+
+  * [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
+
+  * [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
+
+* Exercises and Tutorials
+
+  * [Coding Bat Java Exercises](http://codingbat.com/java)
+
+  * [Coderbyte Java Exercises](http://www.coderbyte.com/CodingArea/Challenges/)
+
+  * [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
+
+
+
+
+
+
 
 **Suggested topics to tackle**
 
 Multiple Activities, Layouts, Fragments, Persistence of Data (Shared Preferences, Files, SQLite, Parse, Firebase), Services, APIs, Sensors
-
-
 
 **Where to find help**
 
@@ -207,46 +237,20 @@ Medium - ToDo List
 
 Hard
 
-
-
 **Additional IDEs**
 
 * [Eclipse](http://www.eclipse.org/)
 
 * [IntellJ](https://www.jetbrains.com/idea/)
 
-#<a name="JavaResources">Supplemental Java Resources</a>#
+**Where do I go from here?**
 
-**_Courses_**
+You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
 
-* [Java for Complete Beginners (Udemy)](https://www.udemy.com/java-tutorial/)
+Taking a bit of liberty here, we’d like to define three groups of Android developers for the purposes of our hack nights:
 
-* [Stanford University’s Introduction to Java](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
+* Beginner - someone new to Android who uses tutorials to build apps
 
-* [A Bachelor’s Level Computer Science Curriculum](http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html)
+* Intermediate - someone who comes up with an original idea and uses the constructs they’ve learned from the tutorials to put things together in new ways
 
-* [Intro to Programming Udacity: Java](https://www.udacity.com/course/cs046)
-
-* [MIT’s Introduction to Programming in Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
-
-* [Coursera Introduction to Android Programming](https://class.coursera.org/android-001/lecture)
-
-* [Intro to Programming](http://www.saylor.org/courses/cs101/)
-
-* [Virtual Pair Programmers](https://www.virtualpairprogrammers.com/training-courses/Java-Fundamentals-training.html)
-
-**_Books_**
-
-* [Head First Java](http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/ref=sr_1_1?ie=UTF8&qid=1400022857&sr=8-1&keywords=head+first+java)
-
-* [Java: How to Program, 9th Edition (Deitel)](http://www.amazon.com/Java-How-Program-Edition-Deitel/dp/0132575663)
-
-* [Effective Java](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
-
-**_Exercises and Tutorials_**
-
-* [Coding Bat Java Exercises](http://codingbat.com/java)
-
-* [Coderbyte Java Exercises](http://www.coderbyte.com/CodingArea/Challenges/)
-
-* [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
+* Advanced - [more]
