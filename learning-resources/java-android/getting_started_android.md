@@ -20,7 +20,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#JavaResources">Java Resources</a>
 * <a href="#IDEs">Additional IDEs</a>
 * <a href="#Help">Get Help</a>
-* <a href="#Challenges and Projects">Challenges and Projects</a>
+* <a href="#Challenges">Challenges and Projects</a>
 * <a href="#KeepInTouch">Keep in Touch</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
@@ -206,10 +206,10 @@ Some older resources use Eclipse, but similar features are available in Android 
 
 ###<a name="Help">Where to go for help</a>###
 
-* **Google!** - Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.
-* Come to [Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/). You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
+* **[Google] (http://www.google.com)** - Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.
+* Come to **[Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/)**. You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
 
-###<a name="ChallengesAndProjects">Challenges and Projects</a>###
+###<a name="Challenges">Challenges and Projects</a>###
 
 Check out the **Challenges and Projects** document. [Coming soon].
 
