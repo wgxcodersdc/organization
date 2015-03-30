@@ -151,7 +151,7 @@ Taking a bit of liberty here, we’d like to define three groups of Android deve
 
  ####All Android Studio####
 
-* [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW)** **(paid - Udemy)
+* [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW) (paid - Udemy, course is often $10)
 
 * [Developing Android Apps](https://www.udacity.com/course/ud853) (free - Udacity)
 
