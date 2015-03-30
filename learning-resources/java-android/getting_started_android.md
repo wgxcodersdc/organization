@@ -9,6 +9,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#PhoneNotNeeded">Do I need a phone to make Android apps?</a>
 * <a href="#InstallJava">What should I do first? (Install Java)</a>
 * <a href="#InstallAS">Now what? (Install Android Studio)</a>
+* <a href="#InstallPackages">Install Necessary Packages</a>
 * <a href="#SetupPhone">Setup your phone/tablet</a>
 * <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
 * <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
@@ -83,7 +84,21 @@ If you need to use the Android SDK tools from a command line, you can access the
 
 **Ensure that you have the most recent version of Android Studio:**
 
-After launching Android Studio, select the check for updates option in the toolbar.  
+After launching Android Studio, select the check for updates option in the toolbar. 
+
+###<a name="InstallPackages">Wait, there's more!  Time to install packages.</a>###
+
+Android Studio doesn't work right out of the box, so we will have to install some additional packages in order to make it run properly.  Here are the ones we recommend; you can always add additional packages or delete unnecessary ones later.
+
+* Open Android Studio.
+* On the Welcome menu, click on _Configure_.
+* Select _SDK Manager_.
+* In the window that opens, select the following packages:
+  *  Tools - this should select all items in that category.
+  *  Android 4.4.2 (API 19) 
+  *  In the Extras category:  Android Support Repository, Android Support Library, Google Repository, and Google USB Driver
+* Select _Install Packages_.
+* Accept License Agreement.
 
 ###<a name="SetupPhone">Let’s take the time to set up your phone.</a>###
 
