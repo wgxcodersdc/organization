@@ -13,6 +13,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#HelloAndroid">Hello, **~~World~~** Android!</a>
 * <a href="#InstallFasterEmulator">Install a Faster Emulator</a>
 * <a href="#Sharing">Sharing your app with others</a>
+* <a href="#PutAppInStore">Putting your app in the Google Play or Amazon App Stores</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -117,7 +118,7 @@ It’s time to check to see if everything has been installed and is working prop
 
 Once you have your app in a place where you wish to share it, you can package your app by creating a [signed APK (Android application package)](https://www.udacity.com/wiki/ud853/course_resources/creating-a-signed-apk) file.  Once this file is created, you can give it to anyone you want who has an Android phone.  An easy way to transfer the file is to send it to someone’s Gmail account as an attachment.  When they open the email from their phone, an option to download and install the app shows up right away.  Easy breezy!
 
-**How to put your app in the Google Play Store**
+###<a name="PutAppInStore">How to put your app in the Google Play Store</a>###
 
 * Register for a [Publisher Account](http://developer.android.com/distribute/googleplay/start.html) and pay the one-time $25 account fee.  This will allow you to publish an unlimited amount of apps.
 
