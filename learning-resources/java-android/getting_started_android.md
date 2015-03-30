@@ -18,8 +18,8 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#OnlineCourses">Online Android Courses</a>
 * <a href="#AndroidResources">Android Resources</a>
 * <a href="#JavaResources">Java Resources</a>
-* <a href="#Help">Where to go for help</a>
-* <a href="#WhereToGoFromHere">Where to go from here</a>
+* <a href="#Help">Get Help</a>
+* <a href="#WhereToGoFromHere">Up Next</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -41,9 +41,9 @@ No!  Though it sure is fun to put the apps you make on your own device.  The And
 
 Check to see that you have JDK 7 or JDK 8 on your computer.  
 
-* Windows:  visit [https://www.java.com/verify/](https://www.java.com/verify/) to check to see if the JDK is already installed on your machine.  Remember this is the JDK, not the JRE.
+* **Windows**:  visit [https://www.java.com/verify/](https://www.java.com/verify/) to check to see if the JDK is already installed on your machine.  Remember this is the JDK, not the JRE.
 
-* Mac/Linux:  open a terminal window and type "which javac".  If something appears, then you have a version of the Java JDK on your machine.  If you’d like to know which version of Java you have, type “javac -version”.
+* **Mac/Linux**:  open a terminal window and type "which javac".  If something appears, then you have a version of the Java JDK on your machine.  If you’d like to know which version of Java you have, type “javac -version”.
 
 * If you don’t have Java on your machine, install the JDK by visiting [Oracle’s website](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and downloading the most recent version of the Java SE 7 that is appropriate for your machine.
 
@@ -53,37 +53,35 @@ Now it’s time to download the most recent version of Android Studio, the offic
 
 **To set up Android Studio on Windows:**
 
-1. Launch the .exe file you just downloaded.
+* Launch the .exe file you just downloaded.
 
-2. Follow the setup wizard to install Android Studio and any necessary SDK tools. (If you are new to Android Studio, you can’t go wrong with installing with default settings - you can always add additional packages later.)
+* Follow the setup wizard to install Android Studio and any necessary SDK tools. (If you are new to Android Studio, you can’t go wrong with installing with default settings - you can always add additional packages later.)
 
 **To set up Android Studio on Mac OSX:**
 
-1. Launch the .dmg file you just downloaded.
+* Launch the .dmg file you just downloaded.
 
-2. Drag and drop Android Studio into the Applications folder.
+* Drag and drop Android Studio into the Applications folder.
 
-3. Open Android Studio and follow the setup wizard to install any necessary SDK tools.
+* Open Android Studio and follow the setup wizard to install any necessary SDK tools.
 
-4. Depending on your security settings, when you attempt to open Android Studio, you might see a warning that says the package is damaged and should be moved to the trash. If this happens, go to System Preferences > Security & Privacy and under Allow applications downloaded from, select Anywhere. Then open Android Studio again.
+* Depending on your security settings, when you attempt to open Android Studio, you might see a warning that says the package is damaged and should be moved to the trash. If this happens, go to System Preferences > Security & Privacy and under Allow applications downloaded from, select Anywhere. Then open Android Studio again.
 
 If you need to use the Android SDK tools from a command line, you can access them at:  /Users/<user>/Library/Android/sdk/.
 
 **To set up Android Studio on Linux:**
 
-1. Unpack the downloaded ZIP file into an appropriate location for your applications.
+* Unpack the downloaded ZIP file into an appropriate location for your applications.
 
-2. To launch Android Studio, navigate to the android-studio/bin/ directory in a terminal and execute studio.sh.
+* To launch Android Studio, navigate to the android-studio/bin/ directory in a terminal and execute studio.sh.
 
-3. You may want to add android-studio/bin/ to your PATH environmental variable so that you can start Android Studio from any directory. (Ex: `export PATH=$PATH:~/your_android_directory/android-studio/bin`) [For more info, see this guide.](http://www.codeproject.com/Articles/802813/Setting-Up-Android-Development-Ubuntu)
+* You may want to add android-studio/bin/ to your PATH environmental variable so that you can start Android Studio from any directory. (Ex: `export PATH=$PATH:~/your_android_directory/android-studio/bin`) [For more info, see this guide.](http://www.codeproject.com/Articles/802813/Setting-Up-Android-Development-Ubuntu)
 
-4. Follow the setup wizard to install any necessary SDK tools.
+* Follow the setup wizard to install any necessary SDK tools.
 
 **Ensure that you have the most recent version of Android Studio:**
 
-After launching Android Studio, select the check for updates option in the toolbar. 
-
-[More details needed here to download and install the appropriate packages]
+After launching Android Studio, select the check for updates option in the toolbar.  
 
 ###<a name="SetupPhone">Let’s take the time to set up your phone.</a>###
 
