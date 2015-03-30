@@ -17,7 +17,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#InexpensivePhones">Where to buy inexpensive Android phones</a>
 * <a href="#OnlineCourses">Online Android Courses</a>
 * <a href="#AndroidResources">Android Resources</a>
-* <a href="#JavaResources</a>
+* <a href="#JavaResources">Java Resources</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
