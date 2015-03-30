@@ -18,6 +18,7 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#OnlineCourses">Online Android Courses</a>
 * <a href="#AndroidResources">Android Resources</a>
 * <a href="#JavaResources">Java Resources</a>
+* <a href="#IDEs">Additional IDEs</a>
 * <a href="#Help">Get Help</a>
 * <a href="#WhereToGoFromHere">Up Next</a>
 
@@ -196,6 +197,11 @@ Some older resources use Eclipse, but similar features are available in Android 
   * [Coding Bat Java Exercises](http://codingbat.com/java)
   * [Coderbyte Java Exercises](http://www.coderbyte.com/CodingArea/Challenges/)
   * [Tutorialspoint Java Guides](http://www.tutorialspoint.com/java/)
+
+###<a name="IDEs">Additional IDEs</a>###
+
+* [Eclipse](http://www.eclipse.org/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ###<a name="Help">Where to go for help</a>###
 
