@@ -60,7 +60,7 @@ Certain building managements requires meetup hosts to let people in and do not e
 
 #### All Women Welcome
 
-This study group is intended to be exclusively open for women and those who identify as women; we are transgender friendly.
+This study group is intended to be exclusively open for any who identify as women; we are transgender friendly.
 
 Happy coding! :) 
 
