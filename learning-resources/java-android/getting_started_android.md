@@ -103,7 +103,7 @@ It’s time to check to see if everything has been installed and is working prop
   * Leave all the details for the activity in their default state. Click Finish.
   * Android Studio may take a minute or two to set up and then open your project. On Windows, allow any requests for Internet access you are prompted for.
   * To test your app, hit the run button (looks like a green play button).  
-  * You will be prompted to run on an emulator or on a specific device.  [more]
+  * If there are no errors, you will be prompted to run on a specific device or on an emulator.  If your device is plugged in and drivers are loaded, it should show up in the list.
 
 **Where do I go from here?**
 
