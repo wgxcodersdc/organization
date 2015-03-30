@@ -147,31 +147,31 @@ Taking a bit of liberty here, we’d like to define three groups of Android deve
 
 ###<a name="OnlineCourses">Android Courses</a>###
 
-**Some older resources use Eclipse, but similar features are available in Android Studio.**
+Some older resources use Eclipse, but similar features are available in Android Studio.
 
- ####All Android Studio####
+* All Android Studio
 
-* [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW) (paid - Udemy, course is often $10)
+  * [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/?dtcode=TPTbIQE29HVW) (paid - Udemy, course is often $10)
 
-* [Developing Android Apps](https://www.udacity.com/course/ud853) (free - Udacity)
+  * [Developing Android Apps](https://www.udacity.com/course/ud853) (free - Udacity)
 
-* [University of Reading Beginner Tutorial](https://www.futurelearn.com/courses/begin-programming) (free)
+  * [University of Reading Beginner Tutorial](https://www.futurelearn.com/courses/begin-programming) (free)
 
-Some Eclipse/ Some Android Studio
+* Some Eclipse/ Some Android Studio
 
-* [The Complete Android Lollipop Development Course](https://www.udemy.com/android-lollipop-complete-development-course/) (paid - Udemy) - starts with Eclipse IDE, moves to Android Studio, teaches java along the way
+  * [The Complete Android Lollipop Development Course](https://www.udemy.com/android-lollipop-complete-development-course/) (paid - Udemy) - starts with Eclipse IDE, moves to Android Studio, teaches java along the way
 
-Eclipse
+* Eclipse
 
-* [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage)** **(free)- videos from 2013/early 2014, four week courses start ~monthly
+  * [Coursera Android Specialization](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage)** **(free)- videos from 2013/early 2014, four week courses start ~monthly
 
-* [Coursera Sequence](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - uses Eclipse in video
+  * [Coursera Sequence](https://www.coursera.org/specialization/mobilecloudcomputing2/36?utm_medium=listingPage) (free) - uses Eclipse in video
 
-* [How to Program for Beginners](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)[ (free)](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)
+  * [How to Program for Beginners](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)[ (free)](http://www.linux.com/learn/docs/683628-android-programming-for-beginners-part-1)
 
-* [Beginner Coursera](https://www.coursera.org/course/androidapps101)[ (free)](https://www.coursera.org/course/androidapps101)
+  * [Beginner Coursera](https://www.coursera.org/course/androidapps101)[ (free)](https://www.coursera.org/course/androidapps101)
 
-* [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)[ (get free access with DC library card!)](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
+  * [Lynda.com](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)[ (get free access with DC or Arlington library card!)](http://www.lynda.com/Android-tutorials/Building-Note-Taking-App-Android/122466-2.html)
 
 **_Android Tutorials_**
 
