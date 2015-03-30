@@ -116,7 +116,7 @@ It’s time to check to see if everything has been installed and is working prop
 
 [Genymotion](http://www.genymotion.com/) is an incredibly fast, memory-efficient VM that runs the Android OS in a more accurate manner than even the official emulator.  Many Android developers do all their device testing using this emulator especially when Google Play services is concerned.  In addition, the official Android emulator is plagued with a lot of bugs (i.e. intermittent network loss) that Genymotion is usually a far more reliable option.  [Start here](https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Google-App-support).
 
-**_Linux installation of the genymotion package -_** After downloading the .bin file, move the .bin file where you would like to access genymotion from (suggested /home/username/Android/). Within that directory, type: chmod +x genymotion-*versionNumber*.bin to unpack genymotion. Remember what directory genymotion is in; you will need to know this when installing the plugin in Eclipse/Android Studio!  The[ plugin installation directions](https://www.genymotion.com/#!/download) on genymotion.com are otherwise pretty clear.
+> **_Linux installation of the genymotion package -_** After downloading the .bin file, move the .bin file where you would like to access genymotion from (suggested /home/username/Android/). Within that directory, type: chmod +x genymotion-*versionNumber*.bin to unpack genymotion. Remember what directory genymotion is in; you will need to know this when installing the plugin in Eclipse/Android Studio!  The[ plugin installation directions](https://www.genymotion.com/#!/download) on genymotion.com are otherwise pretty clear.
 
 ###<a name="Sharing">How to share your app with others</a>###
 
