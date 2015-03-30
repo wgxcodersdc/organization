@@ -99,6 +99,7 @@ Android Studio doesn't work right out of the box, so we will have to install som
   *  In the Extras category:  Android Support Repository, Android Support Library, Google Repository, and Google USB Driver
 * Select _Install Packages_.
 * Accept License Agreement.
+* Grab your favorite beverage or book to read; this is going to take a while.  
 
 ###<a name="SetupPhone">Let’s take the time to set up your phone.</a>###
 
