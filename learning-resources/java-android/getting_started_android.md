@@ -20,7 +20,8 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#JavaResources">Java Resources</a>
 * <a href="#IDEs">Additional IDEs</a>
 * <a href="#Help">Get Help</a>
-* <a href="#WhereToGoFromHere">Up Next</a>
+* <a href="#Challenges and Projects">Challenges and Projects</a>
+* <a href="#KeepInTouch">Keep in Touch</a>
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
@@ -205,18 +206,19 @@ Some older resources use Eclipse, but similar features are available in Android 
 
 ###<a name="Help">Where to go for help</a>###
 
-Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.
-
-###<a name="WhereToGoFromHere">Where to go from here</a>###
-
+* **Google!** - Android Studio just came out of Beta in the fall, so if you need help with Android Studio specifically, make sure you check the dates of the search results and only use recommendations/answers from the last six months. Prior to this, Eclipse was a popular IDE choice, (and will probably remain widely used for the near future) so some tutorials may give you Eclipse directions.
 * Come to [Android Hack Nights](http://www.meetup.com/Women-Who-Code-DC/). You will get the most out of our hack nights if you follow one of our suggested resources.  These are the classes/books/resources that our members know the best and for which they can offer the most support.  The goal of the hack night is to help you learn the skills that will assist you with programming problems you may see in your workplace; not to actually assist you with work related to your job.  Asking problems specific to work projects derails the productivity of everyone at the event and may result in you not being included in future hack nights.
-* Check out the **Projects and Challenges** document.
-* **Keep in touch!**
-  * [Tweet](https://twitter.com/WomenWhoCodeDC) us.
-  * Email us - WWCodeDC@gmail.com
-  * Check us out on [Github](https://github.com/womenwhocodedc).
-  * Visit our [website](http://womenwhocodedc.github.io/).
-  * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
+
+###<a name="ChallengesAndProjects">Challenges and Projects</a>###
+
+Check out the **Challenges and Projects** document. [Coming soon].
+
+###<a name="KeepInTouch">Keep in touch!</a>###
+* [Tweet](https://twitter.com/WomenWhoCodeDC) us.
+* Email us - WWCodeDC@gmail.com
+* Check us out on [Github](https://github.com/womenwhocodedc).
+* Visit our [website](http://womenwhocodedc.github.io/).
+* Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
 
 
 
