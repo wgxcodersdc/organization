@@ -1,6 +1,6 @@
 # WWCDC Python Study Group first timer's guide
 
-If you are brand new to Python, we recommend coming to the first meeting of the month which is First-Timers Night. You are welcome to come any week, but that first week will be the one when we cater to beginners.
+If you are brand new to Python, we recommend coming to the first meeting of the month which is First-Timers Night. You are welcome to come any week, but that first Thursday will always cater to beginners.
 
 ## What is Python?
 Python is a high-level, dynamically-typed, general-purpose programming language. It has an easy-to-learn, pseudocode-like syntax, which makes it a very nice first language for beginning programmers. Python comes with a rich standard library with all sorts of useful tools, and there is a vibrant open-source community that provides tooling and support for broad array of applications, from scientific or statistical analysis to data science to web development.
@@ -21,7 +21,7 @@ You can write and run Python programs on PCs, Macs, and Linux machines, so long 
 You will also need a program to edit your code. While there are Interactive Development Environments (IDEs) for Python, we recommend starting with a regular text editor. [SublimeText](http://www.sublimetext.com/) is a popular and powerful text editor that is available on all OSs. [Notepad++](http://notepad-plus-plus.org/) is also a nice option for Windows. We strongly recommend that you do not use a bare-bones text editor like Notepad on Windows or TextEdit on Mac for editing your code. These programs lack syntax-highlighting and have no support for plugins that can help you learn faster and be more productive.
 
 ## Installing Python
-Open up a Terminal window (PowerShell on Windows, Terminal on Mac, ? on Linux) and type `python` into the prompt. If a different prompt shows up, congratulations! You already have Python installed. If you got an error, follow these instructions to install Python:
+Open up a Terminal window (PowerShell on Windows, Terminal on Mac and Linux) and type `python` into the prompt. If a different prompt shows up, congratulations! You already have Python installed. If you got an error, follow these instructions to install Python:
 
 [INSTRUCTIONS HERE]
 
