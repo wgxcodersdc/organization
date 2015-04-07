@@ -7,8 +7,8 @@ The WWC Front End Hack Night (FEHN) study group is a space where women can come 
 * 6:30pm  - Begin
 * 6:40 - 6:50pm - Quick Introductions 
 * 6:50 - 8:00pm - CODE!
-* 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
-* 8:15 - 8:30pm - Wrap Up 
+* 8:00 - 8:20pm - Lightning Talk (a quick presentation or talk) (if planned)
+* 8:20 - 8:30pm - Wrap Up 
 
 All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Monday 06:30-08:30 pm. 
 
