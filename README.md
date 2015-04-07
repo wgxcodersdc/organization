@@ -1,6 +1,6 @@
 Folder for us to list resources, guides, open source projects we are working on, or anything that might be useful for the DC network!
 
-There is a Women Who Code national organization github - so generic resources like coding tutorials, guides, etc - we want to add in there! But once we start doing DC specific projects or anything that isn't nationally related, we can us this space. :)
+There is a Women Who Code national organization github - so generic resources like coding tutorials, guides, etc - we want to add in there! But once we start doing DC specific projects or anything that isn't nationally related, we can use this space. :)
 
 ### Resources  
 #### National
