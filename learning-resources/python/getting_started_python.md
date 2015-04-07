@@ -37,6 +37,7 @@ Python 3 introduced a lot of breaking changes, so even though it's been around f
 ### Books
 * [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- $15 kindle, $20 paperback
 * [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) -- free!
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) -- free online!
 
 ### Tutorials
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
