@@ -62,6 +62,7 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 * [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - :video_camera: :computer: - MSDN Channel9 - Free
 
 #### Other Resources
+* [Javascript Guide](https://github.com/ExactTarget/javascript/blob/master/README.md) -  :page_facing_up: 
 * [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - :books: :moneybag: - $26.67 on Amazon
 * [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) - :video_camera: :computer: :moneybag: - Treehouse - Free 14 day trial - $25/month paid plan
