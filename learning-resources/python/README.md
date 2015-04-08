@@ -4,7 +4,13 @@
 
 The WWC Python study group is a space where women can come together and help each other learn and understand software development with Python development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem!
 
-All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Thursday 06:30-08:30 pm. 
+All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Thursday 06:30-08:30 pm. Every study group will have the following format:
+
+* 6:30pm  - Begin
+* 6:40 - 6:50pm - Quick Introductions 
+* 6:50 - 8:00pm - CODE!
+* 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
+* 8:15 - 8:30pm - Wrap Up 
 
 ## What if I'm a first timer that's never coded before?
 
