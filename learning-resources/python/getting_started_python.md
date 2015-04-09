@@ -31,13 +31,22 @@ Python 3 introduced a lot of breaking changes, so even though it's been around f
 
 ## Study Materials
 
+### Learning Resources Legend
+* :computer: - interactive courses, labs, or problems
+* :video_camera: - videos
+* :headphones: - podcasts
+* :books: - books or long reads
+* :page_facing_up: - articles, short reads, or tutorials
+* :moneybag: - paid resource
+
+
 ### Courses
-* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- video lectures, problem sets
+* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: problem sets 
 
 ### Books
-* [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- $15 kindle, $20 paperback
-* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) -- free!
-* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) -- free online!
+* [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- :moneybag: $15 kindle, $20 paperback
+* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) -- Free
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) -- Free online!
 
 ### Tutorials
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) -- :books: - Free
