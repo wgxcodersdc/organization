@@ -41,7 +41,7 @@ Python 3 introduced a lot of breaking changes, so even though it's been around f
 
 
 ### Courses
-* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: problem sets 
+* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: , problem sets 
 
 ### Books
 * [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- :moneybag: $15 kindle, $20 paperback
