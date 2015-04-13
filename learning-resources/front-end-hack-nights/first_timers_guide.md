@@ -1,39 +1,39 @@
-## WWCDC Front End Hack night first timer's guide
+## WWCDC Front End Hack Night First Timer's Guide
 
 ### What is Front End?
 
-When someone says “frontend” of the web, what they really mean is the part of the website or web application that a person can visually see and interact with. As the name states “Front-End” is the part of the code that is on the front of the application. The main purpose of the front-end code is to interact with user, as well as present the data in a well-defined style, and structure. It usually consists of two parts: 
+The "front end" is the part of the website or web application that a person can visually see and interact with. It is on the "front" of an application. Its main purpose is to interact with the user, as well as present the data in a well-defined style and structure. The front end is made up of two aspects: 
 
-* design - aesthetics of the website or application, understanding element arrangements on the screen, the color and font choices
+* Design - aesthetics of the website or application, arrangement of elements on the screen, color, and font choices
 
-* front end web development or client-side development- development of those elements of a website that the user sees and interacts with directly. This piece involves programming skills, comprising mainly of **HTML**, **CSS**, and **Javascript** but certainly not limited to them.
+* Front end web development (or "client-side" development) - elements that the user sees and interacts with directly. This aspect involves programming skills, primarily **HTML**, **CSS**, and **Javascript** but certainly not limited to them.
 
 ### What is Front End Development?
 
-The focus of this study group is **Front End Development**, we appreciate designers to join and share their wisdom, but the purpose of the group is to encourage every one to code. 
+The focus of this study group is **Front End Development**. Though we appreciate designers joining and sharing their wisdom, the purpose of our group is to learn and encourage everyone to code. 
 
-A front end developer is the bridge connecting the designer and the back end developer. A web designer creates visual design and layout of the website,  the web developer takes that design and vision from a static design to a fully working website that is online and available to the world. A back-end developer builts the underderlying architecture and functionality of the app around it. 
+A front end developer is the bridge that connects the designer and the back end developer. While a web designer creates the visual design and layout of the website, the web developer transforms a static design into a fully functioning website online and available to the world. By contrast, a back-end developer builds the underderlying architecture and functionality of the application (underneath the front end).
 
-Almost all the elements that you see, and interact with on any website is a mixture of HTML, CSS, and JavaScript, which are all controlled by the browser. For example, if you’re using Google Chrome, Firefox or Safari, the browser is what translates all of the code in a manner for you to be able to see, and interact with. Such as fonts, colors, drop-down menus, images, forms, etc. 
+Almost all the elements that you see and interact with on any website is a mixture of HTML, CSS, and JavaScript, which are all controlled by the browser. For example, if you’re using Google Chrome, Firefox or Safari, the browser translates all of the code in a manner for you to be able to see, and interact with. This includes fonts, colors, drop-down menus, images, and forms.
 
 ### What tools do I need?
 
-* Laptop/PC: Front end development is not restricted by the machine you are using, you can start coding on PCs, Macs, or Linux machines. 
+* A computer: Front end development is not restricted by your operating system. You can learn front end development on Windows, Mac, and Linux (even Chrome OS!) machines.
 
-* Text Editor: we donot and should not code in regular word processors, you would need user-friendly text editors that does syntax highlighting. These are some that we recommend:
-  * [Sublime Text](http://www.sublimetext.com/) - MAC & Windows
-  * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
-  * [Notepad++](http://notepad-plus-plus.org/) - MAC & Windows
+* A text editor: you should not code using a regular word processor (e.g. Microsoft Word). While you can use Notepad or TextEdit, it's easier to code with user-friendly text editors with syntax highlighting. We recommend:
+  * [Sublime Text](http://www.sublimetext.com/) - Mac, Windows, Linux
+  * [TextWrangler](http://www.barebones.com/products/textwrangler/) - Mac only
+  * [Notepad++](http://notepad-plus-plus.org/) - Windows only
   
-* Git and GitHub: Version control is a really important part of any professional developer's toolkit. It helps with backing up your work, collaboration, and managing changes through iterative versions. You would need Git installed on your computer, and an account on [Github](https://github.com). For an introduction to Git and Github, refer our [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
+* Git and GitHub: Version control is an important part of any professional developer's toolkit. These tools back up your work, facilitate collaboration, and manage changes through versioning. First [install Git](http://git.huit.harvard.edu/guide/) on your computer, then create an account on [Github](https://github.com). For an introduction to Git and Github, refer to the [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
 
-* [JSFiddle](http://jsfiddle.net/): An online custom environment to test your HTML, CSS, and Javascript. You can save the fiddles you create and share them with others. Refer [official docs](http://doc.jsfiddle.net/tutorial.html).
+* [JSFiddle](http://jsfiddle.net/): An online custom environment to test your HTML, CSS, and Javascript. You can save the fiddles you create and share them with others. Check out the [official documentation](http://doc.jsfiddle.net/tutorial.html).
 
-* Dedication, Patience and Support from each other! 
+* Dedication, patience and support from each other! 
 
 ### Basics
 
-There are many technologies and programming languages that contribute to the web, we'll discuss what lies within the group's focus. The web comprises of three layers— *content, presentation, and behavior*
+There are many technologies and programming languages that contribute to the web, we'll discuss what lies within the group's focus. The web comprises of three layers — *content, presentation, and behavior*
 
 ![web-layers](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729756css_three-layers.png)
 
@@ -309,6 +309,3 @@ Remember, even though we did access your page via browser, its really not up on 
 * Check us out on [Github](https://github.com/womenwhocodedc).
 * Check our [website](http://womenwhocodedc.github.io/).
 * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
-
-
-
