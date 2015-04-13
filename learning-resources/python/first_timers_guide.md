@@ -40,7 +40,7 @@ You will also need a program to edit your code. While there are Interactive Deve
 			If a different prompt shows up, congratulations! You already have Python installed.
 		</li> 
 		<li>
-			If you got an error, follow these instructions to install Python:
+			If you got an error, follow the instructions below to install Python. It might look complicated, but [this video shows that it can be done easily in under 3 minutes](https://www.youtube.com/watch?v=dU_ca27EGT8):
 		</li>
 	</ul>
 	<li>
