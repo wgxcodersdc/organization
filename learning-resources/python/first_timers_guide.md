@@ -17,56 +17,20 @@ You can write and run Python programs on PCs, Macs, and Linux machines, so long 
 You will also need a program to edit your code. While there are Interactive Development Environments (IDEs) for Python, we recommend starting with a regular text editor. [SublimeText](http://www.sublimetext.com/) is a popular and powerful text editor that is available on all OSs. [Notepad++](http://notepad-plus-plus.org/) is also a nice option for Windows. We strongly recommend that you do not use a bare-bones text editor like Notepad on Windows or TextEdit on Mac for editing your code. These programs lack syntax-highlighting and have no support for plugins that can help you learn faster and be more productive.
 
 ## Installing Python
-<ol>
-	<li>
-		Open up a Command Prompt window. 
-	</li>
-	<ul>
-		<li>
-			Windows: Start > Search > type in "`cmd`" > push 'Enter'
-		</li>
-		<li>
-			Mac: `Apple Button` + `Space` > type in "`terminal`" > push Enter
-		</li>
-		<li>
-			Ubuntu 14.04: `Ctrl` + `Alt` + `t` 
-		</li>
-	</ul>
-	<li>
-		In the command prompt, type `python` and push Enter. 
-	</li>
-	<ul>
-		<li>
-			If a different prompt shows up, congratulations! You already have Python installed.
-		</li> 
-		<li>
-			If you got an error, follow the instructions below to install Python. It might look complicated, but [this video shows that it can be done easily in under 3 minutes](https://www.youtube.com/watch?v=dU_ca27EGT8):
-		</li>
-	</ul>
-	<li>
-		If the `python` command gave you got an error, navigate your web browser to [the Python downloads page](https://www.python.org/downloads/) and download the *Python 2.7* file for your operating system.
-	</li>
-	<li>
-		Install Python to the default location (assuming you're running Windows, `C:\Python27`)
-	</li>
-	<li>
-		When the installation is complete, on your computer navigate: `My Computer > [System] Properties > Advanced [System Settings] > Environment Variables`
-	</li>
-	<li>
-		Under `System Variables` scroll down until you find the _Variable_ called `path`. Push the `edit` button and add `;C:\Python27;` to the end of the `variable value` field.
-	</li> 
-	<ul>
-		<li>
-			Note: This list is semicolon-separated. It will look like: `a;b;c;d;`, and you are just adding another item. There shouldn't be two semicolons next to each other.
-		</li>
-	</ul>
-	<li>
-		Exit out of all Command Prompt windows, open a new one (`Start > Search > "cmd" > Enter`), type `python` then push Enter.
-	</li>
-	<li>
-		That's it! You've gotten over the worst part! 
-	</li>
-</ol>
+1. Open up a Command Prompt window.
+    * Windows: Start > Search > type in "`cmd`" > push 'Enter'
+    * Mac: `Apple Button` + `Space` > type in "`terminal`" > push Enter
+    * Ubuntu 14.04: `Ctrl` + `Alt` + `t`
+1. In the command prompt, type `python` and push Enter.
+    * If a different prompt shows up, congratulations! You already have Python installed.
+    * If you got an error, follow the instructions below to install Python. It might look complicated, but [this video shows that it can be done easily in under 3 minutes](https://www.youtube.com/watch?v=dU_ca27EGT8):
+1. If the `python` command gave you got an error, navigate your web browser to [the Python downloads page](https://www.python.org/downloads/) and download the *Python 2.7* file for your operating system.
+1. Install Python to the default location (assuming you're running Windows, `C:\Python27`)
+1. When the installation is complete, on your computer navigate: `My Computer > [System] Properties > Advanced [System Settings] > Environment Variables`
+1. Under `System Variables` scroll down until you find the _Variable_ called `path`. Push the `edit` button and add `;C:\Python27;` to the end of the `variable value` field.
+    * Note: This list is semicolon-separated. It will look like: `a;b;c;d;`, and you are just adding another item. There shouldn't be two semicolons next to each other.
+1. Exit out of all Command Prompt windows, open a new one (`Start > Search > "cmd" > Enter`), type `python` then push Enter.
+1. That's it! You've gotten over the worst part!
 
 ### A note on Python versions
 Python 3 introduced a lot of breaking changes, so even though it's been around for a decade, many people still use Python 2. There are still some [popular libraries](http://py3readiness.org/) that don't support Python 3, but the vast majority do. So, for most purposes, it doesn't matter which version you use, but Python 2.7 is probably the safest.
@@ -84,7 +48,7 @@ Python 3 introduced a lot of breaking changes, so even though it's been around f
 
 
 ### Courses
-* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: , problem sets 
+* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: , problem sets
 
 ### Books
 * [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- :moneybag: $15 kindle, $20 paperback
