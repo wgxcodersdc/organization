@@ -36,7 +36,54 @@ You will also need a program to edit your code. While there are Interactive Deve
 Python 3 introduced a lot of breaking changes, so even though it's been around for a decade, many people still use Python 2. There are still some [popular libraries](http://py3readiness.org/) that don't support Python 3, but the vast majority do. So, for most purposes, it doesn't matter which version you use, but Python 2.7 is probably the safest.
 
 
+## Hello, world
+Let's try saving a very basic program and running it.
+
+* Open up the text editor that you downloaded earlier and _type_ the following code into it. (If you copy and paste, Emma will be :anguished:. But seriously, it's a good idea to practice typing the code, so that you build muscle memory and get familiar with the code syntax.)
+
+```python
+# hello_world.py
+
+print('Hello, world!')
+```
+* Save the file as `hello_world.py` to the Desktop.
+* Open your terminal or cmd console, and run `cd Desktop` to navigate to your Desktop directory
+* For Mac and Linux, type `python hello_world.py` into the terminal. On Windows, just type `hello_world.py`. Press enter to run your program, and the words "Hello, world!" should be displayed in your console. Amazing!
+
+### A more complex example
+Here, we try a slightly more complex program that takes user input and makes use of a user-defined _function_ called `print_greeting`. (A function provides a reusable set of code steps, which can make use of input variables. For more information, check out the resources below!)
+
+```python
+# greeting.py
+
+# this is a function definition
+def print_greeting(name):
+    greeting = 'Hello, ' + name + '!'
+    print(greeting)
+
+# this executes the print_greeting function with the argument name = 'world'
+print_greeting('world')
+
+# raw_input is a built-in function that takes input from a user's terminal
+# use input instead of raw_input for python 3
+retrieved_name = raw_input('Please enter your name')
+print_greeting(retrieved_name)
+```
+
+Save this file as `greeting.py` in your Desktop folder again. Follow the same steps as for the `hello_world.py` program above to run `greeting.py`.
+
+
+## What's Next?
+We have collected beginner-friendly resources below to help you get started. If you need help choosing one, or have any other problems, the leads are here to help! Additionally, we encourage you to come to our weekly Thursday-night meetups to work collaboratively on projects or work through courses together.
+
+
 ## Study Materials
+
+* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: , problem sets
+* [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- :moneybag: $15 kindle, $20 paperback
+* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) -- Free
+* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) -- Free online!
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) -- :books: - Free
 
 ### Learning Resources Legend
 * :computer: - interactive courses, labs, or problems
@@ -45,15 +92,3 @@ Python 3 introduced a lot of breaking changes, so even though it's been around f
 * :books: - books or long reads
 * :page_facing_up: - articles, short reads, or tutorials
 * :moneybag: - paid resource
-
-
-### Courses
-* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) -- :video_camera: , problem sets
-
-### Books
-* [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) -- :moneybag: $15 kindle, $20 paperback
-* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) -- Free
-* [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754) -- Free online!
-
-### Tutorials
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) -- :books: - Free
