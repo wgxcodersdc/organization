@@ -1,6 +1,6 @@
 # Resources for Expanding Your Python Skills
 
-If you are brand-new at programming, please check out our beginner's guide. If you are already a programmer, but new to python, please check out our python for programmers guide.
+If you are brand-new at programming, please check out our [beginner's guide](first_timers_guide.md). If you are already a programmer, but new to python, please check out our [python for programmers](python_for_programmers.md) guide.
 
 ## Resources
 
