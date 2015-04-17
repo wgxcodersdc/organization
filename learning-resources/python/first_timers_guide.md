@@ -80,16 +80,16 @@ We have collected beginner-friendly resources below to help you get started. If 
 
 ## Learning Resources
 
-* [Code Academy](http://www.codecademy.com/tracks/python) :computer: :beginner: :free:
-* [LearnPython.org](http://www.learnpython.org) :computer: :beginner: :free:
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) :books: :beginner: :free:
-* [Coursera: Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn) :school_satchel: :video_camera: :pencil: :free: 10 weeks, 2-4 hours per week, next session begins June 1<sup>*</sup>
-* [Coursera: Intro to Interactive Programming with Python](https://www.coursera.org/course/interactivepython1) :school_satchel: :video_camera: :pencil: :free: 5 weeks, 7-10 hours per week, project-based, next session begins May 22<sup>*</sup>
-* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) :books: :pencil: :free:
-* [Python for You and Me](http://pymbook.readthedocs.org/en/latest/) :books: :free:
-* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) :video_camera: :pencil: :free:
+* [Code Academy](http://www.codecademy.com/tracks/python) :computer: :beginner:
+* [LearnPython.org](http://www.learnpython.org) :computer: :beginner:
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book/) :books: :beginner:
+* [Coursera: Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn) :school_satchel: :video_camera: :pencil: 10 weeks, 2-4 hours per week, next session begins June 1<sup>*</sup>
+* [Coursera: Intro to Interactive Programming with Python](https://www.coursera.org/course/interactivepython1) :school_satchel: :video_camera: :pencil: 5 weeks, 7-10 hours per week, project-based, next session begins May 22<sup>*</sup>
+* [ThinkPython](http://en.wikibooks.org/wiki/Think_Python/Preface) :books: :pencil:
+* [Python for You and Me](http://pymbook.readthedocs.org/en/latest/) :books:
+* [MIT 6.00SC: Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) :video_camera: :pencil:
 * [Guttag, Introduction to Computer Science and Programming with Python](http://www.amazon.com/gp/product/0262525003/) :books: :pencil: :moneybag: $15 kindle, $20 paperback; goes with MIT OCW class above
-* [Invent Your Own Computer Games with Python](http://inventwithpython.com/) :books: :free: example-based, teaches concepts by showing source code for a game and explaining the new python structures within
+* [Invent Your Own Computer Games with Python](http://inventwithpython.com/) :books: example-based, teaches concepts by showing source code for a game and explaining the new python structures within
 
 
 <sup>*</sup> Coursera materials are also available for use in independent study, outside of the session timeframes.

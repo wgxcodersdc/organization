@@ -67,7 +67,6 @@ Namespaces are one honking great idea -- let's do more of those!
 * [Official Python Tutorial](https://docs.python.org/2/tutorial/index.html) :books:
 * [Dive Into Python](http://www.diveintopython.net/) :books: for impatient programmers
 * [Core Python Programming](http://www.amazon.com/dp/0132269937/) :books: :moneybag: $28 kindle, $39 paperback, for those who want a more comprehensive experience
-* Writing Idiomatic Python [(Python 2.7)](http://www.amazon.com/Writing-Idiomatic-Python-2-7-3-Knupp-ebook/dp/B00B5KG0F8/) [(Python 3.3+)](http://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG/) $8 kindle, $18 paperback, [free if you email Jeff Knupp](http://jeffknupp.com/blog/2014/04/25/in-support-of-female-engineers/) (though he may be slow to respond)
 * [Crash Into Python](http://stephensugden.com/crash_into_python/) :books:
 * [Python Antipatterns](http://lignos.org/py_antipatterns/) :page_facing_up: A short guide to avoiding anti-Pythonic patterns frequently used by programmers coming from other languages.
 

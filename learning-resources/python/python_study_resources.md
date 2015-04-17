@@ -11,6 +11,7 @@ If you are brand-new at programming, please check out our beginner's guide. If y
 * [Expert Python Programming](https://www.packtpub.com/application-development/expert-python-programming) :books: :full_moon_with_face: :moneybag: $19
 * [Pro Python](http://www.amazon.com/Python-Experts-Voice-Open-Source-ebook/dp/B004VH5Z5I/ref=dp_kinw_strp_1) :books: :full_moon_with_face: :moneybag: $30 kindle, $32 paperback
 * [Spyder IDE](https://github.com/spyder-ide/spyder#installation) :wrench: :bar_chart: :full_moon_with_face: An IDE with integrations for all of the python scientific programming libraries, e.g. scipy, numpy, matplotlib
+* Writing Idiomatic Python [(Python 2.7)](http://www.amazon.com/Writing-Idiomatic-Python-2-7-3-Knupp-ebook/dp/B00B5KG0F8/) [(Python 3.3+)](http://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp-ebook/dp/B00B5VXMRG/) :books: :moneybag: :first_quarter_moon: :full_moon_with_face: $8 kindle, $18 paperback, [free if you email Jeff Knupp](http://jeffknupp.com/blog/2014/04/25/in-support-of-female-engineers/) (though he may be slow to respond)
 
 ### Learning Resources Legend
 * :computer: - interactive courses or labs
