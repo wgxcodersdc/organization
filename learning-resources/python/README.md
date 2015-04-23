@@ -4,7 +4,7 @@
 
 ### Who is this study group for?
 
-This study group is intended to be exclusively open to anyone who identifies as a woman; we are emphatically queer and transgender friendly.
+WomenWhoCode programs are intended for all women (trans and cis), trans men, and genderqueer folks.
 
 ### What is this study group for?
 
