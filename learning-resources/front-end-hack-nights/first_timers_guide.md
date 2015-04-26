@@ -301,6 +301,7 @@ Remember, even though we did access your page via a web browser, it's not actual
 * We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better check out the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md). 
 
 #### What should I do next?
+* [How to link web files](https://github.com/womenwhocodedc/link-web-files)
 * [Dash](https://dash.generalassemb.ly/)
 * [Khan Academy - HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
