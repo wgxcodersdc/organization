@@ -267,6 +267,7 @@ Now we need to reference this CSS file from within our HTML file:
 ```
 <!DOCTYPE html>
 <html lang="en">
+<!--This is a comment. Comments are not displayed in the browser-->
   <head>
      <meta charset="utf-8">
      <title>My first html page</title>
