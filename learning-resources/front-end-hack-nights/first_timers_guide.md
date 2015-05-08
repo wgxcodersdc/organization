@@ -203,7 +203,19 @@ In the above code, the `<p>` tag with an `id` attribute of container would be co
 2. `#id` - Id selector. To select a single element by its `id` attribute. 
 3. `.class` - Class selector. To select elements by their `class` attribute. 
 4. `h1`, `p`, `body`, `div`  - Type selectors. To select an element by its tag type.
-5. `div.article table` - Descendant selector. When you want to apply a style rule to a particular element only when it lies inside a particular elemen. In this case the CSS rule would only be applied to a `table` that is inside a `div` with a `class` attribute of 'article' 
+5. `div.article table` - Descendant selector. When you want to apply a style rule to a particular element only when it lies inside a particular elemen. In this case the CSS rule would only be applied to a `table` that is inside a `div` with a `class` attribute of 'article'
+
+**Example of how you would use these selectors**
+
+```
+<title class="title">My first HTML page</title>
+```
+The above title tag will now also have a `class` attribute associated with it. 
+
+```
+<title class="title content">My first HTML page</title>
+```
+No the same title tag has two different classes, *title* class and *content* class. Multiple classes are separated by a space. Classing HTML elements, makes it possible to define CSS styles for classes of elements.
 
 ##### Referencing CSS from Within an HTML Page
 
