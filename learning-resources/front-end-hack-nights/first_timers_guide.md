@@ -222,6 +222,7 @@ Now the same title tag has two different classes, *title* class and *content* cl
 ```
 Now the same title tag has a *content* `class`, and a *title* `id`. An element can have multiple classes all separated by whitespace, but can only have ONE unique identifier!
 
+**We Suggest**: Always Quote attribute values. Double style quotes are the most common in HTML, but single style can also be used.
 
 ##### Referencing CSS from Within an HTML Page
 
