@@ -215,7 +215,7 @@ The above title tag will now also have a `class` attribute associated with it.
 ```
 <title class="title content">My first HTML page</title>
 ```
-Now the same title tag has two different classes, *title* class and *content* class. Multiple classes are separated by a space. Classing HTML elements, makes it possible to define CSS styles for classes of elements.
+Now the same title tag has two different classes, *title* class and *content* class. Multiple classes are separated by a whitespace. Classing HTML elements, makes it possible to define CSS styles for classes of elements.
 
 ```
 <title class="content" id="title">My first HTML page</title>
