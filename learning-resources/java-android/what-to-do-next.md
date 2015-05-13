@@ -12,9 +12,9 @@
     * *members going through this: Shelley*
   * I learn best via projects: (We are going to add a list of projects soon!)
     * *members going through this: Tabitha*
-* **I'm an experienced Android dev**
+* **I'm a more experienced Android dev**
   * Come hack with us! We're working on projects like:
-    * *getting a GoLang app running: Kaylyn*
+    * *getting a Android app written in Go running: Kaylyn*
     * ETC ETC
 
 
