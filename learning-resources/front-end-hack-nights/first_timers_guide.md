@@ -224,7 +224,7 @@ Now the same title tag has a *content* `class`, and a *title* `id`. An element c
 
 **We Suggest**: Always Quote attribute values. Double style quotes are the most common in HTML, but single style can also be used.
 
-##### Referencing CSS from Within an HTML Page
+##### Referencing CSS from Within a HTML Page
 
 For our CSS and HTML files to talk to each other we need to reference our CSS file within our HTML document. The best practice is to include all of our styles in a single external style sheet, which is referenced from within the `<head>` element of our HTML document:
 
