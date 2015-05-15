@@ -252,7 +252,7 @@ p {
 
 ```
 
-Now, the Gurus of programming have wisely adviced us to always be DRY - Do not Repeat Yourself. But we are repeating ourselves above! Both of our elements have the exact same font! Now there are two ways to resolve this: 
+Now, the Gurus of programming have wisely adviced us to always be *DRY - Do not Repeat Yourself*. But we are repeating ourselves above! Both of our elements have the exact same font. Now there are two ways to resolve this: 
 
 * If the file is as simple as ours, with nothing else but just an `<h1>` and a `<p>` tag, we can apply the `font-family` to the `<body>` tag of the page, which will affect most elements within the `<body>` tag. This is called inheritance.
 
@@ -305,9 +305,9 @@ Yayyyyy!!!
 
 ![HTML-4](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-4.png)
 
-### Okay, what's next?
+### Okay, what next?
 
-The only logical next step is to NOT STOP! Check out our learning resources section and continue your journey. All the best and congratulations!
+The only logical next step is to **NOT STOP!** Check out our learning resources section and continue your journey. All the best and congratulations!
 
 Remember, even though we did access your page via a web browser, it's not actually on the Internet! For that you would need to 
 [host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic that shouldn't worry about right now!
