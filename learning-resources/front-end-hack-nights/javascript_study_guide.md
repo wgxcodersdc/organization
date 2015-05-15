@@ -5,7 +5,7 @@
 JavaScript is the third and final pillar of modern web development, after HTML and CSS. JavaScript is the most advanced language of the three pillars.
 
 ### What is JavaScript used for?
-Javascript handles the `behavior layer` - real-time user interaction. This ranges from trivial form validation to a sophisticated web application that acts like an ordinary desktop program.
+Javascript handles the `behavior layer` - real-time user interaction. This ranges from trivial form validation to sophisticated web applications that act like ordinary desktop programs.
 
 ### What tools do I need?
 Just like with HTML and CSS, all you need is a text editor (Notepad, TextEdit) and a web browser! Nevertheless, as you write more complex JavaScript you may find it difficult to write code and debug with only basic text editors. Advanced text editors, browser tools (for debugging), and online integrated development environments (IDEs) make coding JavaScript and squashing bugs easier.
