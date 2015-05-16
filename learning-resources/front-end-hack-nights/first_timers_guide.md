@@ -307,7 +307,7 @@ Yayyyyy!!!
 
 ### Okay, what next?
 
-The only logical next step is to **NOT STOP!** Check out our learning resources section and continue your journey. All the best and congratulations!
+The only logical next step is to **NOT STOP!** Check out our [learning resources](https://github.com/womenwhocodedc/organization/tree/master/learning-resources) section and continue your journey. All the best and congratulations!
 
 Remember, even though we did access your page via a web browser, it's not actually on the Internet! For that you would need to 
 [host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic that shouldn't worry about right now!
