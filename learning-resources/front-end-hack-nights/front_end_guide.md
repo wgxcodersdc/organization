@@ -33,7 +33,7 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 *We are discussing adding some beginner and/or intermediate projects that could be peer reviewed as you progress in your learning, but have to figure out logistics and how to properly mentor with that*
 
-===
+
 ## Full List of Resources
 
 ### Beginner - HTML/CSS
@@ -84,7 +84,7 @@ We will not assist with work problems. We are here to help you learn the skills 
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learn Javascript Gitbook](http://gitbookio.gitbooks.io/javascript/content/)
 
-#### Projects
+#### Suggested Projects
 * Javascript Tetris game
 * Image/Video/Song (media) uploader
 * Weather app + Google maps integration (best route suggestion kinda thing)
