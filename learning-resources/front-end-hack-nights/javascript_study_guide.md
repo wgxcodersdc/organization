@@ -19,7 +19,7 @@ These programs feature productivity-enhancing features such as syntax highlighti
 * [TextWrangler](http://www.barebones.com/products/textwrangler/) - MAC only
 
 #### Browser Tools
-All popular web browsers come with built in [developer consoles](http://wickedlysmart.com/hfjsconsole/) and tools for debugging. 
+All popular web browsers come with built in [developer consoles](http://wickedlysmart.com/hfjsconsole/) and tools for debugging.
 
 * Chrome: [Chrome Developer Tools](https://developer.chrome.com/devtools) (“DevTools”)
 * Firefox: [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) - Note: you do not need to download the Firefox Developer Edition for these tools
@@ -49,7 +49,7 @@ After you've written your code, use [linters](http://en.wikipedia.org/wiki/Lint_
 * :page_facing_up: - articles, short reads, or tutorials
 * :moneybag: - paid resource
 
-Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/node/46352). You can obtain an online library card instantly with a valid DC driver’s license. Residents of neighboring counties in MD and VA are also eligible for a [free DC library card](http://dclibrary.org/getacard)! Non-DMV residents can also pay $20 at the MLK library to obtain a library card for a year. The org code for DCPL on Lynda.com is dclibrary.org. 
+Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/node/46352). You can obtain an online library card instantly with a valid DC driver’s license. Residents of neighboring counties in MD and VA are also eligible for a [free DC library card](http://dclibrary.org/getacard)! Non-DMV residents can also pay $20 at the MLK library to obtain a library card for a year. The org code for DCPL on Lynda.com is dclibrary.org.
 
 ### Beginner Resources
 You know HTML and CSS and are ready to start adding interactivity to your web pages.
@@ -62,12 +62,12 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 * [JavaScript Fundamentals: Development for Absolute Beginners](http://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners) - :video_camera: :computer: - MSDN Channel9 - Free
 
 #### Other Resources
-* [Javascript Guide](https://github.com/ExactTarget/javascript/blob/master/README.md) -  :page_facing_up: 
+* [Javascript Guide](https://github.com/ExactTarget/javascript/blob/master/README.md) -  :page_facing_up:
 * [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [JavaScript and jQuery: Interactive Front End Development](http://javascriptbook.com/about/) - :books: :moneybag: - $26.67 on Amazon
 * [JavaScript Basics](http://teamtreehouse.com/library/javascript-basics) - :video_camera: :computer: :moneybag: - Treehouse - Free 14 day trial - $25/month paid plan
 * [CodeSchool JavaScript Language track](https://www.codeschool.com/paths/javascript) - :video_camera: :computer: :moneybag: - First lesson free - $29/month paid plan
-* [CodeCombat](http://codecombat.com/) - :computer: - Free - Online game 
+* [CodeCombat](http://codecombat.com/) - :computer: - Free - Online game
 * [JavaScript for Web Designers](http://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers/144203-2.html) - :video_camera: :computer: - Lynda - Free with DC library card
 * [Introduction to JavaScript Development](https://www.udemy.com/refactoru-intro-js) - :video_camera: - Udemy - Free
 * [Learning the Web: JavaScript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics) - :page_facing_up: - Mozilla Developer Network
@@ -75,7 +75,7 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 * [Beginning JavaScript](http://www.amazon.com/Beginning-JavaScript-Jeremy-McPeak/dp/1118903331) - :books: :computer: :moneybag: - $31.20 on Amazon - 5th edition (2015), not 4th (2009)
 
 #### Project Ideas
-* Create a digital clock, alarm, countdown, or even [Pomodoro timer](http://tomato-timer.com/) 
+* Create a digital clock, alarm, countdown, or even [Pomodoro timer](http://tomato-timer.com/)
 * Create an app that converts [English into Pig Latin](http://www.wordplays.com/pig-latin)
 * Make a calculator
 * Create a [to do list](http://thewebrocks.com/publications/smashingbook3/todolist/) application
@@ -85,7 +85,7 @@ You know HTML and CSS and are ready to start adding interactivity to your web pa
 * Create a loan repayment calculator
 
 ### Intermediate Resources
-You know basic Javascript and want to further your understanding of functions and objects. You are also are ready for deep dives on specific topics. 
+You know basic Javascript and want to further your understanding of functions and objects. You are also are ready for deep dives on specific topics.
 
 #### Recommended Resources
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) - :books: :moneybag: - $13.49 (ebook) or $21.35 print on Amazon
@@ -105,12 +105,12 @@ You know basic Javascript and want to further your understanding of functions an
 * [The TreeHouse Show](http://teamtreehouse.com/library/the-treehouse-show) - :video_camera: - Treehouse - Free - “Your weekly dose of web design and web development news”
 * [Introduction to JavaScript](http://starthere.fm/webdev/14) - :headphones: - Ep 14 from StartHere.fm
 * [JavaScript and jQuery: Moving beyond Alert()](http://hanselminutes.com/256/javascript-and-jquery-moving-beyond-alert) - :headphones: - Episode 256 of The Hanselminutes Podcast
-* [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527) - :books: :moneybag: - $22 (ebook) or $32.94 print on Amazon 
+* [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527) - :books: :moneybag: - $22 (ebook) or $32.94 print on Amazon
 
 #### Project Ideas
 * Create a [strong random password generator](https://strongpasswordgenerator.com/)
 * Create cool shapes, animations, and games with [HTML5 Canvas](http://billmill.org/static/canvastutorial/index.html)
-* Build a robot in the [Fight Code Game](http://fightcodegame.com/) 
+* Build a robot in the [Fight Code Game](http://fightcodegame.com/)
 * Create a mashup using one of the APIs featured in [Wanted! Simple APIs Without Authentication](https://shkspr.mobi/blog/2014/04/wanted-simple-apis-without-authentication/)
 * Make a [VideoGame](http://www.codecademy.com/courses/web-beginner-en-X7bpO/0/1?curriculum_id=50b91eda28c2fb212300039e)
 
