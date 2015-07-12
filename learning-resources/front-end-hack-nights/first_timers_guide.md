@@ -252,7 +252,7 @@ p {
 
 ```
 
-Now, the Gurus of programming have wisely adviced us to always be *DRY - Do not Repeat Yourself*. But we are repeating ourselves above! Both of our elements have the exact same font. Now there are two ways to resolve this:
+Now, the Gurus of programming have wisely advised us to always be *DRY - Do not Repeat Yourself*. But we are repeating ourselves above! Both of our elements have the exact same font. Now there are two ways to resolve this:
 
 * If the file is as simple as ours, with nothing else but just an `<h1>` and a `<p>` tag, we can apply the `font-family` to the `<body>` tag of the page, which will affect most elements within the `<body>` tag. This is called inheritance.
 

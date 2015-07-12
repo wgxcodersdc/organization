@@ -67,15 +67,15 @@ When a user requests an HTML page with JavaScript in it, the script is sent to t
 
 The extension for a JavaScript file is **.js**
 
-For an introduction to Javascript, refer to the [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/). Please also check out the Front End Hack Night [JavaScript Study Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/javascript_study_guide.md)
+For more information on Javascript resources, refer to the [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/). Please also check out the Front End Hack Night [JavaScript Study Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/javascript_study_guide.md)
 
 *While it’s possible to embed all three layers within the same document, keeping them separate gives us one valuable advantage: we can modify or replace any of the layers without having to change the others.*
 
 ### Javascript (The Basics)
 
-First off, the main difference between Javascript and HTML/CSS is that Javacript is considered a programming language while HTML/CSS is considered a scripting langauge. Programming languages use logic to get things to function in a certain way often times based on the behavior of the user. Where as HTML/CSS is used to section off, design and declare certain elements of a page.
+First off, the main difference between Javascript and HTML/CSS is that Javascript is considered a programming language while HTML/CSS is considered a mark-up langauge. Programming languages use logic to get things to function in a certain way often times based on the behavior of the user, where as HTML/CSS is used to section off, design and declare certain elements of a page.
 
-For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked and second create an array with a set of information and that a function pulls from and prints to the page (You'll understand what this means later).  
+For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked and second create an array with a set of information that a function pulls from and prints to the page (You'll understand what this means later).  
 
 #### Practice - About me
 
@@ -101,10 +101,67 @@ The third file is called an external javascript file and is used in a similar fa
     <meta charset="utf-8">
     <title>Using Javascript</title>
     <link rel="stylesheet" href="starterpage.css">
-    <script src="starterpage.js"></script>
   </head>
+
   <body>
     <h1>My Javascript Page</h1>
+  <script src="starterpage.js"></script>
   </body>
   </html>
 ```
+
+Because javascript needs to be bound to html elements in order to be visible on the page, unlike the css src, the js src is added to the bottom of the body (instead of the head) in order to make sure the html and css of the page are loaded first.
+
+
+Next add the following to your html sheet: A heading, a button with and id, and a div with an id and a paragraph inside it. Then open it in your browser to see what the page looks like. An example is below.
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Using Javascript</title>
+    <link rel="stylesheet" href="starterpage.css">
+  </head>
+
+  <body>
+    <h1>My Javascript Page</h1>
+    <button id="reveal">Show the text</button>
+    <div id="text">
+      <p>This is some information I want to pop up after I click the button</p>
+    </div>
+  <script src="starterpage.js"></script>
+  </body>
+</html>
+```
+
+That's it for the HTML page. Now let's move on to the css page. In order to make sure the css src is working (and also make the page a little less bland), lets add a style rule that changes the color of the page.
+
+```
+body{
+  background-color: lightgrey;
+}
+
+```
+
+Then refresh the page in your browser to see the change. Working? great. now add a style rule for the div that contains you text and change the display to none.
+
+```
+body{
+  background-color: lightgrey;
+}
+
+#text{
+  display:none;
+}
+
+```
+If you refresh your browser, the text should no longer be visible. That is all you need in the css file for this particular exercise. Finally, switch to you js file. In you Javascript file, type the following.
+
+```
+var text = document.getElementById("text");
+
+```
+Let's explain what you just wrote means.
+
+var is javascript speak for variable. A variable is
