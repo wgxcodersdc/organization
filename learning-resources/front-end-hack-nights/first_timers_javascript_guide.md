@@ -77,7 +77,7 @@ First off, the main difference between Javascript and HTML/CSS is that Javascrip
 
 For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked and second create an array with a set of information that a function pulls from and prints to the page (You'll understand what this means later).  
 
-#### Practice - About me
+#### Practice - Making a button work
 
 Let's get started. First, lets set up your HTML/CSS file. Open up your text editor, open a new page and save it as starterpage.html preferably in a folder that will contain files for this project only. Enter the following:
 
@@ -156,7 +156,7 @@ body{
 }
 
 ```
-If you refresh your browser, the text should no longer be visible. That is all you need in the css file for this particular exercise. Finally, switch to you js file. In you Javascript file, type the following.
+If you refresh your browser, the text should no longer be visible. That is all you need in the css file for this particular exercise. Finally, switch to your js file. In you Javascript file, type the following.
 
 ```
 var text = document.getElementById("text");
@@ -164,4 +164,80 @@ var text = document.getElementById("text");
 ```
 Let's explain what you just wrote means.
 
-var is javascript speak for variable. A variable is
+var is javascript speak for variable. A variable is a container used for storing values. These values can be anything from a string(words or sentences), to integers (whole numbers), or even complex formulas. In this example a varaible is being used to store a dom element (the "text" div) and when ever 'text' is called somewhere in the javascript file, the text div will be what it is refering to.
+
+The "document" part of what you wrote refers to where you are getting what it is you are about to attach to this variable. In this case it is the HTML document.
+
+.getElementById is a javascript method that literally tells javascript what to do. In this case, its saying get the element with the id of "text" which is what is in quotation marks.
+
+Moving on, now you will add a variable that contains the document element with the "reveal" id. Or the id of whatever it is you named the button.
+
+```
+var text = document.getElementById("text");
+var button = document.getElementById("reveal");
+
+```
+Now that are main document or "DOM, which stands for Document Object Model" elements are contained in variables, lets use them to make things happen on the page. Add the following to your current sheet:
+
+```
+var text = document.getElementById("text");
+var button = document.getElementById("reveal");
+
+button.onclick=function(){
+  text.style.display = "inline";
+}
+
+```
+What you just did was call the .onclick method on the button variable. This tells javascript to do something, in this case call a function, when the button is clicked.
+
+A function is a block of code designed to perform a particular task when called. In this case, the function is telling the browser to change the style rule for the text element to inline, which in this case would make the text visible. Now if you save the file, refresh your browser and click on the button, It should reveal the text you originally hid. Tada!
+
+#### Practice - Some other things you can do
+
+You can also easily add an alert box by adding the following code:
+
+```
+alert("This is an alert box");
+
+```
+Now after refreshing the page, the alert box should pop up immediately. It will do this every time you refresh or open the page unless you delete or further manipulate this method. Similar methods that do this include confirm and prompt.
+
+You can also log information to some thing called the javascript console. The Javascript console is a tool used for debugging or finding errors in code. It is also used to test things in javascript. It can be found in Firebug on Firefox and also under other tools in Chrome. To test it out, add the following to your code:
+
+```
+console.log("The javascript sheet is attached");
+
+```
+
+Now in Chrome (It is preferable that you use chrome for this exercise), click on the menu options, hover over "more tools", and click on JavaScript console. This should resize your page to make room for the javascript console where the message you typed in you code should appear.
+
+Congratulations! Your well on your way to becoming a programmer.
+
+### Okay, what next?
+
+The only logical next step is to **NOT STOP!** Check out our [learning resources](https://github.com/womenwhocodedc/organization/tree/master/learning-resources) section and continue your journey. All the best and congratulations!
+
+Remember, even though we did access your page via a web browser, it's not actually on the Internet! For that you would need to
+[host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic that shouldn't worry about right now!
+
+### Resources?
+
+* [Front End Hack Night Resource List](https://github.com/womenwhocodedc/organization/tree/master/learning-resources/front-end-hack-nights)
+* [Git Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/git_guide.md)
+* [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
+* [Intro to Git and Github](http://nupurkapoor.github.io/intro-to-git/#/)
+* We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better check out the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md).
+
+#### What should I do next?
+* [How to link web files](https://github.com/womenwhocodedc/link-web-files)
+* [Dash](https://dash.generalassemb.ly/)
+* [Khan Academy - HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+
+##### Keep in touch!
+* Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/).
+* [Tweet](https://twitter.com/WomenWhoCodeDC) us.
+* Email us - WWCodeDC@gmail.com
+* Check us out on [Github](https://github.com/womenwhocodedc).
+* Check out our [website](http://womenwhocodedc.github.io/).
+* Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
