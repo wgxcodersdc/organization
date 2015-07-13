@@ -75,7 +75,7 @@ For more information on Javascript resources, refer to the [Intro to JS presenta
 
 First off, the main difference between Javascript and HTML/CSS is that Javascript is considered a programming language while HTML/CSS is considered a mark-up langauge. Programming languages use logic to get things to function in a certain way often times based on the behavior of the user, where as HTML/CSS is used to section off, design and declare certain elements of a page.
 
-For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked and second create an array with a set of information that a function pulls from and prints to the page (You'll understand what this means later).  
+For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked, second get an alert box to pop up and third log a message to the Javascript console (more on this later).  
 
 #### Practice - Making a button work
 
