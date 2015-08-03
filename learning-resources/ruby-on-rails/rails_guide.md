@@ -127,7 +127,7 @@ If you want a great introdution to Computer Science and what programming is watc
 ###Other Resources
 * [Hacker Collective Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
 * [Facebook group for RoR](https://www.facebook.com/groups/HHRuby/)
-* [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/)
+* [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/) *Note: If using Devise with these, you will probably need to use the most recent version of the gem to avoid incompatability issues, not the version he specifies.*
 * [RailsCasts](http://railscasts.com/)
   * These are great screencasts of tips, tricks, and tutorials. For pro episodes you have to subscribe but there are many great free ones.
 * [Rails Documentation](http://guides.rubyonrails.org/)
