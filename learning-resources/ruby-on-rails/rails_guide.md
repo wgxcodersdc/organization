@@ -95,7 +95,7 @@ If you want a great introdution to Computer Science and what programming is watc
 
 ####Ruby Beginner
 
-* [Try Ruby](tryruby.org)
+* [Try Ruby](http://tryruby.org/levels/1/challenges/0)
   * Short Interactive, Intro to the Ruby Programming Language
 * [Code School](https://www.codeschool.com/paths/ruby)
   * Take the Ruby Language Path to get a deeper introduction to the language
