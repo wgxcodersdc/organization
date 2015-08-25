@@ -3,6 +3,7 @@
 _If you are brand new to Android, we recommend coming to the first meeting of the month which is **First-Timers Night**.  You are welcome to come any week, but that first week will be the one when we cater to beginners._
 
 **Table of Contents**
+* <a href="#SuggestedCourses">Suggested Courses</a>
 * <a href="#WhatsAndroid">What is Android?</a>
 * <a href="#AndroidUses">What is Android used for?</a>
 * <a href="#AndroidTools">Which tools do I need?</a>
@@ -23,6 +24,11 @@ _If you are brand new to Android, we recommend coming to the first meeting of th
 * <a href="#Help">Get Help</a>
 * <a href="#Challenges">Challenges and Projects</a>
 * <a href="#KeepInTouch">Keep in Touch</a>
+
+###<a name="SuggestedCourses">Suggested Courses</a>###
+
+If you are brand new to coding - [Udacity's Android for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837)    
+If you are new to Android, but have coded before - [Udacity's Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
 
 ###<a name="WhatsAndroid">What is Android?</a>###
 
