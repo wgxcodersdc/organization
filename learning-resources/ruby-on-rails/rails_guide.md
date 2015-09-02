@@ -1,6 +1,6 @@
 # Women Who Code DC Ruby on Rails Guide
 
-[Jump straight to the tools](#tools)
+[Jump straight to the tools and resources](#tools)
 
 ##First Timers Section
 **(But we won't judge if this helps others too)**
@@ -113,6 +113,8 @@ If you want a great introdution to Computer Science and what programming is watc
   * https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour
 * [Rails for Zombies](https://www.codeschool.com/courses/rails-for-zombies-redux) 
   * a intro to the Ruby on Rails platform
+* [Jumpstart Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
+  * Introductory Rails app tutorial, building a blog.
 * [Rails Tutorial](https://www.railstutorial.org/book)
   * a pretty in-depth but excellent intro to building an app in Rails
 * [One Month Rails](http://onemonthrails.com/)
