@@ -24,16 +24,16 @@ You will also need a program to edit your code. While there are Interactive Deve
 1. In the command prompt, type `python` and push Enter.
     * If a different prompt shows up, congratulations! You already have Python installed.
     * If you got an error, follow the instructions below to install Python. It might look complicated, but [this video shows that it can be done easily in under 3 minutes](https://www.youtube.com/watch?v=dU_ca27EGT8):
-1. If the `python` command gave you got an error, navigate your web browser to [the Python downloads page](https://www.python.org/downloads/) and download the *Python 2.7* file for your operating system.
-1. Install Python to the default location (assuming you're running Windows, `C:\Python27`)
+1. If the `python` command gave you got an error, navigate your web browser to [the Python downloads page](https://www.python.org/downloads/) and download the *Python 3.5* file for your operating system.
+1. Install Python to the default location (assuming you're running Windows, `C:\Python35`)
 1. When the installation is complete, on your computer navigate: `My Computer > [System] Properties > Advanced [System Settings] > Environment Variables`
-1. Under `System Variables` scroll down until you find the _Variable_ called `path`. Push the `edit` button and add `;C:\Python27;` to the end of the `variable value` field.
+1. Under `System Variables` scroll down until you find the _Variable_ called `path`. Push the `edit` button and add `;C:\Python35;` to the end of the `variable value` field.
     * Note: This list is semicolon-separated. It will look like: `a;b;c;d;`, and you are just adding another item. There shouldn't be two semicolons next to each other.
 1. Exit out of all Command Prompt windows, open a new one (`Start > Search > "cmd" > Enter`), type `python` then push Enter.
 1. That's it! You've gotten over the worst part!
 
 ### A note on Python versions
-Python 3 introduced a lot of breaking changes, so even though it's been around for a decade, many people still use Python 2. There are still some [popular libraries](http://py3readiness.org/) that don't support Python 3, but the vast majority do. So, for most purposes, it doesn't matter which version you use, but Python 2.7 is probably the safest.
+Python 3 introduced a lot of breaking changes, so even though it's been around for a decade, many people still use Python 2. There are still some [popular libraries](http://py3readiness.org/) that don't support Python 3, but the vast majority do. We strongly recommend Python 3 
 
 
 ## Hello, world
@@ -64,9 +64,9 @@ def print_greeting(name):
 # this executes the print_greeting function with the argument name = 'world'
 print_greeting('world')
 
-# raw_input is a built-in function that takes input from a user's terminal
-# use input instead of raw_input for python 3
-retrieved_name = raw_input('Please enter your name')
+# input is a built-in function that takes input from a user's terminal
+# use raw_input if you use Python 2
+retrieved_name = input('Please enter your name')
 print_greeting(retrieved_name)
 ```
 
