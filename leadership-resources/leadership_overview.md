@@ -10,55 +10,55 @@ The education team manages education Meetup events, technical talks, and hackath
 Detailed role descriptions can be found at the [Education Lead Roles & Responsibilities]() page
 
 #### Roles
-- Director: Emma Grasmeder
+- Director: [Emma Grasmeder]()
 - Algorithm Team:
-  - Amy Ghate
+  - [Amy Ghate]()
 - Front End:
-  - Alex Ulsh
-  - Isa
-  - Sarah
+  - [Alex Ulsh]()
+  - [Isa]()
+  - [Sarah]()
 - Android:
-  - Malynda 
-  - Tegan
+  - Malynda]()
+  - Tegan]()
 - Python:
-  - Clara Bennett
-  - Tammy Barbee
-  - Anissa Johnson
-  - Jamie Johnson
+  - [Clara Bennett]()
+  - [Tammy Barbee]()
+  - [Anissa Johnson]()
+  - [Jamie Johnson]()
 - Ruby:
-  - Katherine McClintoc
-  - Liz
-  - Lauren
-  - Zuri
+  - [Katherine McClintoc]()
+  - [Liz]()
+  - [Lauren]()
+  - [Zuri]()
 
 ### Networking Team
 The networking team is responsible for maintaining and promoting the Women Who Code image and presence in Washington DC and beyond. It seeks to constantly improve WWC events and provide value for our members
 Detailed role descriptions can be found at the [Network Development Leads Roles & Responsibilities]() guide
 #### Roles
-- Director: Kaylyn
+- Director: [Kaylyn]()
 - Brand & PR Manager:
-  - Laura
-  - Lauren
+  - [Laura]()
+  - [Lauren]()
 - Partnerships Manager:
-  - Su
+  - [Su]()
 - Professional Development Manager:
-  - Anne
+  - [Anne]()
 - Mentoring Managers: 
-  - Natassja
-  - Zuri
-  - Pam
+  - [Natassja]()
+  - [Zuri]()
+  - [Pam]()
 - Entrepreneurial Events Manager:
-  - Veni
-  - Liz
+  - [Veni]()
+  - [Liz]()
 - Technical Events Manager: [Contact us to help fill the position!]()
 
 ### Technology Team
 The technology team is focused on the technical and backend aspects of the Women Who Code DC organization. Members of this team research or develop apps or technologies that can make our meetings run more smoothly or our members more marketable. The technology team is also at the forefront of recruiting and streamlining any technical talks.
 Detailed project and role descriptions can be found on the [Technology Development Projects & Responsibilities]() guide
 #### Roles
-- Director: Nupur
+- Director: [Nupur]()
 - www.womenwhocode.com development: 
-  - Nupur
-  - Pam
+  - [Nupur]()
+  - [Pam]()
 - www.dcfemtech.github.io development:
   - [Contact us here to get involved!]()
