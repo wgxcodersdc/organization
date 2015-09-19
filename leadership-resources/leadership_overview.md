@@ -1,11 +1,10 @@
 # Leadership Teams
-## Education Team
+## Team Overviews
+
+### Education Team
 - Manages Education meetup events and hackathons
 - The goal is to have 4+ leads per group.  
 - Detailed role descriptions can be found at the [Education Lead Roles & Responsibilities]() page
-
-## Team Overviews
-### Education Team
 #### Roles
 - Director
   - Emma Grasmeder
