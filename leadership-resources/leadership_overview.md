@@ -1,5 +1,8 @@
 # Leadership Teams
 ## Team Overviews
+- [Education]()
+- [Networking]()
+- [Technology]()
 
 ### Education Team
 - Manages Education meetup events and hackathons
