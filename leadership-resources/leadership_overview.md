@@ -1,8 +1,8 @@
 # Leadership Teams
 ## Team Overviews
-- [Education](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#education-team)
-- [Networking](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#networking-team)
-- [Technology](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#technology-team)
+1. [Education](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#education-team)
+1. [Networking](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#networking-team)
+1. [Technology](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#technology-team)
 
 ### Education Team
 The education team manages education Meetup events, technical talks, and hackathons. Teams are expected to have at least four active leads with at least two present at any event.
