@@ -17,8 +17,7 @@
 - Android
   - Malynda 
   - Tegan
-  -
-  -
+  
 - Python
   - Clara Bennett
   - Tammy Barbee
