@@ -5,9 +5,8 @@
 1. [Technology](https://github.com/womenwhocodedc/organization/blob/leadership-drive/leadership-resources/leadership_overview.md#technology-team)
 
 ### Education Team
-The education team manages education Meetup events, technical talks, and hackathons. Teams are expected to have at least four active leads with at least two present at any event.
-
-Detailed role descriptions can be found at the [Education Lead Roles & Responsibilities]() page
+*The education team manages education Meetup events, technical talks, and hackathons. Teams are expected to have at least four active leads with at least two present at any event.*
+_Detailed role descriptions can be found at the [Education Lead Roles & Responsibilities]() page._
 
 #### Roles
 - Director: [Emma Grasmeder]()
