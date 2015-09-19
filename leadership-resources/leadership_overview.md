@@ -18,8 +18,8 @@ Detailed role descriptions can be found at the [Education Lead Roles & Responsib
   - [Isa]()
   - [Sarah]()
 - Android:
-  - Malynda]()
-  - Tegan]()
+  - [Malynda]()
+  - [Tegan]()
 - Python:
   - [Clara Bennett]()
   - [Tammy Barbee]()
