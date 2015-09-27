@@ -5,6 +5,11 @@ You will get the most out of our meetups if you follow one of our suggested reso
 
 We will not assist with work problems. We are here to help you learn the skills that will help you solve work problems, but asking about work related problems derails the productivity of everyone at the event. Repeated requests for solutions to work problems will result in our leaders asking you to leave.
 
+### Intro to Coding
+
+* [Coding Intro](http://codingintro.com/) - An introduction to programming in a couple of hours. A great place to start and see what all of the coding fuss is about! It is split up into a couple of chapters with coding exercises for you to complete on your own. 
+* [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) - One of the absolute best "learning to code" articles of all time. 
+
 **Beginner**   
 
 * HTML/CSS
@@ -12,12 +17,15 @@ We will not assist with work problems. We are here to help you learn the skills 
 	* [Dash](https://dash.generalassemb.ly/)
 * Javascript
 	* [Codeacademy](http://www.codecademy.com/tracks/javascript)
-	* ?
 	
 **Intermediate**
 
+* Make a github pages site!
+
 * Javascript
-	* ?
+	* [CodeSchool](http://javascript-roadtrip.codeschool.com/)
+	* [CodeSchool](https://www.codeschool.com/paths/javascript) ($29/month) *might be right before intermediate learning
+	* [Treehouse](http://teamtreehouse.com/library/javascript-foundations) ($25/month)
 	
 **Intermediate/Advanced**
 
@@ -25,8 +33,6 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 *We are discussing adding some beginner and/or intermediate projects that could be peer reviewed as you progress in your learning, but have to figure out logistics and how to properly mentor with that*
 
-===
-===
 
 ## Full List of Resources
 
@@ -78,7 +84,7 @@ We will not assist with work problems. We are here to help you learn the skills 
 * [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/)
 * [Learn Javascript Gitbook](http://gitbookio.gitbooks.io/javascript/content/)
 
-#### Projects
+#### Suggested Projects
 * Javascript Tetris game
 * Image/Video/Song (media) uploader
 * Weather app + Google maps integration (best route suggestion kinda thing)

@@ -23,7 +23,7 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 ### Alternate Resources
 
-We have also compiled a lot of resources that may or may not be useful for learning Java and/or Android. Some members may have experience with the resources - but we cannot guarentee assistance at our meetups. Members will get priority help if they have questions related to the above resources.
+We have also compiled a lot of resources that may or may not be useful for learning Java and/or Android. Some members may have experience with the resources - but we cannot guarantee assistance at our meetups. Members will get priority help if they have questions related to the above resources.
 
 **JAVA COURSES**
 
