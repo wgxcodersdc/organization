@@ -7,7 +7,7 @@
   - This responsibility will remain with her until another newest lead is recruited
 - Meetups should be **on Meetup.com** _at least two weeks before_ the event. Two weeks is about right for our hosts to feel comfortable that we wont stand them up & for people to make plans to attend but not forget
 - Before a meetup is scheduled on Meetup.com, at least two team leads must commit to being there for the night
-- Location logistics are to be dealth with through the [Network Manager]()
+- Location logistics are to be dealt with through the [Network Manager]()
 
 ### Day-of Meetup Agenda
 #### Before (6:15-6:30 for a 6:30 event)
