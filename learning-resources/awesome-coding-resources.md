@@ -25,4 +25,5 @@ Places to find projects:
 *  git commit
 *  git push
 *  git pull & rebase (as you continue to work on it)
+
 View [her slides](https://speakerdeck.com/courte/level-up-with-oss) on the topic from RailsConf 2015.
