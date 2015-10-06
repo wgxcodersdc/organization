@@ -93,7 +93,7 @@ We will not assist with work problems. We are here to help you learn the skills 
 
 If you want a great introdution to Computer Science and what programming is watch: [Harvard's CS50 Intro to CS class](https://courses.edx.org/courses/HarvardX/CS50x3/2015/info).  The first 3 weeks are essential but if you get into it...keep watching :) .
 
-####Ruby Beginner
+###Ruby Beginner
 
 * [Try Ruby](http://tryruby.org/levels/1/challenges/0)
   * Short Interactive, Intro to the Ruby Programming Language
@@ -105,22 +105,29 @@ If you want a great introdution to Computer Science and what programming is watc
   * Testing based approach to learning Ruby (I really like this guide because it teaches you test based development).  Works best if you do not look to closely at the error messages because they give away the answer.
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
   * Go through the exercises 
+* [Ruby Algorithms](https://github.com/kdmcclin/ruby-algorithms)
+  * This repository is a work in progress but contains a range of algorithms that you might find helpful.
 
-###Ruby/Rails Intermediate 
-
-* You can work on either of these projects together: 
-  * https://github.com/LizAkins/TicTacToeSkeleton
-  * https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour
+###Rails Beginner
 * [Rails for Zombies](https://www.codeschool.com/courses/rails-for-zombies-redux) 
   * a intro to the Ruby on Rails platform
 * [Jumpstart Blogger](http://tutorials.jumpstartlab.com/projects/blogger.html)
-  * Introductory Rails app tutorial, building a blog.
+  * Introductory Rails app tutorial, building a blog
 * [Rails Tutorial](https://www.railstutorial.org/book)
   * a pretty in-depth but excellent intro to building an app in Rails
 * [One Month Rails](http://onemonthrails.com/)
   * a more visual, interactive version of the guide above but it costs money
-* [Codecademy](http://www.codecademy.com/)
+* [Codecademy](https://www.codecademy.com/courses/learn-rails)
   * In addition to Ruby Codecademy also has Rails app tutorials and tutorials on several APIs.
+  
+###Intermediate Projects
+
+* [Codecademy](https://www.codecademy.com/apis)
+  * In addition to Ruby and Rails tutorials, they also have several tutorials on working with various APIs
+* [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/) *Note: If using Devise with these, you will probably need to use the most recent version of the gem to avoid incompatability issues, not the version he specifies.*
+* You can work on either of these projects together: 
+  * https://github.com/LizAkins/TicTacToeSkeleton
+  * https://github.com/WomenWhoCode/RubyTuesdays-ConnectFour
 
 ###Ruby/Rails Advanced
 *Ready to contribute to larger projects?  Check out the following:*
@@ -129,7 +136,6 @@ If you want a great introdution to Computer Science and what programming is watc
 ###Other Resources
 * [Hacker Collective Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
 * [Facebook group for RoR](https://www.facebook.com/groups/HHRuby/)
-* [Build 12 apps in 12 weeks!](https://mackenziechild.me/12-in-12/) *Note: If using Devise with these, you will probably need to use the most recent version of the gem to avoid incompatability issues, not the version he specifies.*
 * [RailsCasts](http://railscasts.com/)
   * These are great screencasts of tips, tricks, and tutorials. For pro episodes you have to subscribe but there are many great free ones.
 * [Rails Documentation](http://guides.rubyonrails.org/)
