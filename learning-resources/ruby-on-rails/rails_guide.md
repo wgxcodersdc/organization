@@ -132,6 +132,7 @@ If you want a great introdution to Computer Science and what programming is watc
 ###Ruby/Rails Advanced
 *Ready to contribute to larger projects?  Check out the following:*
 * [Assembly](https://assembly.com/)
+* [Contributing to Open Source](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/awesome-coding-resources.md#open-source)
 
 ###Other Resources
 * [Hacker Collective Resource List](https://github.com/HackerCollective/resources/blob/gh-pages/Programming/Web%20Development/Backend/RubyOnRails.md)
