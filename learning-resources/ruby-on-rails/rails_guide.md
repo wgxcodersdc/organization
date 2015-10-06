@@ -29,7 +29,7 @@ Ruby’s key advantage is RubyGems, the package manager that makes it easy to cr
 
 ###What’s the difference between Ruby and Rails?
 
-Remember that Rails is a web framework built using the Ruby language. 
+Remember that Rails is a web framework built using the Ruby language. Ruby is like the raw ingredients for a cake, the flour and sugar and so forth.  Rails is like the boxed cake mix.  It still has the same ingredients underneath, but it's packaged up to be quicker and easier to use.
 
 *What’s a framework?*
 
