@@ -1,4 +1,4 @@
-# Women Who Code DC Ruby on Rails Guide
+# Women Who Code DC Ruby on Rails Guide (old)
 
 [Jump straight to the tools and resources](#tools)
 
