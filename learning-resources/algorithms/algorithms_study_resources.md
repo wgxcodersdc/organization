@@ -30,7 +30,7 @@
 
 ### Visualizations
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - visualizations and code in psuedo code, but easily adatpable to Python and Java for all the most common sorting algorithms.
-* [Visualgo](http://visualgo.net/list.html) - a nice way to visualize algorithms
+* [Visualgo](http://visualgo.net/) - a nice way to visualize algorithms
 
 
 ### Competitions
