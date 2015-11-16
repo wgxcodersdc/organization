@@ -7,7 +7,7 @@ Spend each evening focused on one part of the stack, starting from the bottom up
 Do a basic rundown of a popular framework once the MEAN stack stuff is done. We’ll focus only on the most popular frameworks and those that show interest among members.
 
 ## Javascript Toolbelt - Testing and Setup Series:
-How to use tools like Yeoman, Create.js and Bower to setup your projects and other tools like Grunt, Gulp, Jasmine, JSLint and other tools to test large multi-component projects.
+How to use tools like Yeoman, Create.js and Bower to setup your projects and other tools like Grunt, Gulp, Jasmine, and JSLint to test large multi-component projects.
 
 # Proposed FEHN Schedule and Dates for the next two and a half months:
 **November 16th** - Regular Hacknight
