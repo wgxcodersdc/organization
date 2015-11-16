@@ -6,7 +6,7 @@ Spend each evening focused on one part of the stack, starting from the bottom up
 ## Frameworks Series: 
 Do a basic rundown of a popular framework once the MEAN stack stuff is done. We’ll focus only on the most popular frameworks and those that show interest among members.
 
-## Javascript Toolbelts - Testing and Setup Series:
+## Javascript Toolbelt - Testing and Setup Series:
 How to use tools like Yeoman, Create.js and Bower to setup your projects and other tools like Grunt, Gulp, Jasmine, JSLint and other tools to test large multi-component projects.
 
 # Proposed FEHN Schedule and Dates for the next two and a half months:
