@@ -1,6 +1,6 @@
 <h1>Women Who Code DC | Angular JS</h1>
 
-	<h2>What is AngularJS </h2>
+	<h2>What is AngularJS ?</h2>
 
 	<img style="position: center;" src="https://qph.is.quoracdn.net/main-qimg-66e19c4afa70ca0417cacb3693f805d6?convert_to_webp=true">
 
