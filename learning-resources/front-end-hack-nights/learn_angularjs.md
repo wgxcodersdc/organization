@@ -4,9 +4,9 @@ Women Who Code DC | Angular JS
 What is AngularJS ?
 -------------------
 
-	![alt text](https://qph.is.quoracdn.net/main-qimg-66e19c4afa70ca0417cacb3693f805d6?convert_to_webp=true)
+![alt text](https://qph.is.quoracdn.net/main-qimg-66e19c4afa70ca0417cacb3693f805d6?convert_to_webp=true)
 
-	AngularJS is one of the many popular open source Javascript frameworks.  Its goal is to simplify the development and testing of applications that follow the [Model-View-Controller](https://en.wikipedia.org/wiki/Model–view–controller) and [Model-View-View-Model](https://en.wikipedia.org/wiki/Model_View_ViewModel) architecture.  It is a "Single Page Application" (SPA) meta framework where it is heavily focus on eliminating the work of having to go back and forth between the server and the client but rather having it be heavily driven by Javascript.
+AngularJS is one of the many popular open source Javascript frameworks.  Its goal is to simplify the development and testing of applications that follow the [Model-View-Controller](https://en.wikipedia.org/wiki/Model–view–controller) and [Model-View-View-Model](https://en.wikipedia.org/wiki/Model_View_ViewModel) architecture.  It is a "Single Page Application" (SPA) meta framework where it is heavily focus on eliminating the work of having to go back and forth between the server and the client but rather having it be heavily driven by Javascript.
 
 Tools and Prerequisites
 -----------------------
