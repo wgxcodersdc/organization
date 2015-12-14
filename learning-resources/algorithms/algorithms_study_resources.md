@@ -13,7 +13,6 @@
 ### Some Videos that We Made
 * [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko)
 * [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc)
-* [AVL Trees and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc)
 
 
 ### Practice 
