@@ -9,7 +9,7 @@ Please see our [New and Prospective Leads](https://github.com/womenwhocodedc/org
 Please take note! This GitHub repository is the main form of institutional memory for our organization. **Issues and Pull-Requests in this repository also serve as a key way for us to make decisions as a group.** Please take note of how to find this repository and [familiarize yourself with git if you need to]().
 
 ### Contents
-- [All Education Team Leads Expectations]()
+- [All Education Team Leads Expectations](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/Education/requirements_and_expectations.md)
 - [Team Specific Folders]()
 - [Project Suggestions]()
 
