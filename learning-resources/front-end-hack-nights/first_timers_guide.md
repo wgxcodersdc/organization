@@ -1,172 +1,186 @@
-## WWCDC Front End Hack Night First Timer's Guide
+# WWCDC Front End Hack Night First Timer's Guide
 
-### What is Front End?
+## What's a "front end"?
 
-The "front end" is the part of the website or web application that a person can visually see and interact with. It is on the "front" of an application. Its main purpose is to interact with the user, as well as present the data in a well-defined style and structure. The front end is made up of two aspects:
+The "front end" is the user or "front" facing portion of a website or web application. This is also called the "client-side" of a website, with the web browser (e.g. Chrome, Firefox, Internet Explorer) being the "client." Users interact with the information, elements, controls, and graphics on the "front" of an application. 
 
-* Design - aesthetics of the website or application, arrangement of elements on the screen, color, and font choices
+The following aspects make up the front end of an application:
 
-* Front end web development (or "client-side" development) - elements that the user sees and interacts with directly. This aspect involves programming skills, primarily **HTML**, **CSS**, and **Javascript** but certainly not limited to them.
+* Design - aesthetics, arrangement, visuals, graphics, colors, and fonts
 
-### What is Front End Development?
+* User Interface (UI) and User Experience (UX) - the psychology and reasoning behind the layout and information architecture on the front end of a web application
 
-The focus of this study group is **Front End Development**. Though we appreciate designers joining and sharing their wisdom, the purpose of this group is to learn and encourage everyone to code.
+* Development - the HTML, CSS, and JavaScript code interpreted by a web browser to create the front end
 
-A front end developer is the bridge that connects the designer and the back end developer. While a web designer creates the visual design and layout of the website, the web developer transforms a static design into a fully functioning website online and available to the world. By contrast, a back-end developer builds the underderlying architecture and functionality of the application (underneath the front end).
+This guide focuses on the development aspect of the front end, or front end development. 
 
-Almost all the elements that you see and interact with on any website are made up of HTML, CSS, and JavaScript. The interpretation of these elements is controlled by the browser. In other words, whether you use Google Chrome, Firefox, or Safari, the browser transforms all of the code into a website or application you can see and interact with. This includes but is not limited to fonts, colors, drop down menus, images, and forms.
+Front end developers may work on teams with web designers and UI/UX professionals or they may work solo. If they work alone they may have to integrate aspects of web and UI/UX into their development work. If they work on a team, then the web designer will create a mock up of the site using Adobe Photoshop or a similar tool. The front end developer will then convert the design into HTML, CSS, and JavaScript code that will load in a web browser. The UI/UX specialist will work at all stages of the process to make sure the site design, layout, and information make sense for the user or customer.
 
-### What tools do I need?
+## What about the "back end"?
 
-* A computer: Front end development is not restricted by operating system. You can learn front end development on Windows, Mac, and Linux (even Chrome OS!) machines.
+By contrast, the user never directly interacts with the "back end" or "server-side" of a web application. The back end is composed of the web servers and systems that run the web site or web application and the programming languages that interact with those systems. The back end often includes a database such as MongoDB, MySQL, or Microsoft SQL Server to store and manage large amounts of user information. Popular back end web development languages and frameworks include Node.js (Javascript language), Ruby on Rails (Ruby language), Django (python language), and ASP.NET (C# or VB.NET languages).
 
-* A text editor: you should not code using a regular word processor (e.g. Microsoft Word). While you can use Notepad or TextEdit, it's easier to code with user-friendly text editors with syntax highlighting. We recommend:
-  * [Sublime Text](http://www.sublimetext.com/) - Mac, Windows, Linux
-  * [TextWrangler](http://www.barebones.com/products/textwrangler/) - Mac only
-  * [Notepad++](http://notepad-plus-plus.org/) - Windows only
+## What tools do I need to get started with front end development?
 
-* Git and GitHub: Version control is an important part of any professional developer's toolkit. These tools back up your work, facilitate collaboration, and manage changes through versioning. First [install Git](http://git.huit.harvard.edu/guide/) on your computer, then create an account on [Github](https://github.com). For an introduction to Git and Github, refer to the [Intro to Git presentation](http://nupurkapoor.github.io/intro-to-git/#/)
+* A computer running Windows, Mac OSX, Linux, or Chrome OS 
 
-* [JSFiddle](http://jsfiddle.net/): An online custom environment to test your HTML, CSS, and Javascript. You can save the fiddles you create and share them with others. Check out the [official documentation](http://doc.jsfiddle.net/tutorial.html).
+* A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Internet Explorer
 
-* Dedication, patience and support from each other!
+* A code-friendly text editor such as [Sublime Text](http://www.sublimetext.com/) (Mac, Windows, and Linux), [Notepad++](http://notepad-plus-plus.org/) (Windows), or [TextWrangler](http://www.barebones.com/products/textwrangler/) (Mac)
 
-### Basics
+* A version control system such as [Git](https://git-scm.com/). This will be used to safely test changes (via branches), back up your work, and collaborate with others. It is frequently used with [Github](https://github.com/) and [Bitbucket](https://bitbucket.org/) to store your code on the Internet. You should sign up for an account on Github and [install the version of Git](http://git.huit.harvard.edu/guide/) for your operating system. If you're using a Chromebook or tablet, then use [Cloud9 IDE](https://c9.io/) instead of installing Git.
 
-Note: though many technologies and programming languages contribute to web development, we will only be discussing the languages our group focuses on.
+## The "layers" of the web
 
-*Content, presentation, and behavior* are the three layers of the web.
+Content (HTML), presentation (CSS), and behavior (JavaScript) make up the three layers of the web.
 
 ![web-layers](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729756css_three-layers.png)
 
-#### 1. HTML (Hyper Text Markup Language)
-HTML is the markup language of the web, used to structure a website's content so that the browser may read and display it. Markup consists of the structure and layout of a page's content. It is the foundation of a website and is vital to search engine optimization (SEO). A markup language specifies code for formatting content within a text file. The pieces of code used to specify the formatting are called tags.
+### 1. HTML (Hyper Text Markup Language)
+HTML is used for the content layer of the web. It is used to lay out or "mark up" the content of a web page. Content primarily consists of text but may also include images, links, animations, sound, video, and forms. HTML is the digital equivalent of traditional markup notation in printing and publishing. 
 
-HTML defines the `content layer` of a web page. It contains a website's information and content, including its structure and semantics. Text makes up most of the content on the web. Nevertheless, images, animations, sound, video, and whatever else an author wants to publish are also considered content.
+HTML code is made up of elements. For example, the `p` element is used to mark up a paragraph of text. Elements consist of opening (`<p>`) and closing (`</p>`) tags using angle brackets. Some elements, notably the `img` element for images, may be self closing (`<img />`).
 
-The extension for an HTML file is **.html**
+The extension for an HTML file is `.html`. The conventional name for the default or main page of a website is `index.html`. 
 
-#### 2. CSS (Cascading Style Sheet)
-CSS defines the look and feel of the markup generated by HTML, including colors, backgrounds, font sizes, layouts, and grids. A single CSS change can affect the entire mood and tone of a Web site. The term *style sheet* refers to the CSS document itself. A web page can have one or multiple style sheets.
+### 2. CSS (Cascading Style Sheets)
+CSS is used for the presentation layer of the web. It defines a web site's colors, backgrounds, fonts, and layout. 
 
-CSS makes up the `presentation layer` and defines how content will appear when someone accesses a page. The conventional way to view a web page is with a regular web browser, but that’s only one of many possible access methods (e.g. mobile devices, kiosks, etc.).
+CSS syntax selects one or more HTML elements on a page, then sets styles on various element attributes (or properties) within curly brackets. The example CSS below sets paragraph elements to be blue with a Times New Roman or other serif font.
 
-The extension for a CSS file is **.css**
+````
+p {
+    color: blue;
+    font-family: "Times New Roman", Times, serif;
+}
+````
 
-*HTML and CSS are the building blocks of web development. Every web page is written in HTML. It’s important to know these two languages really well. Together they form the bare bones of a web page, so being able to write custom HTML and CSS is an extremely important skill. It's also important to understand how these two technologies work together: HTML sets the structure of the page and CSS styles the way it looks.*
+A CSS document is called a stylesheet and has a `.css` file extension. A website can have one or multiple stylesheets. Common conventional file names include `styles.css` or `main.css`. 
 
-#### 3. Javascript (JS)
+### 3. JavaScript (JS)
 
-JavaScript is the third and final pillar of modern web development (the other two being HTML and CSS). JavaScript is the most advanced language of all three. It enables us to interact with users via sliders, drop-down menus, quizzes, and many more interactive elements. It is what makes the modern web interactive, animated, and vibrant.
+JavaScript is used for the behavior layer of the web. While HTML and CSS are markup languages that determine structure and presentation, JavaScript is a programming language that can carry out operations, functions, and calculations. JavaScript can be used to create sliders, quizzes, dynamic forms, alert boxes, and modal dialogs. It can also detect clicks or mouse hovers from users and then dynamically change HTML elements on a page. Complex web applications, such as Gmail and Facebook, heavily rely on JavaScript for their interactive functionality.
 
-JavaScript constitutes the `behavior layer` - real-time user interaction. This can range from trivial validation of a required field in an email subscription form to a sophisticated web application that acts like an ordinary desktop program.
+This guide will focus primarily on HTML and CSS. HTML and CSS should be mastered first before tackling JavaScript, as client-side JavaScript requires excellent knowledge of HTML elements and the Document Object Model (DOM). 
 
-When a user requests an HTML page with JavaScript in it, the script is sent to the browser and it's up to the browser to do the "magic" with it. Also, JavaScript is *NOT* the same as Java. Their names may be similar (purely for marketing reasons), but they are two completely different programming languages.
+The extension for a JavaScript file is `.js`. A website can have one or multiple JavaScript files. 
 
-The extension for a JavaScript file is **.js**
+Note: JavaScript and Java are two different programming languages. 
 
-For an introduction to Javascript, refer to the [Intro to JS presentation](http://nupurkapoor.github.io/js-study-group/). Please also check out the Front End Hack Night [JavaScript Study Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/javascript_study_guide.md)
+## Separation of Content, Presentation, and Behavior
 
-*While it’s possible to embed all three layers within the same document, keeping them separate gives us one valuable advantage: we can modify or replace any of the layers without having to change the others.*
+While HTML, CSS, and JavaScript can all be combined in the same `.html` file, ideally they should be separated into three or more files - one for each language. This makes maintaining your code - especially when dealing with multiple web pages on a large web site - much easier. 
 
-### How do I get started?
+## Intro to HTML
 
-Awesome, congrats on taking the first step to learning how to code! Now how do we get started? Believe it or not, it's by **Building Your First Web Page!!**
+### Basic HTML Elements
 
-HTML and CSS are independent of one another and should remain that way in separate HTML and CSS files. CSS should not be written inside of an HTML document and vice versa. As a rule, HTML will always be the `content layer` and CSS will always be the `presentation layer`. Now that you understand the importance of each, let's get started!
+HTML documents are made up of HTML elements that define the content and structure of a web page. Content includes text, images, media, and links. 
 
-##### Common HTML Terms
-
-###### Elements
-
-HTML documents are made up of HTML elements. `Elements` are the bits that make up web pages, they define the structure and content of different pieces within a page. These pieces could be text, images, media, or links. Some commonly used HTML elements are:
+Commonly used HTML elements:
 
 * `<p>` - Paragraph
 * `<img>` - Image
-* `<h1>` through `<h6>` - Multiple levels of page headings
-* `<a>` - Anchor/hyperlink/URL
+* `<h1>` through `<h6>` - Headers, with `h1` the largest and `h6` the smallest
+* `<a>` - Anchor (hyperlink/URL)
+* `<br/>` - Line break
+* `<div>` - Division or block
+* `<table>` - Table of information or data
+* `<form>` - Forms
+* `<ul>` - Unordered list
+* `<ol>` - Ordered list (1,2,3 or I,II,III)
 
 As you may have noticed, all elements are identified by the use of less than and greater than angle brackets `< >` surrounding the element name. Together these angle brackets and the element name form a `Tag`.
 
-###### Tags
+### Tags
 
-An opening tag marks the beginning of an element. It consists of a less than sign followed by an element’s name, and then ends with a greater than sign - for example, `<a>`. A closing tag marks the end of an element. It consists of a less than sign followed by a forward slash and the element’s name, and then ends with a greater than sign - for example, `</a>`. What falls between these two tags will be the content of the anchor link.
+HTML elements are usually composed of pairs of opening and closing tags. 
 
-Tags most commonly occur in pairs of opening and closing tags, but there are some exceptions where tags do not require a closing tag.
+An *opening tag* marks the beginning of an element. It consists of a less than sign followed by an element’s name, and then ends with a greater than sign - for example, `<p>`. 
 
-###### Attributes
+A *closing tag* marks the end of an element. It consists of a less than sign followed by a forward slash and the element’s name, and then ends with a greater than sign - for example, `</p>`. Below is a sample paragraph element with both opening and closing tags.
 
-`Attributes` are properties used to provide additional information about an element. The most common attributes include the `id` attribute, which uniquely identifies an element and the `class` attribute, which classifies an element.
+`<p>This is an example paragraph</p>`
 
-Attributes are defined within the opening tag, after an element’s name. Generally attributes include a name and a value. The format for these attributes consists of the attribute name followed by an `=` sign and then a quoted attribute value. For example, see the `<a>` tag with a `href attribute` below:
+Some HTML elements may only require one self-closing tag, for example the line break (`<br/>`) and image (`<img/>`) elements.
 
-![HTML-1](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-1.png)
+### Attributes
 
-##### Practice - Hello HTML!
+HTML elements can have properties called attributes that provide additional information. 
+
+Attributes are defined within the opening tag, after an element’s name. Attributes are composed of a name, equal sign (`=`), and value. For example, the `href` attribute ("hyperlink reference") of an `a` element describes the website address (URL) of an anchor or link element. 
+
+`<a href='http://wwww.google.com/'>Google</a>`
+
+The `id` and `class` attributes for HTML elements are important when learning CSS to style HTML. The `id` attribute is used to uniquely identify one element on a page (in order to apply a style to a single element), whereas the `class` attribute can be used to style multiple HTML elements. 
+
+### Practice Exercise - Hello, World!
 
 Let's create your first HTML page.
 
-1. Open your text editor (Notepad, TextEdit, Sublime Text, etc.). Create a new file named hello.html and save it to a location you won't forget.
+1. Open your code-friendly text editor, such as Sublime Text. Create a new file called `index.html` and save it to an easy to find location on your computer.
 
-2. In the hello.html file, add the document structure, the `<!DOCTYPE html>` document type, and the `<html>`, `<head>`, and `<body>` elements.
+2. In the `index.html` file, type out the following HTML. All HTML files should begin with a DOCTYPE declaration (`<!DOCTYPE html>`), followed by an `HTML` element. All `html` elements should contain one `head` element and one `body` element. The `head` element will contain metadata (data about data) and hidden information about the page used by browsers and search engines, while the `body` element will contain the visible structure of the web page.
 
-	```
-	<!DOCTYPE html>
-	<html lang="en">
-	  <head>
-	  </head>
-	  <body>
-	  </body>
-	</html>
-	```
+````
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    </head>
+    <body>
+    </body>
+</html>
+````
 
-3. Inside the `<head>` element, let’s add a `<meta>` and `<title>` element. `<meta>` elements define data (information) about data, otherwise known as metadata. Metadata is not be displayed on the page, but is used by the browser. Our `<meta>` element below defines the [character encoding](http://techterms.com/definition/characterencoding) (how computers understand text) of our document. The `<title>` tag sets the title of the page in the window or tab of browser.  
+3. Inside the `<head>` element, add `<meta>` and `<title>` elements. Our `<meta>` element below defines the [character encoding](http://techterms.com/definition/characterencoding) (how computers understand text) of our HTML document. The `<title>` tag sets the title of the page in the window or tab of our browser.  
 
-	```
-	<!DOCTYPE html>
-	<html lang="en">
-	  <head>
-       <meta charset="utf-8">
-       <title>My first HTML page</title>
-      </head>
-	  <body>
-	  </body>
-	</html>
-	```
+```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Hello World</title>
+    </head>
+    <body>
+    </body>
+</html>
+```
 
-4. Inside the `<body>` element, let’s add `<h1>` and `<p>` elements. The `<h1>` element should include our heading and the `<p>` element should include a simple paragraph.
+4. Inside the `<body>` element, add an `<h1>` (header level 1) and a `<p>` (paragraph) element.
 
-	```
-	<!DOCTYPE html>
-	<html lang="en">
-	  <head>
-       <meta charset="utf-8">
-       <title>My first html page</title>
-      </head>
-	  <body>
-	   <h1>Hello World!!</h1>
-	   <p>This isn't just any page, this is my beginning.</p>
-	  </body>
-	</html>
-	```
+```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Hello World</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>I'm learning HTML and CSS at Women Who Code DC's Front End Hack Night first timer's night.</p>
+    </body>
+</html>
+```
 
-5. Now it's time to open this page in a browser! Locate your hello.html file and double click on it to open it. You can also use the file open or open with option in your browser menu. This is how my HTML document looks in my text editor:
+5. Open your page in your web browser. Locate your `index.html` file and double click on it to open it. It should open with the default web browser on your computer You can also use the file open or open with option in your browser menu. 
 
-![HTML-2](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-2.png)
+This is how `index.html` looks in Sublime Text:
 
-And this is how it looks when I access the page in Chrome:
+![HTML-2](https://raw.githubusercontent.com/womenwhocodedc/organization/master/learning-resources/front-end-hack-nights/assets/HelloWorldSublimeText.png)
 
-![HTML-3](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-3.png)
+This is how `index.html` looks in Google Chrome:
 
-Voila! You just created your first HTML page. Congratulations! Now let's take a look at CSS.
+![HTML-3](https://raw.githubusercontent.com/womenwhocodedc/organization/master/learning-resources/front-end-hack-nights/assets/HelloWorldChrome.png)
 
-##### Common CSS Terms
+Congratulations! You just created your first HTML page. Let's take a look at CSS.
 
-###### Selectors
+## CSS
 
-`Selectors` select elements on an HTML page so that they can be styled. Selectors can select a single or multiple elements.
+### Selectors
 
-Before we start looking into different types of selectors, let's look at CSS syntax. Though it's different from HTML, it's really simple to pick up! The general format looks like this:
+CSS selectors select elements on an HTML page so that they can be styled. A CSS selectors can select single or multiple HTML elements.
+
+The below code shows general CSS syntax:
 
 ```
 selector {
@@ -174,162 +188,135 @@ selector {
 }
 
 ```
-So for example, if we wish to change the `color` property of a paragraph tag to blue:
+For example, the following CSS will make all of our paragraph elements blue. The `p` HTML element is the selector and we are setting the `color` property to have a `blue` value.
 
 ```
 p {
-	color: blue;
+    color: blue;
 }
 ```
 
-Now the above code would change the color of ***ALL*** paragraph tags to blue on the page. For granularity we can use other attributes as well to target specific elements.
+The above CSS makes all of the paragraphs on our web page blue. We may wish to only change the color of one paragraph or a small subset of paragraphs. We can accomplish this with `id` and `class` attributes for our HTML elements.
+
+CSS selector for IDs use the pound or hashtag symbol (`#`), while selectors for classes use a period (`.`).
+
+HTML code with IDs and classes for paragraph elements:
+
+````
+<p id='container'>This text will be blue.</p>
+
+<p class='error'>This text is an error message, it will be red.</p>
+<p class='error'>This is another error message. It will be red too.</p>
+````
+
+CSS code with selectors for paragraph elements with IDs and classes:
 
 ```
 p#container {
-	color: blue;
+    color: blue;
 }
 
 p.error {
-	color: red;
+    color: red;
 }
 
 ```
 
-In the above code, the `<p>` tag with an `id` attribute of container would be colored blue. IDs are unique within a page - only one element should contain that particular ID (uniquely identified) Meanwhile, every element with a `class` attribute of error will be red. Classes are used for multiple elements on a page with the same style. In CSS, the `id` attribute is selected using a `#` hash/pound symbol, while the `class` attribute is selected using the dot or period symbol `.`.
+HTML elements can have multiple classes:
 
-**Common Selectors:**
+````
+<p class='error bold'>This text with be red and bolded</p>
+````
 
-1. `*` - Universal selector. The star symbol will target every single element on the page. It literally means 'ALL'. Be very careful while using this selector as it would apply the style on every single element of your web page.
-2. `#id` - Id selector. To select a single element by its `id` attribute.
-3. `.class` - Class selector. To select elements by their `class` attribute.
-4. `h1`, `p`, `body`, `div`  - Type selectors. To select an element by its tag type.
-5. `div.article table` - Descendant selector. When you want to apply a style rule to a particular element only when it lies inside a particular elemen. In this case the CSS rule would only be applied to a `table` that is inside a `div` with a `class` attribute of 'article'
+HTML elements can also have both an ID and one or more classes:
 
-**Example of how you would use some of these selectors**
+````
+<p id='important' class='error'>Important error message</p>
+````
 
-```
-<title class="title">My first HTML page</title>
-```
-The above title tag will now also have a `class` attribute associated with it.
+### Adding CSS to an HTML file
 
-```
-<title class="title content">My first HTML page</title>
-```
-Now the same title tag has two different classes, *title* class and *content* class. Multiple classes are separated by a whitespace. Classing HTML elements, makes it possible to define CSS styles for classes of elements.
-
-```
-<title class="content" id="title">My first HTML page</title>
-```
-Now the same title tag has a *content* `class`, and a *title* `id`. An element can have multiple classes all separated by whitespace, but can only have ONE unique identifier!
-
-**We Suggest**: Always Quote attribute values. Double style quotes are the most common in HTML, but single style can also be used.
-
-##### Referencing CSS from Within a HTML Page
-
-For our CSS and HTML files to talk to each other we need to reference our CSS file within our HTML document. The best practice is to include all of our styles in a single external style sheet, which is referenced from within the `<head>` element of our HTML document:
+To add CSS to our HTML we should create a separate `.css` file or external stylesheet to hold all of our styles. This will be referenced in the `head` element of our HTML file using a `link` element.
 
 ```
 <head>
-  <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="main.css">
 </head>
 ```
 
-##### Practice - Styling Hello HTML!
+### Practice exercise - Styling `index.html`
 
-1. Create a new file called `main.css`. Save this file in the same folder as your `hello.html` file.
+1. Create a new file called `main.css`. Save this file in the same folder as your `index.html` file.
 
-2. Using our text editor, lets add some color and change the font of the `<h1>` tag, and change the font face of the `<p>` tag:
+2. Using our text editor, add some color and change the font of the `<h1>` tag and change the font face of the `<p>` tag:
 
 ```
 h1 {
-	font-family: Arial;
-	color: blue;
+    font-family: Arial;
+    color: blue;
 }
 
 p {
-	font-family: Arial;
-}
-
-```
-
-Now, the Gurus of programming have wisely advised us to always be *DRY - Do not Repeat Yourself*. But we are repeating ourselves above! Both of our elements have the exact same font. Now there are two ways to resolve this:
-
-* If the file is as simple as ours, with nothing else but just an `<h1>` and a `<p>` tag, we can apply the `font-family` to the `<body>` tag of the page, which will affect most elements within the `<body>` tag. This is called inheritance.
-
-```
-body {
-	font-family: Arial;
-}
-
-h1 {
-	color: blue;
+    font-family: Arial;
 }
 ```
 
-* If our page has lots of elements and we only wanted to target the `<h1>` and the `<p>` tag, we can apply styles to both tags using a `,` as a separator!
+When writing code, "do not repeat yourself" or DRY. Above we are repeating ourselves by specifying the font family for both the `h1` and `p` elements. We can refactor the above code to implement DRY by placing the `h1` and `p` elements on the same line separated by a comma.
 
 ```
 h1, p {
-	font-family: Arial;
+    font-family: Arial;
 }
 
 h1 {
-	color: blue;
+    color: blue;
 }
-
 ```
 
-![MAIN-css-1](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/MAIN-css-1.png)
+To add the external stylesheet to our HTML file, use a `link` element in the `head` element.
 
-Now we need to reference this CSS file from within our HTML file:
-
-```
+````
 <!DOCTYPE html>
 <html lang="en">
-<!--This is a comment. Comments are not displayed in the browser-->
-  <head>
-     <meta charset="utf-8">
-     <title>My first html page</title>
-     <link rel="stylesheet" href="main.css">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="main.css">
+        <title>Hello World</title>
     </head>
-  <body>
-   <h1> Hello World!! </h1>
-   <p>This isn't just any page, this is my beginning.</p>
-  </body>
+    <body>
+        <h1>Hello World!</h1>
+        <p>I'm learning HTML and CSS at Women Who Code DC's Front End Hack Night first timer's night.</p>
+    </body>
 </html>
-```
+````
 
-Let's open the HTML file in the browser to see the styling in action.
+Open `index.html` again to see the CSS in action.
 
-Yayyyyy!!!
+![HTML-4](https://raw.githubusercontent.com/womenwhocodedc/organization/master/learning-resources/front-end-hack-nights/assets/HelloWorldChromeCSS.png)
 
-![HTML-4](https://raw.githubusercontent.com/nupurkapoor/WWCDC-FEHN-FTGuide/master/assets/images/HTML-4.png)
+### Next Steps
 
-### Okay, what next?
-
-The only logical next step is to **NOT STOP!** Check out our [learning resources](https://github.com/womenwhocodedc/organization/tree/master/learning-resources) section and continue your journey. All the best and congratulations!
-
-Remember, even though we did access your page via a web browser, it's not actually on the Internet! For that you would need to
-[host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic that shouldn't worry about right now!
-
-### Resources?
-
-* [Front End Hack Night Resource List](https://github.com/womenwhocodedc/organization/tree/master/learning-resources/front-end-hack-nights)
-* [Git Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/git_guide.md)
-* [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
-* [Intro to Git and Github](http://nupurkapoor.github.io/intro-to-git/#/)
-* We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better check out the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md).
+Now that you've built your first web page, use Women Who Code DC's study groups and resources to help you continue to learn to code!
 
 #### What should I do next?
-* [How to link web files](https://github.com/womenwhocodedc/link-web-files)
+* [Install Git](http://git.huit.harvard.edu/guide/)
+* [Learn how to use Git](https://try.github.io/levels/1/challenges/1)
+* [Learn how to use Cloud9, Git, and Github Pages to create your own website](http://slides.com/alexandraulsh/build-your-own-website-with-cloud9-and-github-pages#/)
 * [Dash](https://dash.generalassemb.ly/)
+* [CodeAcademy HTML & CSS](https://www.codecademy.com/learn/web)
 * [Khan Academy - HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+* [Learn JavaScript](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/first_timers_javascript_guide.md)
 * [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
-##### Keep in touch!
-* Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/).
-* [Tweet](https://twitter.com/WomenWhoCodeDC) us.
-* Email us - WWCodeDC@gmail.com
+#### Front End Study Guides
+* [HTML Study Guide](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/html_study_guide.md)
+* [CSS Study Guide]()
+* [JavaScript Study Guide]()
+
+#### Keep in touch!
+* Come to our [Meetups](http://www.meetup.com/Women-Who-Code-DC/).
+* Follow us on [Twitter](https://twitter.com/WomenWhoCodeDC) us.
+* Email us at WWCodeDC@gmail.com
 * Check us out on [Github](https://github.com/womenwhocodedc).
-* Check out our [website](http://womenwhocodedc.github.io/).
+* Check out our [website](https://www.womenwhocode.com/dc).
 * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
