@@ -28,3 +28,4 @@ We have an assortment of meetup that can be delivered in most languages basciall
   - people go to large conferences and talk about lessons learned / we show some recorded talks
 13. Code Review
   - having prepared ahead of time, one or more members present and walk through (a section of) their code. This will allow less experienced coders to learn and experienced coders the space to improve their code.
+  - this event differs from *3* (Tech Talks) in that there should be a facilitated conversation between the person presenting code and the people reviewing the code (aka everyone else)
