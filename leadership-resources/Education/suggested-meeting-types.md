@@ -26,3 +26,5 @@ We have an assortment of meetup that can be delivered in most languages basciall
   - Where we pick a topic and invite a speaker to present for us
 12. Conference recap 
   - people go to large conferences and talk about lessons learned / we show some recorded talks
+13. Code Review
+  - having prepared ahead of time, one or more members present and walk through (a section of) their code. This will allow less experienced coders to learn and experienced coders the space to improve their code.
