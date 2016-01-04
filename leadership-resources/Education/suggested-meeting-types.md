@@ -5,9 +5,7 @@ We have an assortment of meetup that can be delivered in most languages basciall
   - By the end of the night, everyone should have 100% of the tools they need on their computer to be a professional developer
 2. Beginner's Night (Coding basics)
   - Getting started is hard! At a night like this, we teach beginners `Hello World`, Recursion, or whatever you think they might need
-2. Demo Night
-  - Lead(s) or(and) participant(s) gives a talk(s) about cool things they're working on
-3. Tech Talks
+2. Demo Night/Tech Talk 
   - Lead(s) or(and) participant(s) gives a talk(s) about cool things they're working on
 4. Crash other meetups
   - eg, Let's get 20 of us to go to DC Python together
@@ -26,3 +24,6 @@ We have an assortment of meetup that can be delivered in most languages basciall
   - Where we pick a topic and invite a speaker to present for us
 12. Conference recap 
   - people go to large conferences and talk about lessons learned / we show some recorded talks
+13. Code Review
+  - having prepared ahead of time, one or more members present and walk through (a section of) their code. This will allow less experienced coders to learn and experienced coders the space to improve their code.
+  - this event differs from **3** (Demo Night) because this event will have a facilitated conversation between the person presenting code and the people reviewing the code (aka everyone else), where Demos are typically less conversational
