@@ -2,6 +2,7 @@
 
 ### Before the Meetup
 - The newest lead and her mentor (the person who recruited her) are responsible for the planning and creation of the Meetup.com event
+  - If you don't have a mentor/know who your mentor is, please bring this up in the Study Group Leads channel or your specific language leads channel!
   - This **does not imply she must personally create the Meetup.com event or even attend the meetup**
   - It _is_ the newest lead's responsibility to ask people to volunteer to create the Meetup.com event, commit to attending, etc.
   - This responsibility will remain with her until another newest lead is recruited
