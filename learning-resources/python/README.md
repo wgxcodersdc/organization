@@ -12,7 +12,7 @@ The WWC Python study group is a space where women can come together and help eac
 
 All study groups are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Thursday 06:30-08:30 pm. Every study group will have the following format:
 
-* 6:30pm  - Begin
+* 6:15 - 6:40pm - Networking and getting to know each other
 * 6:40 - 6:50pm - Quick Introductions
 * 6:50 - 8:00pm - CODE!
 * 8:00 - 8:15pm - Lightning Talk (a quick presentation or talk) (if planned)
