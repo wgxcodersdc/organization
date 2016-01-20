@@ -1,1 +1,0 @@
-## ![Ruby On Rails Icon](http://files.softicons.com/download/application-icons/ruby-programming-icons-by-ahmad-galal/png/48/RubyOnRails.png) [Link to Ruby on Rails First Timers Night Review](https://docs.google.com/forms/d/1VJxei6b39FblEBHPpW8cWFrwP_S-o2LaKqYKtInu8k4/viewform)
