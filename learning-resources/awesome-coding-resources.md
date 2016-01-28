@@ -19,7 +19,7 @@ Places to find projects:
 *  [Contribulator](https://contribulator.herokuapp.com/)
 *  [Docs Doctor](http://www.docsdoctor.org/)
 
-[Courtney Ervin](https://twitter.com/courteneyervin) of Code Montage's suggested git workflow for contributing to open source:
+[Courtney Ervin](https://twitter.com/courteneyervin)'s suggested git workflow for contributing to open source:
 *  fork + git clone
 *  git remote (set a remote for the main version of the project)
 *  git branch (name it relevant to your code)
