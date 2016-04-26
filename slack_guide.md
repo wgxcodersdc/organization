@@ -2,52 +2,65 @@
 
 ---
 
-Welcome to Slack!
+## What is Slack?
 
-Slack can be confusing at first and certainly takes some time to get used to - but hopefully this living document will help you better communicate between our meetup.
+Slack is a messaging application used by workplaces and organizations to facilitate communication and collaboration. An organization creates a team in Slack, which contains open channels (e.g., #javascript) or private groups (e.g., python-leads). You can also send private direct messages to other people and even small groups. 
 
-### For starters - what is Slack? 
-Here's how Slack describes it: [https://slack.com/is/team-communication](https://slack.com/is/team-communication "Team Communication")  
+Even though Slack has private groups and direct messages, you should try to use channels whenever possible instead to encourage information sharing and transparency. It may seem strange at first to talk in the open in channels, but you will eventually get used to it. You never know who on the team may know the answer and can help you out!
 
-For us, it's more or less how we're hoping to communication in between study groups. So whether you are working on an open source project with a few other women at the meetup or just want to ask questions about a language - we think this will really help!
+## Women Who Code DC + Slack
 
-We're still growing, so you'll notice that at the moment we only have groups set up for #front-end-hack-night, #general, #jobs, and #one-month-rails. As we get started, we're trying to keep it small and only sending out invites to people that show up to our study groups. We're still deciding how we'll scale - but one hope is that everyone who would want to communicate throughout the week will be attending a study group, so they'll get a chance there. But we'll see how it goes!
+Women Who Code DC uses Slack to communicate in between Women Who Code DC events and study group sessions. Use Slack to ask other WWCDC members technical questions, get advice on career issues, share learning resources, and broadcast events. 
 
-### How do you handle all of the notifications? 
-This is certainly the trickest part about Slack and what takes the most time to get used to! (hence calling it out first) Slack is way more like a chat room than email - so you don't want to feel like you need to read every message that is sent to the group. And if you get a notification for every message sent to your phone - you'll quickly go crazy!
+Most of the messages and content you post in our Slack channels should relate to our mission of teaching and encouraging women and non-binary people to code. Popular topics include women in technology, learning how to code, technology career advice, and the DC Tech scene. If you are unsure about whether or not you should post something in Slack, feel free to reach out to any of the Women Who Code DC leads!
 
-Here is the page for notifications - [https://womenwhocodedc.slack.com/account/notifications](https://womenwhocodedc.slack.com/account/notifications)  
-Check out where you want notifications. As an example - I get all notifications when I'm on my personal computer, but then only direct messages, mentions, or #front-end-hack-night notifications on my phone. Definitely switch around your phone settings so that you don't get too much too quickly!
+Spam, harassment, and messages and content that violate our code of conduct are not tolerated in the WWCDC Slack. Individuals who violate our code of conduct will have their Slack accounts disabled. 
 
----
+## Slack Usage Guidelines
 
-### Other Questions
-(have to figure out how we want to organize all of these)
+- Avoid using @channel and instead use @here, especially in large channels such as #_general and #_announcements.
+- Mention other members by using @ and their username. Mentioning is good as the member may not have seen your message or follow up reply otherwise! Be careful not to ping someone too often though - they may get annoyed with a large number of notifications.
+- Be careful with use of emojis that could cause headaches or seizures for some of our members.
+- Do not ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
 
-**Will we have channels for specific projects that are going on inside a study group?**  
-Front End Hack Night will probably help determine how we handle that sort of communication
+## Channels Guide
 
-**Can I start my own channel?**  
-For now, speak to Nupur Kapoor or Kaylyn Gibilterra if you want to start a group. We just want to monitor a bit of how it'll be used as we get started to (hopefully) minimize entry level confusion...but we'll have to see how the group grows organically!
+Broad, general-interest channels all start with a leading underscore (`_`). Special interest channels for specific languages or platforms don't start with a leading underscore.
 
-**What happened to private channels?**  
-Right now we have them only set for admins to create because we're using the private channels for study group organization (aka a lot of "who is hosting X meetup" discussions haha). Depending on how the group grows we may or may not open up private groups for everyone!
+- #_general - general discussion for all WWCDC members here! All people on Slack are a member of this channel
+- #_announcements - important announcements for all WWCDC members
+- #_jobs - share and post job openings or talk about the job search process
+- #_interviewing - share advice on interviewing
+- #_non-wwc-events - share non-WWCDC events with other members
+- #_entrepreneurship
+- #_mentorship
+- #_lbtq - LGTBQ in tech channel
+- #_woc-in-tech - Women of Color in tech channel
+- #_parents
 
-**How do I mention someone or a channel?**  
-To mention someone type @ and their name will come up as you spell it out.  
-For groups, use the # to send the notification to everyone - so #general, will send a message to everyone in theg roup. Try to use this sparingly though because that could get annoying very quickly!
+Incomplete list of special-interest channels:
+- #algorithms
+- #ama - special Ask Me Anything (AMA) events with local entrepreneurs and start up founders
+- #c-sharp_dot_net
+- #conferences
+- #cyber-security
+- #databases
+- #devops
+- #front-end
+- #git
+- #golang
+- #hardware
+- #ios
+- #java-android
+- #javascript
+- #open-source
+- #python
+- #unix
 
-**What if I have an idea for a new study group/event?**  
-Talk to Kaylyn Gibilterra or Nupur Kapoor! Bringing it up in #general to see if others have interest is also useful. There is quite a possibility that we've been thinking about starting the event soon (most languages are on our backlog haha) but the more interest we hear for specific languages/topics the faster we'll work on the hosting situation so that we can have an event as a group!
+*Have an idea for a new channel?* Reach out to a member of the Women Who Code DC leadership team and propose it in #_general.
 
-**What about an idea for an existing group?**  
-Well for starters, bringing it up in your groups channel is probably the best bet! But then we should have the lead for each event listed in the associated channel, so feel free to reach out to them if you have any questions there too!
-
----
-
-### What other questions do you have?
-If you have a question that isn't discussed here (likely) - feel free to make a pull request to add the answer if you have it, or just ask it on Slack and we'll continue adding to the document here. Hopefully over the next few months we'll have something helpful for everyone when they join!
-
-
-
-
+## Managing Notifications
+- Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting
+- You can set ping notifications for direct messages, mentions, or all messages for certain channels
+- You can subscribe to have certain words highlighted - i.e. send me a Slack notification whenever someone says "Ruby on Rails" or "Wordpress"
+- You can configure different notification settings for your laptop vs your phone
