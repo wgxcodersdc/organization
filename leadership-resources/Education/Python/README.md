@@ -75,8 +75,7 @@ If needed put someone at the entrance to let people in
 
 
 ### Roster
-- [Anissa Jones]()
-- [Clara Bennett]()
-- [Jennifer Stark]()
-- [Jamie Johnson]()
-- [Mariella Paulino]() 
+- [Violet]()
+- [Tammy]()
+- [Maya]()
+- [Niki]()

@@ -10,6 +10,6 @@ Next steps in getting involed are:
 - Read through our [Leadership Roles and Responsibilities]() to get an idea of what you're thinking of signing up for.
 
 ##### Probably:
-- Contact our Director of [Education]() or [Networking]() and say hi
+- Contact our Director of [Education](kdmcclin@gmail.com) or [Networking]() and say hi
 - Tweet at us @WomenWhoCodeDC
-- Ask in on Slack (womenwhocodedc.slack.com) for access to the Leadership Channels that you're interested in.
+- Ask in our Slack (womenwhocodedc.slack.com) for access to the Leadership Channels that you're interested in. If you're not in our Slack, [sign up](bit.ly/wwcdcslack)

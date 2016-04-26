@@ -17,5 +17,5 @@ There is a Women Who Code national organization github - so generic resources li
 #### DC Network
 
 * [WWC DC Slack Guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md)
-* [WWC DC New Events Guide](https://github.com/womenwhocodedc/organization/blob/master/new_events.md)
-
+* [WWC DC Language Lab Guide](https://github.com/womenwhocodedc/organization/blob/master/language_lab_guide.md)
+* [WWC DC Event Ideas](https://github.com/womenwhocodedc/organization/blob/master/event_ideas.md)
