@@ -1,6 +1,6 @@
 ### Git Guide for Updating WWC DC Resources
 
-In it's current state, this guide assumes that you have experience using Git and making changes to files / pushing to one of your own repos. In future versions we'll add ways to learn these skils, but for now - check out [Try Git](https://try.github.io).
+In its current state, this guide assumes that you have experience using Git and making changes to files / pushing to one of your own repos. In future versions we'll add ways to learn these skils, but for now - check out [Try Git](https://try.github.io).
 
 So if you are good with making changes to your own repo - how do you go about making changes to *this* repo?
 
@@ -17,7 +17,7 @@ So if you are good with making changes to your own repo - how do you go about ma
 	* Once you have made the changes, you will use `git add` and `git commit` as usual until `git status` shows the changes that you want to add.
 	* Finally you will type in `git push -u origin master`. This will move your changes up to your personal repo, which you can then go to GitHub to view.
 * Initiating a Pull Request
-	* GitHub's documentation is pretty terrible for this. All you have to do is navigate to your repo that has the changes in it, select the "Pull Request" button and you can add the name/	comments about your changes there.
+	* GitHub's documentation is pretty terrible for this. All you have to do is navigate to your repo that has the changes in it, select the "Pull Request" button and you can add the name/comments about your changes there.
 
 ### EXAMPLE
 

@@ -4,14 +4,12 @@ We have compiled a list of the most popular events that we have heard about and 
 
 If you are interested in helping or have an idea for something new that you think we should add, shoot an email to <WWCodeDC@gmail.com>!
 
-### Study Groups
+### Language Labs
 
-* Algorithms & Interview Prep
-	* Practice various types of algorithms and interview each other
-* Python
-	* Learn python as it relates to web development and/or big data
 * iOS
 	* Learn Objective-C, and Swift as it applies to mobile development
+* Java
+	* We have a joint Java/Android group, but perhaps a distinct Java group that's not Android focused?
 
 ### Sessions
 
@@ -26,7 +24,7 @@ What dev ops wish developers knew / intro training for current programmers
 * Using "X" API
 	* Session walking through a certain API or data set
 * Intro to Programming
-	* Basics of programming for people that our new
+	* Basics of programming for people that are new
 
 
 
