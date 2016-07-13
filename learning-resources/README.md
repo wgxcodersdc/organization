@@ -7,8 +7,8 @@ Both our branch of Women Who Code and the larger organization have a number of l
 
 ## DC Network
 ### Language Community Specific Repos
-- [Algorithms](https://github.com/womenwhocodedc/algorithms-community)
-- [Android](https://github.com/womenwhocodedc/android-community)
-- [Front End](https://github.com/womenwhocodedc/front-end-community)
-- [Python](https://github.com/womenwhocodedc/python-community)
-- [Ruby](https://github.com/womenwhocodedc/ruby-on-rails-community)
+- [Algorithms](https://github.com/womenwhocodedc/algorithms-community/blob/master/algorithms_study_resources.md)
+- [Android](https://github.com/womenwhocodedc/android-community/blob/master/getting_started_android.md)
+- [Front End](https://github.com/womenwhocodedc/front-end-community/tree/master/study-guides)
+- [Python](https://github.com/womenwhocodedc/python-community/blob/master/python_study_resources.md)
+- [Ruby](https://github.com/womenwhocodedc/ruby-on-rails-community/blob/master/rails_guide.md#tools)
