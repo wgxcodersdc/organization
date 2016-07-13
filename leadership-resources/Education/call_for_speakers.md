@@ -9,4 +9,4 @@
 1. Test Driven Development
 
 
-#### Non techical talks are also encouraged and invited!
+#### Non technical talks are also encouraged and invited!
