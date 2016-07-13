@@ -15,6 +15,8 @@
 - Front End:
   - [Isa]()
   - [Emilia]()
+  - [Marian]()
+  - [Nyasha]()
 - Android:
   - [Ijeoma]()
   - [Radha]()
