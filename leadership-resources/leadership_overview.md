@@ -1,6 +1,6 @@
 # Leadership Overview
 
-Table of Contents
+**Table of Contents**
 
 1. [Leadership Expectations]()
 1. [Becoming a Lead](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/becoming_a_leader.md)
