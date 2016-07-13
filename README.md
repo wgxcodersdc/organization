@@ -16,13 +16,6 @@ There is a Women Who Code national organization github - so generic resources li
 
 #### DC Network
 
-### Team Specific Repos
-- [Algorithms](https://github.com/womenwhocodedc/algorithms-community)
-- [Android](https://github.com/womenwhocodedc/android-community)
-- [Front End](https://github.com/womenwhocodedc/front-end-community)
-- [Python](https://github.com/womenwhocodedc/python-community)
-- [Ruby](https://github.com/womenwhocodedc/ruby-on-rails-community)
-
 * [WWC DC Slack Guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md)
 * [WWC DC Language Lab Guide](https://github.com/womenwhocodedc/organization/blob/master/language_lab_guide.md)
 * [WWC DC Event Ideas](https://github.com/womenwhocodedc/organization/blob/master/event_ideas.md)
