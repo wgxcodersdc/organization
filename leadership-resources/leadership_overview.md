@@ -3,6 +3,7 @@
 Table of Contents
 
 1. [Leadership Expectations]()
+1. [Becoming a Lead](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/becoming_a_leader.md)
 1. [Team Rosters](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md)
 
 ## Leadership Expectations
@@ -14,6 +15,6 @@ We expect leads on every team to attend at least 2 public Women Who Code DC Meet
 
 Our leadership team is filled with productive and powerful people. It's to be expected that some of us will get bogged down with our paid work, other things in life, etc. so please let your teammates know when you need to step back from your responsibilities for a while so we can plan and adjust. 
 
-We start our relationship with leads by holding an introductory of Evaluation Period. **The Evaluation Period is designed for the new lead to evaluate the position and team and decide of they want to pursue a leadership role.** During this time, whoever recruited the new lead will guide her through the expectations of being a lead.
+We start our relationship with leads by holding an introductory evaluation period. **The evaluation period is designed for the new lead to evaluate the position and team and decide if they want to pursue a leadership role.** During this time, whoever recruited the new lead will guide her through the expectations of being a lead.
 
 Directors: We have a separate page for [Directors Roles & Responsibilities], but the expectations above apply for Directors, Managers, and Leads alike. 
