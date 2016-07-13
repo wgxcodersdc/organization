@@ -56,7 +56,12 @@ The technology team is focused on the technical and backend aspects of the Women
 
 ### Roles
 - Director: [Pam]()
-- www.womenwhocode.com development: 
+- www.womenwhocodedc.com development: 
+  - [Pam]()
+  - [Eve]()
+  - [Julia]()
+  - [Alex]()
+- www.womenwhocode.com/resources development: 
   - [Pam]()
 - www.dcfemtech.github.io development:
   - [Contact us here to get involved!](WWCodeDC@gmail.com)
