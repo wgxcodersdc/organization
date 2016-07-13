@@ -63,5 +63,6 @@ The technology team is focused on the technical and backend aspects of the Women
   - [Alex]()
 - www.womenwhocode.com/resources development: 
   - [Pam]()
-- www.dcfemtech.github.io development:
-  - [Contact us here to get involved!](WWCodeDC@gmail.com)
+- slack projects development:
+  - [Pam]()
+- [Contact us here to get involved!](mailto:WWCodeDC@gmail.com)
