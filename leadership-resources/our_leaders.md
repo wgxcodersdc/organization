@@ -49,11 +49,15 @@ The network team is responsible for maintaining and promoting the Women Who Code
 - Brand & PR Lead:
   - OPEN
 - Professional Development Lead:
-  - OPEN
+  - [Ksenia Coulter] (https://twitter.com/kscoult)
+  - [Valerie Woolard] (https://twitter.com/valeriecodes)
 - Mentoring Lead:
-  - [Natassja]()
+  - [Natassja Linzau](https://twitter.com/DCWebmaven)
+  - [Lindsey Dragun] (https://twitter.com/lmdragun)
+  - [Marian Lumba] (https://twitter.com/mmlumba)
 - Entrepreneurial Events Lead:
-  - [Evan]()
+  - [Evan Taylor]()
+  - [Rachel Cheuk] ()
 
 ## Technology Team
 The technology team is focused on the technical and backend aspects of the Women Who Code DC organization. Members of this team research or develop apps or technologies that can make our meetings run more smoothly or our members more marketable. The technology team is also at the forefront of recruiting and streamlining any technical talks.
