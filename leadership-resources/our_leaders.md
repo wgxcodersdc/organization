@@ -7,6 +7,7 @@
 - Network Director: [Lauren Jacobson] (https://twitter.com/Lauren_CJay)
 - Technology Director: [Pam Vong] (https://twitter.com/pamtaro)
 
+## Jump to a team
 1. [Education](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#education-team)
 1. [Network](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#network-team)
 1. [Technology](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#technology-team)
