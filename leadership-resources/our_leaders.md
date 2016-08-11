@@ -48,14 +48,14 @@ The network team is responsible for maintaining and promoting the Women Who Code
 - Director: [Lauren](https://twitter.com/Lauren_CJay)
 - Brand & PR Lead:
   - OPEN
-- Professional Development Lead:
+- Professional Development Leads:
   - [Ksenia Coulter] (https://twitter.com/kscoult)
   - [Valerie Woolard] (https://twitter.com/valeriecodes)
-- Mentoring Lead:
+- Mentoring Leads:
   - [Natassja Linzau](https://twitter.com/DCWebmaven)
   - [Lindsey Dragun] (https://twitter.com/lmdragun)
   - [Marian Lumba] (https://twitter.com/mmlumba)
-- Entrepreneurial Events Lead:
+- Entrepreneurial Events Leads:
   - [Evan Taylor]()
   - [Rachel Cheuk] ()
 
