@@ -1,11 +1,11 @@
 # Leadership Team Rosters
 
 ##Directors
-Partnerships Director : [Su Kim] (https://twitter.com/sukim)
-Operations Director : [Alex Ulsh] (https://twitter.com/AlexUlsh)
-Education Director : [Katherine McClintic] (https://twitter.com/scarletalphabet)
-Network Director: [Lauren Jacobson] (https://twitter.com/Lauren_CJay)
-Technology Director: [Pam Vong] (https://twitter.com/pamtaro)
+- Partnerships Director : [Su Kim] (https://twitter.com/sukim)
+- Operations Director : [Alex Ulsh] (https://twitter.com/AlexUlsh)
+- Education Director : [Katherine McClintic] (https://twitter.com/scarletalphabet)
+- Network Director: [Lauren Jacobson] (https://twitter.com/Lauren_CJay)
+- Technology Director: [Pam Vong] (https://twitter.com/pamtaro)
 
 1. [Education](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#education-team)
 1. [Network](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#network-team)
@@ -46,7 +46,7 @@ The network team is responsible for maintaining and promoting the Women Who Code
 ### Roles
 - Director: [Lauren](https://twitter.com/Lauren_CJay)
 - Brand & PR Lead:
-  - OPEN 
+  - OPEN
 - Professional Development Lead:
   - OPEN
 - Mentoring Lead:
