@@ -1,8 +1,8 @@
 
 ### Intro to Coding
 
-* [Coding Intro](http://codingintro.com/) - An introduction to programming in a couple of hours. A great place to start and see what all of the coding fuss is about! It is split up into a couple of chapters with coding exercises for you to complete on your own. 
-* [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) - One of the absolute best "learning to code" articles of all time. 
+* [Coding Intro](http://codingintro.com/) - An introduction to programming in a couple of hours. A great place to start and see what all of the coding fuss is about! It is split up into a couple of chapters with coding exercises for you to complete on your own.
+* [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard) - One of the absolute best "learning to code" articles of all time.
 
 ### Full Stack
 
@@ -34,3 +34,4 @@ View [her slides](https://speakerdeck.com/courte/level-up-with-oss) on the topic
 *  [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
 *  [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) **Note:** Unix-based tutorial.  Windows users would have to install a virtual machine for the same environment.
 *  [A Command Line Crash Course](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
+* [18F article series: How to use the command line and git](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
