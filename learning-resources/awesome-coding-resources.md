@@ -28,3 +28,9 @@ Places to find projects:
 *  git pull & rebase (as you continue to work on it)
 
 View [her slides](https://speakerdeck.com/courte/level-up-with-oss) on the topic from RailsConf 2015, or [watch the talk](https://www.youtube.com/watch?v=QJpkRZn2p9k).
+
+### Terminal/Command Line Resources
+*  [Learn to Code the Hard Way](https://learncodethehardway.org/unix/) **Note:** new version currently in the works, sign up for beta available
+*  [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
+*  [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) **Note:** Unix-based tutorial.  Windows users would have to install a virtual machine for the same environment.
+*  [A Command Line Crash Course](https://www.vikingcodeschool.com/web-development-basics/a-command-line-crash-course)
