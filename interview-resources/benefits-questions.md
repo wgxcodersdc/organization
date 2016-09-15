@@ -5,4 +5,4 @@ These are questions that might help you get a clearer understanding of the benef
 *  What are the maternity, paternity, or family leave-related benefits?
   *  Even if you don't have kids at the moment or don't want to have kids, this can give you great insight as to how much the company values the wellbeing of individual employees.
 *  Do I have a conference budget to attend conferences?  Is it different if I'm speaking at that conference?
-  *  Also an [education question]()
+  *  Also an [education question](education-questions.md)

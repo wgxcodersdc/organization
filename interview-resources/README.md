@@ -6,9 +6,9 @@ This repository will attempt to collate some of the resources of questions that 
   *  
 
 ##To Ask the Interviewer(s)
-  *  [Benefits Questions]()
-  *  [Education Questions]()
-  *  [Work Habits Questions]()
-  *  [Diversity Questions]()
-  *  [Business Questions]()
-  *  [Tech Questions]()
+  *  [Benefits Questions](benefits-questions.md)
+  *  [Education Questions](education-questions.md)
+  *  [Work Habits Questions](work-habits-questions.md)
+  *  [Diversity Questions](diversity-questions.md)
+  *  [Business Questions](business-questions.md)
+  *  [Tech Questions](tech-questions.md)
