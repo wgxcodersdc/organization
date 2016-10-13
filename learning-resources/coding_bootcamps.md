@@ -1,4 +1,4 @@
-## Programming Bootcamps
+## Coding Bootcamps
 
 #### Dev Bootcamp
 * campuses in San Francisco, Chicago, New York City, Seattle, Austin, San Diego
