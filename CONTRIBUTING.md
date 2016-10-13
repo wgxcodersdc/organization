@@ -8,7 +8,7 @@ _note:_ If you have write permissions to this repo, no need to fork to your own 
   1.  On your local version of this repository, make a branch that's named something relevant to what you are doing (ex: `add-contributing-doc`).
   2.  Add and/or change files as needed. As most of these are going to be markdown (`.md`) files, there are some helpful resources about markdown syntax [here](https://daringfireball.net/projects/markdown/syntax), [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and [here](https://guides.github.com/features/mastering-markdown/).
   3.  Commit your changes with a meaningful message that relates to what you did or what the code will do (ex: `"Add contributing documentation"` or `"Add links to my presentation"`)
-  4.  Push your branch up to this repository
+  4.  Push your branch up to your fork of this repository (if you don't have write access)
   5.  Open up a pull request and tag one of the [directors](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#directors) to review it.
   6.  They can merge your pull request into `master` and then delete the branch
   
