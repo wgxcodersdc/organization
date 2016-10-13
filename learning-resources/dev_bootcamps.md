@@ -1,7 +1,7 @@
-## Dev Bootcamps
+## Programming Bootcamps
 
 #### Dev Bootcamp
-* campuses in San Francisco, Chicago, New York City, Seattle, Austin, San Diego, DC
+* campuses in San Francisco, Chicago, New York City, Seattle, Austin, San Diego
 	*[location info](http://devbootcamp.com/locations/)
 * full-stack Ruby/Rails at all locations (many developers get jobs in other languages and frameworks)
 * female alumni you can contact with questions: [Katherine McClintic](kdmcclin@gmail.com)
