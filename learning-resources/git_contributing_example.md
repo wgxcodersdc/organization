@@ -1,6 +1,6 @@
-### Git Guide for Updating WWC DC Resources
+### Git Example With Updating WWC DC Resources
 
-In its current state, this guide assumes that you have experience using Git and making changes to files / pushing to one of your own repos. In future versions we'll add ways to learn these skils, but for now - check out [Try Git](https://try.github.io).
+In its current state, this guide assumes that you have experience using git and making changes to files / pushing to one of your own repos. 
 
 So if you are good with making changes to your own repo - how do you go about making changes to *this* repo?
 
