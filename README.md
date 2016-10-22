@@ -22,9 +22,8 @@ Welcome to Women Who Code DC's GitHub!  We have several folders for us to list r
 * [Twitter](https://twitter.com/@WomenWhoCodeDC)
 * [Medium](medium.com/@WomenWhoCodeDC)
 
-There is a Women Who Code national organization GitHub as well with resources like coding tutorials, guides, and press information.
-
 ## Global Resources
+There is also a Women Who Code main organization GitHub with resources like coding tutorials, guides, and press information.
 
 * [Women Who Code site](https://www.womenwhocode.com/)  
 * [WWC github page](https://github.com/WomenWhoCode)  
