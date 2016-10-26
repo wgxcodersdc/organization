@@ -9,6 +9,8 @@ This repository will attempt to collate some of the resources of questions that 
     *  This repo has received contributions from over 100 developers and has translations in 27 different languages at present.  
   *  [Android/Java Interview Questions](https://github.com/derekargueta/Android-Interview-Questions)
     *  This has more of a focus on Android-specific questions, but also has more general Java ones.
+  *  [Full Stack Developer Interview Questions](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
+    *  These are all questions for full stack developers, with specific sections on several programming languages and different parts of the stack.
 
 ##To Ask the Interviewer(s)
   *  [Benefits Questions](benefits-questions.md)
