@@ -39,33 +39,32 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 
 ### Day-of Meetup Agenda
 #### Before (15 Minutes before listed meetup time)
-Make sure you have saved the host’s phone number
-At the front door: post signs (“Yes! Women Who Code is here!”) 15 minutes before start-time. 
-Include your phone number or otherwise make sure people can get in.
- directions to the room / room number
-In the meetup room write: 
-wifi password in unambiguous characters, 	
-link to slack (bit.ly/join-slack-dc-wwc)
-WWC Twitter handle (@WomenWhoCodeDC)
+* Make sure you have saved the host’s phone number
+* At the front door: post signs (“Yes! Women Who Code is here!”) 15 minutes before start-time. 
+* Include your phone number or otherwise make sure people can get in, as well as directions to the room / room number
+* In the meetup room write: 
+ * wifi password in unambiguous characters, 	
+ * link to slack (bit.ly/join-slack-dc-wwc)
+ * WWC Twitter handle (@WomenWhoCodeDC)
+
 #### During (6:30-8:00pm)
-Introduction (No shit, before 7PM!) :
-Intro to WWC + the specific meetup. Say the Mission Statement.
-Mention wifi, WWC slack, twitter, meetup format, active projects
-Ideally people will communicate on Twitter and Slack during the meetup
-Go around the room and everyone introduce themselves, and what they’re working on
-Keep attendance 
-WWC Applaud Her form
-Ask people to demo what they make at future meetups
-Maybe split the room by groups with similar interests?
-Name, why you are here, what you want to learn, experience, where you work, fun fact
+* Introduction (No shit, before 7PM!) :
+ * Intro to WWC + the specific meetup. Say the Mission Statement.
+ * Mention wifi, WWC slack, twitter, meetup format, active projects
+ * Ideally people will communicate on Twitter and Slack during the meetup
+ * Go around the room and everyone introduce themselves, and what they’re working on
+ * Name, why you are here, what you want to learn, experience, where you work, fun fact
+ * Keep attendance
+ * Ask people to demo what they make at future meetups
+
 #### Demo / Tech Talk Time! 8:00-8:30pm
-Try to schedule a demo / project share for 8pm.
-At the least: everyone says their name and what they accomplished that day. 
-Everyone accomplished something.
-Reminder: Make sure they aren’t forgetting things!
+* Try to schedule a demo / project share for 8pm.
+* At the least: everyone says their name and what they accomplished that day. (Everyone accomplished something.)
+* Reminder: Make sure they aren’t forgetting things!
+
 #### Afterwards
-Follow up every week with at least one member that came on Slack. Ask them about their projects and if they might be interested in speaking at an event in the future! Talking to them will have a HUGE effect on them coming back.
-Also keep a note of the absolute best projects that you see - if we have a Lightning Talks meetup at some point, those are the people we would want to have speak!
+* Follow up every week with at least one member that came on Slack. Ask them about their projects and if they might be interested in speaking at an event in the future! Talking to them will have a HUGE effect on them coming back.
+* Also keep a note of the absolute best projects that you see - if we have a Lightning Talks meetup at some point, those are the people we would want to have speak!
 
 
 If needed put someone at the entrance to let people in
