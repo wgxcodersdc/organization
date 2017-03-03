@@ -7,7 +7,7 @@ In either case, you're probably a good fit for the job!
 
 Next steps in getting involved are:
 ##### Definitely:
-- Read through our [Leadership Roles and Responsibilities]() to get an idea of what you're thinking of signing up for.
+- Read through our [Leadership Roles and Responsibilities](), and particularly the [Leadership Expectations](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/leadership_overview.md#leadership-expectations) section to get an idea of what you're thinking of signing up for.
 - If you're interested in leading a specific language group (including algorithms), attend a few meetups to get a feel for how they work
   - Introduce yourself to the current leads. Even if it seems like there are enough leads, they'll still be interested in hearing from you. While it may be possible in the future, we have yet to have too many leads for a group.
 - If you're not in our Slack, [sign up](bit.ly/wwcdcslack)
