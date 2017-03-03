@@ -10,18 +10,18 @@
 1. [Lead Expectations]()
 
 ### Responsibilities
-- Education Team Leads are expected to attend regular meetups at least **twice** a month. 
+- Education Team Leads are expected to attend regular meetups at least **twice** a month, unless your group meets only twice a month.
 - Post Meetup Community Building
   - **the leads who attended the Meetup should each reach out to _two_ newer attendees to follow up about something**
   - **leads who didn't attend the Meetup should monitor Slack to welcome new members in the channel by `@name`**
 - Post Meetup Logistics (a combination of:)
   - weekly call to go over the previous week and what is next
-  - talk before/after the study group weekly for 30 minutes or so
+  - talk before/after the meetup weekly for 30 minutes or so
   - pick a time coordinate on Slack (#python_leads) together
   - updating github with resources & links posted in relevant channels
-- On slack you should be cultivating conversation in the [#python]() channel and welcoming newcomers to [#_General]() and [#_Python]()
-All leads will be given the ability to make Meetup.com events. These should be made **at least** two weeks in advance.
-- If you need help making an event, speak to your Team Mentor. If you don't have one or know who they are, talk to the [Education Team Manager]()
+- On slack you should be cultivating conversation in the [#python]() channel and welcoming newcomers to [#general]() and [#python]()
+All committed leads will be given the ability to make Meetup.com events. These should be made **at least** two weeks in advance.
+- If you need help making an event, speak to one of the other leads or ask in [#all-leads]() on Slack.
 
 ### Our General Goals as a Tech Meetup
 One of our [goals as an organization]() is to increase the visibility of women in the tech scene in the region. One of the ways we work to accomplish this is to provide the platform for our women to speak! 
@@ -76,6 +76,5 @@ If needed put someone at the entrance to let people in
 
 ### Roster
 - [Violet]()
-- [Tammy]()
 - [Maya]()
 - [Niki]()
