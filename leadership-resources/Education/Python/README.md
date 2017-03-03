@@ -67,12 +67,6 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 * Also keep a note of the absolute best projects that you see - if we have a Lightning Talks meetup at some point, those are the people we would want to have speak!
 
 
-If needed put someone at the entrance to let people in
-- Brag about your members by contributing blog posts and Applaud Hers
-- Take attendance! We are looking into the best way to have people sign in 
-- Study Group Meeting Guide - The Day Of
-
-
 ### Roster
 - [Violet]()
 - [Maya]()
