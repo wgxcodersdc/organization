@@ -18,20 +18,18 @@
 ### Roles
 - Director: [Katherine McClintic](http://www.katherine.tech/)
 - Algorithm Team:
-  - [Amy Ghate]()
-  - [Valerie Woolard]()
-  - [Kajari Ghosh]()
+  - [Valerie]()
+  - [Kajari]()
+  - [Meggie]()
 - Front End:
   - [Isa]()
-  - [Emilia]()
   - [Marian]()
   - [Nyasha]()
+  - [Lindsey]()
 - Android:
   - [Ijeoma]()
-  - [Radha]()
   - [Lyndsey]()
-- Python:
-  - [Tammy]()
+- Python
   - [Violet]()
   - [Niki]()
   - [Maya]()
