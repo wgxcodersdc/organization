@@ -2,7 +2,7 @@
 
 **Table of Contents**
 
-1. [Leadership Expectations]()
+1. [Leadership Expectations](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/leadership_overview.md#leadership-expectations)
 1. [Becoming a Lead](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/becoming_a_leader.md)
 1. [Team Rosters](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md)
 
