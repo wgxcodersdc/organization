@@ -13,5 +13,5 @@ Next steps in getting involved are:
 - If you're not in our Slack, [sign up](bit.ly/wwcdcslack)
 
 ##### Probably:
-- Contact our Director of [Education](kdmcclin@gmail.com) or [Networking](lcj1188@gmail.com) and say hi if you're not sure what you want to be involved with
+- Contact our Director of [Education](mailto: kdmcclin@gmail.com) or [Networking](mailto: lcj1188@gmail.com) and say hi if you're not sure what you want to be involved with
   - _tip:_ If you want to be a language group lead but you don't know which group, attend a few of the ones you might be interested to check it out. Language leads know best how their groups work since they're closer to the day to day aspects of organizing them.
