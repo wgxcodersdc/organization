@@ -6,6 +6,7 @@ Welcome to Women Who Code DC's GitHub!  We have several folders for us to list r
 
 ## DC Network Resources
 
+* [Code of Conduct](https://github.com/womenwhocodedc/organization/blob/master/code_of_conduct.md)
 * [WWC DC Slack Guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md)
 * [Interview Resources](interview-resources/README.md) 
 * [Leadership Resources](leadership-resources/README.md)
