@@ -18,10 +18,11 @@ Spam, harassment, and messages and content that violate our code of conduct are 
 
 ## Slack Usage Guidelines
 
-- Avoid using @channel and instead use @here (_sparingly_), especially in large channels such as #_general and #_announcements.
-- Mention other members by using @ and their username. Mentioning is good as the member may not have seen your message or follow up reply otherwise! Be careful not to ping someone too often though - they may get annoyed with a large number of notifications.
+- Avoid using @channel and instead use @here (_sparingly_), especially in large channels such as #_general and #_jobs.
+- Mention other members by using @ and their username. Mentioning is good as the member may not have seen your message or follow up reply otherwise. _Be careful not to ping someone too often though - they may get annoyed with a large number of notifications!_
 - Be careful with use of emojis that could cause headaches or seizures for some of our members.
-- Do not ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
+- Do *not* ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
+- If a lengthy and specific conversation is targetting only 1-2 other participants, _consider_ moving the conversation to a private Direct Message with the other parties.
 
 ## Channels Guide
 
