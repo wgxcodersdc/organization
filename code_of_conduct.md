@@ -25,7 +25,7 @@ _NOTE: Based on the severity of the violation, the execution of the actions in t
 
 ### Making a Report
 
-If you see or experience someone violating this code of conduct and would like support from the leadership, you can contact any member of our leadership in person or electronically. Leads will keep these conversations private and take action only with consent of the affected member. Contact information about all active leads can be found at [THIS NEEDS TO POINT SOMEWHERE]().
+If you see or experience someone violating this code of conduct and would like support from the leadership, you can contact any member of our leadership in person or electronically. Leads will keep these conversations private and take action only with consent of the affected member. You may report this by direct messaging a lead on slack or send an email to _info[at]womenwhocodedc.com_.
 
 Anonymous reporting can also be sent over our slack group. Use the slash command `/report {message}` from any channel and the _{message}_ will be sent anonymously to our leadership team. _NOTE: Because it is anonymous, you will not be able to get a direct response after sending the message. If you would like someone to reply to a situation you've reported, please include your slack handle or email in the message._
 
