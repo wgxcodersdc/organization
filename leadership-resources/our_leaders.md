@@ -1,11 +1,11 @@
 # Leadership Team Rosters
 
 ## Directors
-- Partnerships Director : [Su Kim] (https://twitter.com/sukim)
-- Operations Director : [Alex Ulsh] (https://twitter.com/AlexUlsh)
-- Education Director : [Katherine McClintic] (https://twitter.com/scarletalphabet)
-- Network Director: [Lauren Jacobson] (https://twitter.com/Lauren_CJay)
-- Technology Director: [Pam Vong] (https://twitter.com/pamtaro)
+- Partnerships Director : [Su Kim](https://twitter.com/sukim)
+- Operations Director : [Alex Ulsh](https://twitter.com/AlexUlsh)
+- Education Director : [Katherine McClintic](https://twitter.com/scarletalphabet)
+- Network Director: [Lauren Jacobson](https://twitter.com/Lauren_CJay)
+- Technology Director: [Pam Vong](https://twitter.com/pamtaro)
 
 ## Jump to a team
 1. [Education](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#education-team)
@@ -46,29 +46,31 @@ The network team is responsible for maintaining and promoting the Women Who Code
 - Director: [Lauren](https://twitter.com/Lauren_CJay)
 - Content Lead:
   - OPEN
-- Brunch Lead:
-  - [Kristian Tran](https://twitter.com/ktran13]
 - Mentoring and Professional Development Leads:
   - [Natassja Linzau](https://twitter.com/DCWebmaven)
-  - [Lindsey Dragun] (https://twitter.com/lmdragun)
-  - [Marian Lumba] (https://twitter.com/mmlumba)
-  - [Ksenia Coulter] (https://twitter.com/kscoult)
-  - [Valerie Woolard] (https://twitter.com/valeriecodes)
+  - [Lindsey Dragun](https://twitter.com/lmdragun)
+  - [Marian Lumba](https://twitter.com/mmlumba)
+  - [Ksenia Coulter](https://twitter.com/kscoult)
+  - [Valerie Woolard](https://twitter.com/valeriecodes)
 - Innovation Leads:
   - [Evan Taylor](https://twitter.com/Mz_EvanTaylor)
-  - [Rachel Cheuk] (https://twitter.com/rachel_cheuk)
+  - [Rachel Cheuk](https://twitter.com/rachel_cheuk)
+- Brunch Leads:
+  - [Kristian Tran](https://twitter.com/ktran13)
+  - [Marian Lumba](https://twitter.com/mmlumba)
 
 ## Technology Team
 The technology team is focused on the technical and backend aspects of the Women Who Code DC organization. Members of this team research or develop apps or technologies that can make our community run more smoothly or our members more marketable. The technology team is also at the forefront of recruiting and organizing any technical talks.
 
 ### Roles
 - Director: [Pam](https://twitter.com/pamtaro)
-- Tech Talks
-- www.womenwhocodedc.com development:
-  - [Lindsey Dragun](https://twitter.com/lmdragun)
-  - [Eve]()
-  - [Julia]()
-  - [Alex]()
-- www.womenwhocode.com/resources development
-- slack manager development
+- Leads:
+  - [Julia Poladsky](https://twitter.com/julia_allyce)
+  - [Eve Freeman](https://twitter.com/wefreema)
+  - [Lindsey Dragun](https://twitter.com/lmdragun)
+- Responsibilities:
+  - Tech Talks
+  - staging.womenwhocodedc.com development
+  - www.womenwhocode.com/resources development
+  - slack manager development
 - [Contact us here to get involved!](mailto:info@womenwhocodedc.com)
