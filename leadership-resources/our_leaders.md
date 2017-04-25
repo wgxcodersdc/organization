@@ -1,6 +1,6 @@
 # Leadership Team Rosters
 
-##Directors
+## Directors
 - Partnerships Director : [Su Kim] (https://twitter.com/sukim)
 - Operations Director : [Alex Ulsh] (https://twitter.com/AlexUlsh)
 - Education Director : [Katherine McClintic] (https://twitter.com/scarletalphabet)
@@ -45,7 +45,9 @@ The network team is responsible for maintaining and promoting the Women Who Code
 ### Roles
 - Director: [Lauren](https://twitter.com/Lauren_CJay)
 - Content Lead:
-  - OPEN
+  - OPEN
+- Brunch Lead:
+  - [Kristian Tran](https://twitter.com/ktran13]
 - Mentoring and Professional Development Leads:
   - [Natassja Linzau](https://twitter.com/DCWebmaven)
   - [Lindsey Dragun] (https://twitter.com/lmdragun)
@@ -54,20 +56,19 @@ The network team is responsible for maintaining and promoting the Women Who Code
   - [Valerie Woolard] (https://twitter.com/valeriecodes)
 - Innovation Leads:
   - [Evan Taylor](https://twitter.com/Mz_EvanTaylor)
-  - [Rachel Cheuk] (https://twitter.com/rachel_cheuk)
+  - [Rachel Cheuk] (https://twitter.com/rachel_cheuk)
 
 ## Technology Team
-The technology team is focused on the technical and backend aspects of the Women Who Code DC organization. Members of this team research or develop apps or technologies that can make our meetings run more smoothly or our members more marketable. The technology team is also at the forefront of recruiting and streamlining any technical talks.
+The technology team is focused on the technical and backend aspects of the Women Who Code DC organization. Members of this team research or develop apps or technologies that can make our community run more smoothly or our members more marketable. The technology team is also at the forefront of recruiting and organizing any technical talks.
 
 ### Roles
-- Director: [Pam]()
+- Director: [Pam](https://twitter.com/pamtaro)
+- Tech Talks
 - www.womenwhocodedc.com development:
-  - [Pam]()
-  - [Eve]()
-  - [Julia]()
+  - [Lindsey Dragun](https://twitter.com/lmdragun)
+  - [Eve]()
+  - [Julia]()
   - [Alex]()
-- www.womenwhocode.com/resources development:
-  - [Pam]()
-- slack projects development:
-  - [Pam]()
-- [Contact us here to get involved!](mailto:WWCodeDC@gmail.com)
+- www.womenwhocode.com/resources development
+- slack manager development
+- [Contact us here to get involved!](mailto:info@womenwhocodedc.com)
