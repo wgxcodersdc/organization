@@ -68,9 +68,11 @@ The technology team is focused on the technical and backend aspects of the Women
   - [Julia Poladsky](https://twitter.com/julia_allyce)
   - [Eve Freeman](https://twitter.com/wefreema)
   - [Lindsey Dragun](https://twitter.com/lmdragun)
+  - [Kristian Tran](https://twitter.com/ktran13)
 - Responsibilities:
   - Tech Talks
   - staging.womenwhocodedc.com development
   - www.womenwhocode.com/resources development
   - slack manager development
+  - herbot (hubot implementation for our slack)
 - [Contact us here to get involved!](mailto:info@womenwhocodedc.com)
