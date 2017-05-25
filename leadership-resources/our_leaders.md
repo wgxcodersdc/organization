@@ -38,6 +38,7 @@
   - [Erin]()
   - [Nyasha]()
   - [Mary Katherine]()
+  - [Anissa]()
 
 ## Network Team
 The network team is responsible for maintaining and promoting the Women Who Code image and presence in Washington DC and beyond. It seeks to constantly improve WWC events and provide value for our members
@@ -69,6 +70,7 @@ The technology team is focused on the technical and backend aspects of the Women
   - [Eve Freeman](https://twitter.com/wefreema)
   - [Lindsey Dragun](https://twitter.com/lmdragun)
   - [Kristian Tran](https://twitter.com/ktran13)
+  - [Anissa Jones](https://twitter.com/seasonofanissa)
 - Responsibilities:
   - Tech Talks
   - staging.womenwhocodedc.com development
