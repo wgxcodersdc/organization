@@ -27,7 +27,7 @@ All committed leads will be given the ability to make Meetup.com events. These s
 One of our [goals as an organization]() is to increase the visibility of women in the tech scene in the region. One of the ways we work to accomplish this is to provide the platform for our women to speak! 
 We'd like for all of our leads to be evangelists about
 1. Speaking! Our members and our leads are a wealth of knowledge and are totally capable of conveying it in awesome ways. We can get everyone a stage if they consent to being put on one!
-  - Many of our events should end with a 5 minute talk by one or several of the participants regarding what they learned, taught, or need to learn.
+  1. Many of our events should end with a 5 minute talk by one or several of the participants regarding what they learned, taught, or need to learn.
 1. Writing! Women Who Code (DC?) has been building up an internet presence with Medium.com. We and our members can find some more visibility for ourselves and the organization by writing on Medium or our own websites. 
 1. Git! Git is 1) an awesome way to disperse information and make decisions collaboratively and 2) is the industry standard. Every Ruby on Rails Lead should [be familiar with git]() and help others become familiar frequently
 
