@@ -68,6 +68,8 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 
 
 ### Roster
-- []()
-- []()
-- []()
+- [Zuri]()
+- [Erin]()
+- [Nyasha]()
+- [Mary Katherine]()
+- [Anissa]()
