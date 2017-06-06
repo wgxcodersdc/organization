@@ -17,7 +17,7 @@
 - Post Meetup Logistics (a combination of:)
   - weekly call to go over the previous week and what is next
   - talk before/after the meetup weekly for 30 minutes or so
-  - pick a time coordinate on Slack (#python_leads) together
+  - pick a time coordinate on Slack (#ruby-on-rails_leads) together
   - updating github with resources & links posted in relevant channels
 - On slack you should be cultivating conversation in the [#ruby-on-rails]() channel and welcoming newcomers to [#general]() and [#ruby-on-rails]()
 All committed leads will be given the ability to make Meetup.com events. These should be made **at least** two weeks in advance.
