@@ -1,4 +1,4 @@
-#Benefits Questions
+# Benefits Questions
 
 These are questions that might help you get a clearer understanding of the benefits the company offers.  What kind of benefits they offer, and how important they consider those benefits to be, can help you get insight into the company's culture beyond what suits you at the moment.  Many of these questions are sourced from what our members wished they had asked in their interviews, as described in our #_interviewing channel on Slack.
 
