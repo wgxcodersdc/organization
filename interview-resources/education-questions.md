@@ -1,4 +1,4 @@
-#Education Questions
+# Education Questions
 
 These are questions that will help you discern the company's willingness and ability to get you up to speed on their tech as well as how genuinely willing they are to support your continual learning.
 
