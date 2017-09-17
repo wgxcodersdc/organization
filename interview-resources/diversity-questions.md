@@ -1,4 +1,4 @@
-#Diversity Questions
+# Diversity Questions
 
 These questions will help you discern how much a company genuinely cares for different kinds of diversity in the workplace.
 
