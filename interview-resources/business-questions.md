@@ -1,4 +1,4 @@
-#Business Questions
+# Business Questions
 
 These questions help to uncover the health and direction(s) of the business.
 
