@@ -1,4 +1,4 @@
-#Tech Questions
+# Tech Questions
 
 These questions help you learn about what kind of tech the company uses and why they've made certain technical decisions.
 
