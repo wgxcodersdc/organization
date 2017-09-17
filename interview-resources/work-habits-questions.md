@@ -4,7 +4,7 @@ These questions will help you understand the day to day work environment of the 
 
 *  How much time is spent in meetings vs at the computer doing development?
 *  Do you like your job?
-  *  Probably best asked of the person who works in a similar role as you'd work in, though asking this question during an interview with HR or someone not technical could be telling.
+    *  Probably best asked of the person who works in a similar role as you'd work in, though asking this question during an interview with HR or someone not technical could be telling.
 *  What was the best day you had working here? 
 *  What's the worst day you had here?
 *  What surprised you most about working here?
