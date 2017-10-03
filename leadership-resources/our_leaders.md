@@ -22,7 +22,6 @@
   - [Kajari]()
   - [Meggie]()
 - Front End:
-  - [Isa]()
   - [Marian]()
   - [Nyasha]()
   - [Lindsey]()
@@ -71,6 +70,7 @@ The technology team is focused on the technical and backend aspects of the Women
   - [Lindsey Dragun](https://twitter.com/lmdragun)
   - [Kristian Tran](https://twitter.com/ktran13)
   - [Anissa Jones](https://twitter.com/seasonofanissa)
+  - [Isa](https://twitter.com/iconteh21)
 - Responsibilities:
   - Tech Talks
   - staging.womenwhocodedc.com development
