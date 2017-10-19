@@ -10,6 +10,7 @@ The following are a list of free resources that either our members have found us
 ## Slideshows/Presentations
 *  [Intro to Git and GitHub by Nupur](http://nupurkapoor.github.io/intro-to-git/#/)
 *  [Intro to Git and GitHub by Katherine](http://www.slideshare.net/secret/8po89XfyBBLA7)
+*  [Intro to Git and GitHub by Lauren](https://docs.google.com/presentation/d/1czgrviGmrNXnWE_MqNxLmTlYY-a9vXSNe_48KKZwATs/edit?usp=sharing)
 *  [Intro to Git and GitHub by Girl Develop It!](http://gdila.github.io/gdi-core-git-github/#/)
 
 ## Books
