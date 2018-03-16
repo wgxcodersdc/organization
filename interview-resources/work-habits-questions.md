@@ -11,3 +11,4 @@ These questions will help you understand the day to day work environment of the 
 *  Which project are you most proud of having worked on?
 *  When did the last dev leave and why?
 *  When was the last dev let go and why?
+*  [if remote] How do people communicate across different time zones and with each other?

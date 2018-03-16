@@ -9,3 +9,4 @@ These questions help you learn about what kind of tech the company uses and why 
 *  Does the project use continuous integration?
 *  Do you have a standard template for estimating development effort for new work to make sure nothing is overlooked?
 *  Is there any on-call time as part of the job?
+*  What is your development process?
