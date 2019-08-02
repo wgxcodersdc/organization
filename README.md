@@ -11,12 +11,15 @@ Welcome to Women Who Code DC's GitHub!  We have several folders for us to list r
 * [Interview Resources](interview-resources/README.md) 
 * [Leadership Resources](leadership-resources/README.md)
 * [Learning Resources](learning-resources/README.md)
-* Language Community Repos
+* Community Repos
   * [Front End](https://github.com/womenwhocodedc/front-end-community)
   * [Ruby/Rails](https://github.com/womenwhocodedc/ruby-on-rails-community)
   * [Python](https://github.com/womenwhocodedc/python-community)
   * [Java/Android](https://github.com/womenwhocodedc/android-community)
   * [Algorithms](https://github.com/womenwhocodedc/algorithms-community)
+  * [NoVa](https://github.com/womenwhocodedc/nova-community)
+  * [DevOps](https://github.com/womenwhocodedc/devops)
+  * [Mobile Commmunity](https://github.com/womenwhocodedc/mobile-community)
 
 ## DC Network Social Media
 * [Meetup.com](meetup.com/Women-Who-Code-DC)
