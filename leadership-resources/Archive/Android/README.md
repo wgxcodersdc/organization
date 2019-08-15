@@ -1,4 +1,4 @@
-# Welcome to the Women Who Code DC Front End Education Team Resources
+# Welcome to the Women Who Code DC Java/Android Education Team Resources
 
 ##### Table of Contents
 1. [Team Roster]()
@@ -17,9 +17,9 @@
 - Post Meetup Logistics (a combination of:)
   - weekly call to go over the previous week and what is next
   - talk before/after the meetup weekly for 30 minutes or so
-  - pick a time coordinate on Slack (#front-end_leads) together
+  - pick a time coordinate on Slack (#java-android_leads) together
   - updating github with resources & links posted in relevant channels
-- On slack you should be cultivating conversation in the [#front-end]() and [#javascript]() channels and welcoming newcomers to those channels and [#general]().
+- On slack you should be cultivating conversation in the [#java-android]() channel and welcoming newcomers to [#general]() and [#java-android]()
 All committed leads will be given the ability to make Meetup.com events. These should be made **at least** two weeks in advance.
 - If you need help making an event, speak to one of the other leads or ask in [#all-leads]() on Slack.
 
@@ -27,7 +27,7 @@ All committed leads will be given the ability to make Meetup.com events. These s
 One of our [goals as an organization]() is to increase the visibility of women in the tech scene in the region. One of the ways we work to accomplish this is to provide the platform for our women to speak! 
 We'd like for all of our leads to be evangelists about
 1. Speaking! Our members and our leads are a wealth of knowledge and are totally capable of conveying it in awesome ways. We can get everyone a stage if they consent to being put on one!
-  1. Many of our events should end with a 5 minute talk by one or several of the participants regarding what they learned, taught, or need to learn.
+    -  Many of our events should end with a 5 minute talk by one or several of the participants regarding what they learned, taught, or need to learn.
 1. Writing! Women Who Code (DC?) has been building up an internet presence with Medium.com. We and our members can find some more visibility for ourselves and the organization by writing on Medium or our own websites. 
 1. Git! Git is 1) an awesome way to disperse information and make decisions collaboratively and 2) is the industry standard. Every Ruby on Rails Lead should [be familiar with git]() and help others become familiar frequently
 
@@ -68,3 +68,5 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 
 
 ### Roster
+- [Ijeoma]()
+- [Lyndsey]()
