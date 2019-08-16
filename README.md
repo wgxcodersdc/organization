@@ -18,7 +18,7 @@ Welcome to Women Who Code DC's GitHub!  We have several folders for us to list r
   * [NoVa](https://github.com/womenwhocodedc/nova-community)
   * [DevOps](https://github.com/womenwhocodedc/devops)
   * [Mobile Commmunity](https://github.com/womenwhocodedc/mobile-community)
-* Archived Community Repos
+* [Archived Community Repos](leadership-resources/Archive/README.md)
   - [Ruby/Rails](https://github.com/womenwhocodedc/ruby-on-rails-community)
   - [Java/Android](https://github.com/womenwhocodedc/android-community)
 
