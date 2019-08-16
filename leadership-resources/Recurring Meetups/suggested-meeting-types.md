@@ -1,6 +1,7 @@
-We have an assortment of meetup that can be delivered in most languages bascially Out of the Box. 
+# Suggested Meetup Types
 
-#### Suggested Meetup Types
+We have an assortment of meetup that can be delivered in most languages bascially out of the box. 
+
 1. Beginner's Night (Install Party!)
   - By the end of the night, everyone should have 100% of the tools they need on their computer to be a professional developer
 2. Beginner's Night (Coding basics)
@@ -14,8 +15,7 @@ We have an assortment of meetup that can be delivered in most languages basciall
 6. Happy Hour
 7. "How do you google for language X", "How to read the docs"
   - more than half of software development can be just reading the docs and searching google. It's a skill that we can teach!
-8. Intro to Git for Language X
-  - Our goal is to have a weekly Git tutorial, rotating across our meetups. We want to be Git evangelists
+8. Intro to Git and GitHub/GitLab/etc
 9. Virtual coding sessions/Office Hours
   - Sometimes it's easier if we just meet online and not in person. These can be especially helpful if we have mentors who live in Ashburn or Berlin or something.
 10. Tech talk planning sessions

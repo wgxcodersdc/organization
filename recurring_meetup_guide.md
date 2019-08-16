@@ -1,24 +1,24 @@
-### Language Labs
+# Recurring Meetups
 
-Here is some information around what we look for in recurring language labs. The main pieces that we look for before starting a group are:
+Here is some information around what we look for in recurring meetups. The main pieces that we look for before starting a group are:
 
 * Interest in the topic/space
-* 2 Leads that can dedicate time to going every week (or at least relatively often)
+* 2 Leads that can dedicate time to going every month (or at least relatively often)
 * Hosts for the events
 
-Getting all of these things in place takes some time. So as long as you are interested in the language group and will be for a fair bit of time - reach out to us at <WWCodeDC@gmail.com> about where we stand regarding the group!  
+Getting all of these things in place takes some time. So as long as you are interested in the group and will be for a fair bit of time - reach out to us at <dc@womenwhocode.com> about where we stand regarding the group!  
 
 Recurring language meetups can take many forms. One week might be a tech talk from a member of the group (e.g. a talk on Ruby fundamentals for Ruby on Rails). Another week could be a code along of a tutorial (e.g. following along together as you go through the Android _Building Your First App_ guide). A hack night is more free form where people could work on open source projects or personal development that they want to get done. There are many more ideas listed in our [Suggested Meeting Types](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/Education/suggested-meeting-types.md). This list isn't exhaustive so feel free to suggest topics as well.  
 
-#### Hack Night Ideas
+## Hack Night Ideas
 
 * Language specific or agnostic
 * Free for all to work on whatever projects / tools they desire
-* Leader encourages 5-15 minute demos of projects and technologies at the start
+* Leader encourages 5-15 minute demos of projects and technologies
 * Promote members working together to build an app/website/hack for X
 * Less structured, “mentors” may float around if in attendance
 
-#### Language Lab Ideas
+## Language Lab Ideas
 
 * Should have some sort of plan for the duration of the meetup, or meetups if planned to split over multiple sessions
 	* coursera class
@@ -39,4 +39,4 @@ Recurring language meetups can take many forms. One week might be a tech talk fr
 	* Go through the book [Cracking the Coding Interview (Java)](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 	* Do something awesome like what the NYC chapter did with the [Internet of Things](http://www.meetup.com/WomenWhoCodeNYC/events/199804712/)
 
-Again, reach out to <WWCodeDC@gmail.com> if you are interested in starting a new group!
+Again, reach out to <dc@womenwhocode.com> if you are interested in starting a new group!
