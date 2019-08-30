@@ -24,4 +24,4 @@ Our leadership team is filled with productive and powerful people. It's to be ex
 
 We start our relationship with leads by holding an introductory evaluation period. **The evaluation period is designed for the new lead to evaluate the position and team and decide if they want to pursue a leadership role.** During this time, whoever recruited the new lead will guide them through the expectations of being a lead.
 
-Directors: We have a separate page for [director roles & responsibilities](#), but the expectations above apply for directors, leads, and other roles alike. 
+The expectations above apply for directors, leads, and other roles alike. 
