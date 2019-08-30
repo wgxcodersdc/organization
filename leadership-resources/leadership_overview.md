@@ -3,13 +3,13 @@
 **Table of Contents**
 
 1. [Leadership Expectations](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/leadership_overview.md#leadership-expectations)
-    2. What we expect of leads
+    -  What we expect of leads
 1. [Becoming a Lead](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/becoming_a_leader.md)
-    2. Resource for attendees who might be interested in becoming a lead
+    -  Resource for attendees who might be interested in becoming a lead
 1. [Onboarding](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/onboarding.md)
-    2. The onboarding process for new leads
+    -  The onboarding process for new leads
 1. [Team Rosters](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md)
-    2. Our current list of leads (semi-up to date)
+    -  Our current list of leads (semi-up to date)
 
 
 ## Leadership Expectations
