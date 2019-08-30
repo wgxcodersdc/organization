@@ -40,10 +40,3 @@ Announce on:
   * Email number of RSVPs/names for security
 * Day of the event
   * Post a comment in meetup for everybody about logistics (who/how to contact if you can't get in, any slides you have prepared, etc.)
-* Important Documents
-  * Python
-    * [Python Study Resources](https://github.com/womenwhocodedc/python-community/blob/master/python_study_resources.md)
-    * [First Timer's Guide](https://github.com/womenwhocodedc/python-community/blob/master/first_timers_guide.md)
-    * [Python for Programmers](https://github.com/womenwhocodedc/python-community/blob/master/python_for_programmers.md)
-  * Front End
-  * Add more...
