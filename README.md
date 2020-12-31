@@ -23,9 +23,9 @@ Welcome to Women Who Code DC's GitHub!  We have several folders for us to list r
   - [Java/Android](https://github.com/womenwhocodedc/android-community)
 
 ## DC Network Social Media
-* [Meetup.com](meetup.com/Women-Who-Code-DC)
+* [Meetup.com](https://meetup.com/Women-Who-Code-DC)
 * [Twitter](https://twitter.com/@WomenWhoCodeDC)
-* [Medium](medium.com/@WomenWhoCodeDC)
+* [Medium](https://medium.com/@WomenWhoCodeDC)
 
 ## Global Resources
 There is also a Women Who Code main organization GitHub with resources like coding tutorials, guides, and press information.
