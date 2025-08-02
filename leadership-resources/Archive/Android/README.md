@@ -1,4 +1,4 @@
-# Welcome to the Women Who Code DC Java/Android Education Team Resources
+# Welcome to the Women and Gender eXpansive Coders DC Java/Android Education Team Resources
 
 ##### Table of Contents
 1. [Team Roster]()
@@ -28,7 +28,7 @@ One of our [goals as an organization]() is to increase the visibility of women i
 We'd like for all of our leads to be evangelists about
 1. Speaking! Our members and our leads are a wealth of knowledge and are totally capable of conveying it in awesome ways. We can get everyone a stage if they consent to being put on one!
     -  Many of our events should end with a 5 minute talk by one or several of the participants regarding what they learned, taught, or need to learn.
-1. Writing! Women Who Code (DC?) has been building up an internet presence with Medium.com. We and our members can find some more visibility for ourselves and the organization by writing on Medium or our own websites. 
+1. Writing! Women and Gender eXpansive Coders (DC?) has been building up an internet presence with Medium.com. We and our members can find some more visibility for ourselves and the organization by writing on Medium or our own websites. 
 1. Git! Git is 1) an awesome way to disperse information and make decisions collaboratively and 2) is the industry standard. Every Ruby on Rails Lead should [be familiar with git]() and help others become familiar frequently
 
 Constantly consider diversity. 
@@ -40,17 +40,17 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 ### Day-of Meetup Agenda
 #### Before (15 Minutes before listed meetup time)
 * Make sure you have saved the host’s phone number
-* At the front door: post signs (“Yes! Women Who Code is here!”) 15 minutes before start-time. 
+* At the front door: post signs (“Yes! Women and Gender eXpansive Coders is here!”) 15 minutes before start-time. 
 * Include your phone number or otherwise make sure people can get in, as well as directions to the room / room number
 * In the meetup room write: 
  * wifi password in unambiguous characters, 	
- * link to slack (bit.ly/join-slack-dc-wwc)
- * WWC Twitter handle (@WomenWhoCodeDC)
+ * link to slack (bit.ly/join-slack-dc-WGXC)
+ * WGXC Twitter handle (@wgxcodersdc)
 
 #### During (6:30-8:00pm)
 * Introduction (No shit, before 7PM!) :
- * Intro to WWC + the specific meetup. Say the Mission Statement.
- * Mention wifi, WWC slack, twitter, meetup format, active projects
+ * Intro to WGXC + the specific meetup. Say the Mission Statement.
+ * Mention wifi, WGXC slack, twitter, meetup format, active projects
  * Ideally people will communicate on Twitter and Slack during the meetup
  * Go around the room and everyone introduce themselves, and what they’re working on
  * Name, why you are here, what you want to learn, experience, where you work, fun fact
@@ -65,8 +65,3 @@ DC is uniquely positioned as over 50% of our city is black and 10% of DC identif
 #### Afterwards
 * Follow up every week with at least one member that came on Slack. Ask them about their projects and if they might be interested in speaking at an event in the future! Talking to them will have a HUGE effect on them coming back.
 * Also keep a note of the absolute best projects that you see - if we have a Lightning Talks meetup at some point, those are the people we would want to have speak!
-
-
-### Roster
-- [Ijeoma]()
-- [Lyndsey]()

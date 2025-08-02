@@ -1,40 +1,28 @@
-# Women Who Code DC
+# Women and Gender eXpansive Coders DC
 
->Women Who Code (WWCode) is a global non-profit organization which inspires women to excel in careers in technology. We believe that innovation is driven by diversity and that the tech industry will be even better once women are no longer underrepresented. Women Who Code was founded in 2011 and has since grown to 180,000 members spanning 60 cities around the world. The organization is best known for its technical study groups, hack nights, career development, and speaking events featuring influential technology industry experts and investors. Since inception, WWCode has produced thousands of events worldwide and garnered sponsorship from organizations like KPCB, Paypal, Etsy, Heroku, Yelp, and many others.
+Women and Gender eXpansive Coders DC envisions a community where women and non-binary members feel empowered to express their learnings, share their experiences, and feel safe in bringing their unique visions to events. We seek to foster growth in technical skills, career opportunities, and friendship through virtual and in-person meetings. All people are welcome to attend our events and support our members as they grow in their technology careers.
 
-Welcome to Women Who Code DC's GitHub!  We have several folders for us to list resources, guides, open source projects we are working on, or anything that might be useful for the DC network.
+Welcome to Women and Gender eXpansive Coders DC's GitHub!  We have several folders for us to list resources, guides, open source projects we are working on, or anything that might be useful for the DC network.
 
 ## DC Network Resources
 
-* [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
-* [WWC DC Slack Guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md)
+* [Code of Conduct](TODO)
+* [WGXC DC Slack Guide](slack_guide.md)
 * [Interview Resources](interview-resources/README.md) 
 * [Leadership Resources](leadership-resources/README.md)
 * [Learning Resources](learning-resources/README.md)
 * Community Repos
-  * [Front End](https://github.com/womenwhocodedc/front-end-community)
-  * [Python](https://github.com/womenwhocodedc/python-community)
-  * [Algorithms](https://github.com/womenwhocodedc/algorithms-community)
-  * [NoVa](https://github.com/womenwhocodedc/nova-community)
-  * [DevOps](https://github.com/womenwhocodedc/devops)
-  * [Mobile Commmunity](https://github.com/womenwhocodedc/mobile-community)
+  * [Front End](https://github.com/wgxcodersdc/front-end-community)
+  * [Python](https://github.com/wgxcodersdc/python-community)
+  * [Algorithms](https://github.com/wgxcodersdc/algorithms-community)
+  * [NoVa](https://github.com/wgxcodersdc/nova-community)
+  * [DevOps](https://github.com/wgxcodersdc/devops)
+  * [Mobile Commmunity](https://github.com/wgxcodersdc/mobile-community)
 * [Archived Community Repos](leadership-resources/Archive/README.md)
-  - [Ruby/Rails](https://github.com/womenwhocodedc/ruby-on-rails-community)
-  - [Java/Android](https://github.com/womenwhocodedc/android-community)
+  - [Ruby/Rails](https://github.com/wgxcodersdc/ruby-on-rails-community)
+  - [Java/Android](https://github.com/wgxcodersdc/android-community)
 
 ## DC Network Social Media
-* [Meetup.com](https://meetup.com/Women-Who-Code-DC)
-* [Twitter](https://twitter.com/@WomenWhoCodeDC)
-* [Medium](https://medium.com/@WomenWhoCodeDC)
-
-## Global Resources
-There is also a Women Who Code main organization GitHub with resources like coding tutorials, guides, and press information.
-
-* [Women Who Code site](https://www.womenwhocode.com/)  
-* [WWC github page](https://github.com/WomenWhoCode)  
-* [WWC Guidelines and Resources](https://github.com/WomenWhoCode/guidelines-resources)  
-	* [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
-	* [Programming Resources](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md)
-	* [Who We Are](https://github.com/WomenWhoCode/guidelines-resources/blob/master/who_we_are.md) 
-* [WWC in the News](https://github.com/WomenWhoCode/WWCodeInTheNews)
-* [WWC Logos](https://github.com/WomenWhoCode/WWC-Assets/tree/master/logos)
+* [Meetup.com](https://meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc)
+* [Bluesky](https://bsky.app/profile/wgxcodersdc.bsky.social)
+* [Twitter](twitter.com/WGXCodersDC)

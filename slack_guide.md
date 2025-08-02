@@ -1,4 +1,4 @@
-# Women Who Code DC Slack Guide  
+# Women and Gender eXpansive Coders DC Slack Guide  
 
 ---
 
@@ -8,13 +8,13 @@ Slack is a messaging application used by workplaces and organizations to facilit
 
 Even though Slack has private groups and direct messages, you should try to use channels whenever possible instead to encourage information sharing and transparency. It may seem strange at first to talk in the open in channels, but you will eventually get used to it. You never know who on the team may know the answer and can help you out!
 
-## Women Who Code DC + Slack
+## Women and Gender eXpansive Coders DC + Slack
 
-Women Who Code DC uses Slack to communicate in between Women Who Code DC events and study group sessions. Use Slack to ask other WWCDC members technical questions, get advice on career issues, share learning resources, and broadcast events. 
+Women and Gender eXpansive Coders DC uses Slack to communicate in between events and study group sessions. Use Slack to ask other WGXCDC members technical questions, get advice on career issues, share learning resources, and broadcast events. 
 
-Most of the messages and content you post in our Slack channels should relate to our mission of teaching and encouraging women and non-binary people to code. Popular topics include women in technology, learning how to code, technology career advice, and the DC Tech scene. If you are unsure about whether or not you should post something in Slack, feel free to reach out to any of the Women Who Code DC leads!
+Most of the messages and content you post in our Slack channels should relate to our mission of teaching and encouraging women and non-binary people to code. Popular topics include women in technology, learning how to code, technology career advice, and the DC Tech scene. If you are unsure about whether or not you should post something in Slack, feel free to reach out to any of the Women and Gender eXpansive Coders DC leads!
 
-Spam, harassment, and messages and content that violate our code of conduct are not tolerated in the WWCDC Slack. Individuals who violate our code of conduct will have their Slack accounts disabled. 
+Spam, harassment, and messages and content that violate our code of conduct are not tolerated in the WGXCDC Slack. Individuals who violate our code of conduct will have their Slack accounts disabled. 
 
 ## Slack Usage Guidelines
 
@@ -24,17 +24,17 @@ Spam, harassment, and messages and content that violate our code of conduct are 
 - Do **not** ask the same question in 3-5 different channels. Try to ask the question in 1-2 of the most relevant or important channels.
 - If a lengthy and specific conversation is targetting only 1-2 other participants and has no obvious benefit to the rest of the members in a public channel, _consider_ moving the conversation to a private Direct Message with the other parties.
 - Understand that the participation of other members and leads in our group is _voluntary_ and an immediate response (or any response) should not always be expected.
-- Please read and follow our [Code of Conduct](https://github.com/womenwhocodedc/organization/blob/master/code_of_conduct.md) for additional guidance.
+- Please read and follow our [Code of Conduct](https://github.com/wgxcodersdc/organization/blob/master/code_of_conduct.md) for additional guidance.
 
 ## Channels Guide
 
 Broad, general-interest channels all start with a leading underscore (`_`). Special interest channels for specific languages or platforms don't start with a leading underscore.
 
-- #_general - general discussion for all WWCDC members here! All people on Slack are a member of this channel
-- #_announcements - important announcements for all WWCDC members
+- #_general - general discussion for all WGXCDC members here! All people on Slack are a member of this channel
+- #_announcements - important announcements for all WGXCDC members
 - #_jobs - share and post job openings or talk about the job search process
 - #_interviewing - share advice on interviewing
-- #_non-wwc-events - share non-WWCDC events with other members
+- #_non-WGXC-events - share non-WGXCDC events with other members
 - #_entrepreneurship
 - #_mentorship
 - #_lbtq - LGTBQ in tech channel
@@ -60,7 +60,7 @@ Incomplete list of special-interest channels:
 - #python
 - #unix
 
-*Have an idea for a new channel?* Reach out to a member of the Women Who Code DC leadership team and propose it in #_general.
+*Have an idea for a new channel?* Reach out to a member of the Women and Gender eXpansive Coders DC leadership team and propose it in #_general.
 
 ## Managing Notifications
 - Don't feel like you need to read every single message on every Slack channel - just skim through what you find interesting

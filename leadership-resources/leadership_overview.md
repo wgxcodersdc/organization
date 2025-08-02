@@ -2,23 +2,23 @@
 
 **Table of Contents**
 
-1. [Leadership Expectations](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/leadership_overview.md#leadership-expectations)
+1. [Leadership Expectations](https://github.com/wgxcodersdc/organization/blob/master/leadership-resources/leadership_overview.md#leadership-expectations)
     -  What we expect of leads
-1. [Becoming a Lead](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/becoming_a_leader.md)
+1. [Becoming a Lead](https://github.com/wgxcodersdc/organization/blob/master/leadership-resources/becoming_a_leader.md)
     -  Resource for attendees who might be interested in becoming a lead
-1. [Onboarding](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/onboarding.md)
+1. [Onboarding](https://github.com/wgxcodersdc/organization/blob/master/leadership-resources/onboarding.md)
     -  The onboarding process for new leads
-1. [Team Rosters](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md)
+1. [Team Rosters](https://github.com/wgxcodersdc/organization/blob/master/leadership-resources/our_leaders.md)
     -  Our current list of leads (semi-up to date)
 
 
 ## Leadership Expectations
 
-The most important requirement for our leadership team is that they are active members of the Women Who Code DC Network. It's important for our members to see leads attending meetups and interacting with other members; this opens our most important channel for gaining feedback. 
+The most important requirement for our leadership team is that they are active members of the Women and Gender eXpansive Coders DC Network. It's important for our members to see leads attending meetups and interacting with other members; this opens our most important channel for gaining feedback. 
 
 Being active on Slack is our second priority. Welcoming newcomers, encouraging conversations and providing a nurturing technical community are all enabled through Slack.
 
-We expect leads on every team to attend regular public Women Who Code DC meetups (going to tons of leadership meetings doesn't count!). The purpose is for you to be visible and engaged in the community, you don't have to *lead* the meetup, or even understand/work on the topic at hand. A lot of us find these meetups a good time to put an hour into WWC-related work. 
+We expect leads on every team to attend regular public Women and Gender eXpansive Coders DC meetups (going to tons of leadership meetings doesn't count!). The purpose is for you to be visible and engaged in the community, you don't have to *lead* the meetup, or even understand/work on the topic at hand. A lot of us find these meetups a good time to put an hour into WGXC-related work. 
 
 Our leadership team is filled with productive and powerful people. It's to be expected that some of us will get bogged down with our paid work, other things in life, etc. so please let your teammates know when you need to step back from your responsibilities for a while so we can plan and adjust. 
 
