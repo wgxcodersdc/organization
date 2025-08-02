@@ -1,7 +1,5 @@
 # Code of Conduct
 
-Our overall Code of Conduct for in-person events and online behavior is the same as the global Women Who Code [Code of Conduct](https://www.womenwhocode.com/codeofconduct).
-
 For _Slack_, if a member is reported to have violated our policy or their behavior has created a toxic or hostile environment for the rest of the members in the group, then the following actions are a guideline as to how to handle the situation : 
 1. On first offense, a warning will be issued and a dialogue will ensue with one of the leads and/or a director as to the specific behavior that caused the warning.
 2. On second offense, the member's account will be temporarily suspended for a determined amount of time. The member will be notified about the suspension and the reasons why it was enacted in an email.
@@ -11,7 +9,7 @@ _NOTE: Based on the severity of the violation, the execution of the actions in t
 
 ## Making a Report
 
-If you see or experience someone violating this code of conduct and would like support from the leadership, you can contact any member of our leadership in person or electronically. Leads will keep these conversations private and take action only with consent of the affected member. You may report this by direct messaging a lead on slack or twitter (list of leads can be found [here](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md)) or you can send an email to _dc[at]womenwhocode.com_.
+If you see or experience someone violating this code of conduct and would like support from the leadership, you can contact any member of our leadership in person or electronically. Leads will keep these conversations private and take action only with consent of the affected member. You may report this by direct messaging a lead on slack or twitter (list of leads can be found [here](https://github.com/wgxcodersdc/organization/blob/master/leadership-resources/our_leaders.md)) or you can send an email to organizers at wgxcoders dot org.
 
 When making a report, the following information is useful, but not required:
 
