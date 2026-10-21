@@ -3,7 +3,7 @@
 The following are a list of free resources that either our members have found useful or we've created for tech talks.
 
 ## Courses
-*  [Try Git (Codeschool)](https://www.codeschool.com/courses/try-git)
+*  [Git Playground (Coddy)](https://coddy.tech/playground/git)
 *  [Learn Git (Codecademy)](https://www.codecademy.com/learn/learn-git)
 *  [Learn Git Branching](http://learngitbranching.js.org/)
 
